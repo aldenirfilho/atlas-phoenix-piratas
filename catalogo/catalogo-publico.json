@@ -1,0 +1,756 @@
+[
+  {
+    "id": "obra-01",
+    "name": "Codex_Armagedom_XXX.docx",
+    "title": "Codex Armagedom XXX — A Aliança Eterna entre Elfos e Homens",
+    "theme": "Phoenix e Armagedom",
+    "summary": "Mitologia especulativa organizada em nove livros. A narrativa apresenta o trigésimo ciclo de ameaça à humanidade e uma aliança entre humanos e elfos, orientada por honra, amor e não dominação. O Graal deixa de ser um cálice para representar a vitalidade: sentir, recordar, criar vínculos e escolher. Igrejas, calendários e referências à física são incorporados como elementos de cenário. A cosmologia descreve degraus de consciência, universos e wanderers, personagens capazes de atravessar portais. O encerramento interpreta essas imagens como defesa da sensibilidade, do mérito e da consulta a mais de uma fonte. A própria obra declara seu caráter ficcional e inclui um apêndice para separar invenção de referências históricas ou científicas.",
+    "keypoints": [
+      "Armagedom XXX é um ciclo narrativo de crise e decisão.",
+      "O Graal simboliza a vitalidade humana e os vínculos.",
+      "A Aliança recusa tutela e dominação, inclusive quando justificadas como proteção.",
+      "Elfos, portais, profecias e degraus são componentes inventados do cenário.",
+      "As referências reais não demonstram a cosmologia ficcional."
+    ],
+    "publicTreatment": "Texto público revisado; original integral no acervo pessoal.",
+    "words": 3581,
+    "sha256": "f98f6769c14456b51abc3f31fadac9fbb0baaf613ec5f795820ff17d8939b4b0",
+    "related": [
+      "obra-08",
+      "obra-09",
+      "obra-21"
+    ]
+  },
+  {
+    "id": "obra-02",
+    "name": "CODEX_PHOENIX_360X_Manual_Inter_AI_v1.0.docx",
+    "title": "Codex Phoenix 360X — Manual Inter-AI v1.0",
+    "theme": "Phoenix e Armagedom",
+    "summary": "Manual extenso que organiza o universo Phoenix em dois mundos narrativos e dez Escolas complementares. Magia torna-se linguagem para imaginação, tecnologia, estudo, cooperação e ação verificável. Cada Escola recebe virtude, sombra, símbolos, função e treino corretivo. A seleção combina atributos, cenários, IEC e uma camada simbólica recreativa, produzindo Casas Primária, Secundária, Sombra e Emergente. O volume inclui ficha do ouvinte, protocolos de decisão, quests flexíveis, treino social de sete dias, Ordem dos Avessos e economia da suficiência. Também oferece um protocolo para transmissão entre IAs, casos, questões, flashcards e formulários. Seu eixo comum é desenvolver capacidades com consentimento, revisão e responsabilidade humana, mantendo a realidade verificável acima da narrativa.",
+    "keypoints": [
+      "Dez Escolas distribuem funções e expõem riscos de excesso.",
+      "A composição sugerida é 45% atributos, 35% cenários, 10% IEC e 10% símbolos.",
+      "Sombra é tensão de manejo, sem equivalência com maldade ou diagnóstico.",
+      "FÊNIX-5 separa fato, interpretação, evidência, alternativa e ação.",
+      "Meta Zero preserva direção por quests sem transformar ausência em dívida."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 304,
+    "sha256": "27acf05f813fc64071cd45e6672cb42cbe6fca7832c5259010246e948ff936e2",
+    "related": [
+      "obra-03",
+      "obra-04",
+      "obra-05",
+      "obra-25",
+      "obra-27"
+    ]
+  },
+  {
+    "id": "obra-03",
+    "name": "CODEX_PHOENIX_360X_Mestre_v1.1.pdf",
+    "title": "Codex Phoenix 360X — Mestre v1.1 (PDF)",
+    "theme": "Phoenix e Armagedom",
+    "summary": "Edição em PDF que preserva a base do Manual Inter-AI v1.0 e acrescenta um módulo para conduzir sessões de RPG. O Mestre apresenta situações e consequências, enquanto os participantes mantêm autoria, consentimento e direito de saída. A Sessão Zero define tom, limites, privacidade e formas de participação. Métodos como MESTRE, CENA-5 e ROTA organizam preparação, cenas e improviso. Testes opcionais com dois dados, relógios de tensão e múltiplas pistas mantêm a aventura em movimento. A campanha pronta O Farol das Dez Vozes explora pluralidade e governança do conhecimento. O volume inclui desafios das Escolas, personagens, questões, flashcards, formulários e um console Inter-AI com origem e estado das informações explicitados.",
+    "keypoints": [
+      "Segurança, consentimento e autonomia precedem cânone e dramaticidade.",
+      "Dados não escolhem crenças, intimidade ou consentimento.",
+      "Falhas devem criar custo, informação ou nova rota.",
+      "O Farol das Dez Vozes transforma exclusão e concentração de voz em dilemas de jogo.",
+      "Uma sugestão de IA só entra no cânone após aprovação humana."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 295,
+    "sha256": "bfbfbb984925f73617d4ab31aa79482c0b8aa390a9365af1420be264fcf73bcd",
+    "related": [
+      "obra-02",
+      "obra-04",
+      "obra-27"
+    ]
+  },
+  {
+    "id": "obra-04",
+    "name": "CODEX_PHOENIX_360X_Modulo_do_Mestre_v1.1.docx",
+    "title": "Codex Phoenix 360X — Módulo do Mestre v1.1 (DOCX)",
+    "theme": "Phoenix e Armagedom",
+    "summary": "Versão editável do manual ampliado de Phoenix, equivalente em conteúdo ao PDF da obra 03. Além do atlas e do material do jogador, acrescenta preparação de sessões, ferramentas de consentimento, construção de cenas, consequências proporcionais e continuidade de campanhas. Sua contribuição principal é transformar regras éticas abstratas em decisões de facilitação: oferecer escolhas reais, anunciar riscos, respeitar pausas e evitar que resultados de dados retirem autonomia. O módulo descreve máscaras de excesso das dez Escolas, personagens não jogadores, relógios narrativos e uma aventura completa. A transferência entre IAs preserva propostas, fatos confirmados, segredos, lacunas e revisões. Encerra com exercícios e fichas para registrar o que mudou, onde a sessão parou e como retomá-la.",
+    "keypoints": [
+      "Formato editável do mesmo módulo apresentado no PDF 03.",
+      "MESTRE estrutura missão, escolha, segurança, tensão, reversibilidade e encerramento.",
+      "CENA-5 localiza contexto, escolha, tensão, ação e mudança.",
+      "Pausar ou sair não gera penalidade narrativa.",
+      "O checkpoint reduz a quantidade de contexto que precisa ficar na memória."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 304,
+    "sha256": "31dd630e3fbbbe3512247e17fe8f7a6cffdc39d3306dca84a8b42ddc0ebce0ce",
+    "related": [
+      "obra-02",
+      "obra-03",
+      "obra-20"
+    ]
+  },
+  {
+    "id": "obra-05",
+    "name": "CODEX_PHOENIX_360X_Universo_RPG_Inter_AI.docx",
+    "title": "Codex Phoenix 360X — Universo RPG e Protocolo Inter-AI",
+    "theme": "Phoenix e Armagedom",
+    "summary": "Reconstrução ampla que organiza o universo em onze partes e distingue explicitamente Casa Funcional de Casa Narrativa. A primeira utiliza comportamento e exemplos; a segunda usa símbolos recreativos para estética e origem do personagem. O inventário funcional tem vinte itens, dois por Escola, com pontuação de zero a quatro. A obra também descreve IEC, balanço entre virtude e sombra, recrutamento voluntário, governança de times e níveis de participação. A Ordem dos Avessos reúne acesso, proteção e economia da suficiência. O manual pessoal, o treino social e o protocolo Inter-AI convertem conceitos em ações curtas e revisáveis. Casos, questões e apêndices reforçam a separação entre imaginação, informação e decisão real.",
+    "keypoints": [
+      "Casa Funcional e Casa Narrativa são resultados separados.",
+      "Dois itens por Escola geram escore de 0 a 100.",
+      "Diferença inferior a 8 pontos é descrita como Dupla Primária.",
+      "O IEC é uma preferência recreativa, sem uso diagnóstico.",
+      "A classificação deve explicitar confiança, exemplos e limites."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 301,
+    "sha256": "8e14acf6a93ca15f1b948601dae30ca7b7aae956b56105aeb26a2644f110155f",
+    "related": [
+      "obra-02",
+      "obra-13",
+      "obra-25",
+      "obra-27"
+    ]
+  },
+  {
+    "id": "obra-06",
+    "name": "Codigo_Cosmico_Piratas_do_Infinito_ARMAGEDOM_XXX_Turbo_360X_v2.0.docx",
+    "title": "Código Cósmico — Piratas do Infinito, ARMAGEDOM XXX, v2.0 integrada",
+    "theme": "Piratas do Infinito",
+    "summary": "A versão 2.0 conserva o núcleo de 36 leis da versão 1.0 e acrescenta o Mundo de Magia, as Dez Casas do Phoenix Covenant e o Mapa Astral RPG. O argumento central separa dignidade, que é incondicional, de mérito, que amplia confiança e responsabilidade sem autorizar domínio sobre pessoas. Gratidão, carisma e produtividade são avaliados pelo efeito concreto sobre liberdade, dano e reparação. As Casas funcionam como lentes complementares e a decisão final permanece humana. O perfil Phoenix–Aurion–Ignis–Logos aparece como provisório e revisável. FAROL, RASTRO, LEME, casos, vinte questões e trinta flashcards convertem o cânone em exercício de reflexão. Magia, astrologia e fortuna permanecem recursos ficcionais, sem valor de diagnóstico ou previsão.",
+    "keypoints": [
+      "36 leis compartilhadas com a obra-07; a ampliação principal integra Casas e Mapa Astral RPG.",
+      "Dignidade universal e maior responsabilidade de quem possui mais poder.",
+      "Piratas são corrente transversal, não uma décima primeira Casa.",
+      "FAROL prepara; RASTRO examina consequências; LEME orienta a correção.",
+      "Perfil recreativo revisável, com posições astrológicas não calculadas mantidas ausentes.",
+      "Dez figuras, vinte questões comentadas e trinta flashcards."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 318,
+    "sha256": "8b860f4ba6bf0f2161726250fe4e3262f1a28072c7afc36ece213698979a5670",
+    "related": [
+      "obra-07",
+      "obra-28",
+      "obra-29",
+      "obra-32"
+    ]
+  },
+  {
+    "id": "obra-07",
+    "name": "Codigo_Cosmico_Piratas_do_Infinito_Turbo_360X_v1.0.docx",
+    "title": "Piratas do Infinito — Código Cósmico da Honra, do Mérito e da Perspicácia Circunstancial, v1.0",
+    "theme": "Piratas do Infinito",
+    "summary": "Este manual organiza a filosofia dos Piratas do Infinito em 36 leis, uma mecânica narrativa de mérito e recursos de aprendizagem ativa. Seu problema inicial é a injustiça de premiar aparência de gratidão enquanto se condena a indignação de quem sofreu dano. A resposta distingue conduta, personalidade, reação e reparação: delicadeza não comprova bondade e o tom de protesto não elimina o fato original. O livro desenvolve coragem responsável, ajuda ajustada à necessidade, autoria, autonomia, consentimento e limites da autoridade. Fortuna Meritória representa oportunidades, nunca garantia de dinheiro, afeto ou vitória. Sete casos ficcionais, vinte questões comentadas, trinta flashcards e revisão espaçada permitem praticar os critérios. É a base mais compacta do conjunto ético ampliado nas demais edições.",
+    "keypoints": [
+      "36 leis com essência, proteção, aplicação e falha típica.",
+      "Dois Livros: ação original e reação recebem análises separadas.",
+      "Escada da Ajuda: resgate, estabilização, capacitação, oportunidade e parceria.",
+      "Três Verificadores: Rastro, Liberdade e Realidade.",
+      "Fortuna é mecânica narrativa, não medida do valor humano.",
+      "Vinte questões e trinta flashcards para revisão."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 314,
+    "sha256": "c3f431a64417e5dac825ccb31d0a2cdd42720a3bc1d54fd052eb93496bd7408a",
+    "related": [
+      "obra-06",
+      "obra-28",
+      "obra-29",
+      "obra-32"
+    ]
+  },
+  {
+    "id": "obra-08",
+    "name": "codigo_dos_planos_armagedom_xxx.docx",
+    "title": "Código dos Planos — Armagedom XXX (DOCX)",
+    "theme": "Ética e fronteiras",
+    "summary": "Estatuto que organiza quatro planos de leitura: material, interior, relacional e mágico-ficcional. A experiência interior pode ter significado sem provar um acontecimento externo, e uma narrativa só inspira ação depois de verificação, consentimento e avaliação de consequências. Doze mandamentos ligam limites de poderes ficcionais a compromissos humanos: preservar vida, evitar dominação, respeitar autonomia, diferenciar proteção de vingança e reparar danos. O documento distingue classes de magia e níveis de autorização dentro do cenário. Fora dele, trata de saúde, família, sexualidade, dinheiro, justiça e responsabilidade profissional. Os protocolos PONTE e PAUSA funcionam como formas de organizar perguntas, desacelerar interpretações e manter as decisões reais submetidas a fatos e apoio adequado.",
+    "keypoints": [
+      "Material descreve consequências; interior, significado; relacional, autonomia; mágico, invenção.",
+      "Uma emoção válida não comprova a explicação atribuída a ela.",
+      "Desejo não cria direito sobre outra pessoa.",
+      "Todo poder ficcional informa custo, alcance, duração e responsabilidade.",
+      "A reparação começa pela interrupção do dano."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 285,
+    "sha256": "c9f02270546b268c78e5b7130b0b3ffbaadf8322ee0093bf4a6e65e3a99e0ddf",
+    "related": [
+      "obra-01",
+      "obra-09",
+      "obra-10",
+      "obra-21"
+    ]
+  },
+  {
+    "id": "obra-09",
+    "name": "codigo_dos_planos_armagedom_xxx.pdf",
+    "title": "Código dos Planos — Armagedom XXX (PDF)",
+    "theme": "Ética e fronteiras",
+    "summary": "Apresentação em PDF do Código dos Planos, com o mesmo núcleo conceitual da versão editável da obra 08. A organização visual separa o campo material dos campos interior, relacional e mágico-ficcional. O estatuto examina como imaginação, fé e desejo podem oferecer sentido sem criar autoridade sobre fatos ou pessoas. Seus mandamentos associam liberdade, consentimento, proporcionalidade e reparação aos limites da magia dentro da história. As seções práticas abordam decisões com consequências concretas e incluem perguntas para distinguir fato, hipótese e símbolo. Os exemplos com sonhos, música, oração, atração e conflitos ensinam que inspiração e evidência cumprem funções diferentes. A leitura é especialmente útil como referência rápida para compreender a fronteira ética de Armagedom XXX.",
+    "keypoints": [
+      "Mesma obra de 08 apresentada em PDF.",
+      "A fronteira entre sentido pessoal e comprovação externa é central.",
+      "Profecias ficcionais oferecem possibilidades, sem determinar culpados.",
+      "Poder e segredo aumentam responsabilidade, sem produzir superioridade.",
+      "O juramento final integra fé, razão e imaginação em funções distintas."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 293,
+    "sha256": "a3731ff593b099daddd74d0335d7be55df2909473c4acc59c6a3e96e8ef5c9ea",
+    "related": [
+      "obra-08",
+      "obra-10",
+      "obra-21"
+    ]
+  },
+  {
+    "id": "obra-10",
+    "name": "codigo_pessoal_honra_justica_vida_aldenir.pdf",
+    "title": "Código Pessoal de Honra, Justiça e Vida",
+    "theme": "Ética e fronteiras",
+    "summary": "Manifesto breve em doze compromissos pessoais que combina fé, desejo, trabalho, família e responsabilidade. O ponto de partida é reconhecer a condição humana sem exigir perfeição ou sacrifício permanente como prova de valor. Preservar a vida e distinguir realidade de metáfora sustentam os demais compromissos. O texto trata de cuidar de familiares sem se destruir, buscar justiça sem vingança, viver sexualidade com consentimento e amar sem possuir. Autonomia patrimonial, descanso, cuidado de saúde e revisão independente aparecem como formas de proteção. A liderança é definida por serviço e capacidade de corrigir a rota. A nota inicial esclarece que o pacto organiza valores escolhidos e não fala em nome de Deus nem comprova missão cósmica.",
+    "keypoints": [
+      "Dignidade não depende de perfeição ou exaustão.",
+      "Cuidar de quem se ama inclui preservar os próprios limites.",
+      "Amor e desejo não conferem posse.",
+      "Paternidade é decisão compartilhada e responsabilidade concreta.",
+      "Humildade exige corrigir escolhas quando fatos as contradizem."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 274,
+    "sha256": "042842736099ab7e40fe1c21ef694a320b06e4a0d81d12740b55fc16f5eeca58",
+    "related": [
+      "obra-08",
+      "obra-09",
+      "obra-20"
+    ]
+  },
+  {
+    "id": "obra-11",
+    "name": "CONURBACAO_2026_ARMAGEDOM_XXX_Anonymous_Iluminados_Maconaria_Alfheim_Turbo_TEMI_360X_v1_0.docx",
+    "title": "Conurbação 2026 — Anonymous, Iluminados, Maçonaria e Álfheim, v1.0 (Word)",
+    "theme": "Conurbação e sociedade",
+    "summary": "A Conurbação aproxima acontecimentos históricos reivindicados pelo documento, transformações ficcionais no ARMAGEDOM XXX e símbolos do mundo interior. Anonymous inspira a Legião Sem Rosto; a Maçonaria, os Construtores da Pedra Polida; a Ordem dos Iluminados, a Lâmpada de Ingolstadt. A crença em controle oculto total aparece como antagonista conceitual, a Névoa, e não como acusação contra grupos reais. O Álfheim Interior reúne guardiões simbólicos da verificação. Cinco leis discutem anonimato, conhecimento, mérito, adiamento da interpretação e incerteza. Um calendário de 2026 combina efemérides, episódios de campanha e atividades pessoais. O texto substantivo corresponde ao Markdown obra-12. Datas e alegações externas são preservadas como conteúdo da fonte, sem validação independente nesta síntese.",
+    "keypoints": [
+      "Camadas documental reivindicada, ficcional e simbólica.",
+      "Legião Sem Rosto é legado contestado, sem representação autorizada de todo Anonymous.",
+      "Construtores e Lâmpada são adaptações narrativas.",
+      "Névoa é antagonista conceitual, não inimigo real.",
+      "Cinco leis: Máscara, Lâmpada, Pedra, Limiar e Névoa.",
+      "Mesmo núcleo substantivo das obras-12/30."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 295,
+    "sha256": "f3f5f7ed0c0a439394c728283cbba88e4be322eb7d3193a207d786f30035058c",
+    "related": [
+      "obra-12",
+      "obra-30",
+      "obra-32",
+      "obra-06"
+    ]
+  },
+  {
+    "id": "obra-12",
+    "name": "CONURBACAO_2026_ARMAGEDOM_XXX_Turbo_TEMI_360X_v1_0.md",
+    "title": "Conurbação 2026 — ARMAGEDOM XXX, v1.0 (Markdown)",
+    "theme": "Conurbação e sociedade",
+    "summary": "Esta é a apresentação em Markdown da Conurbação 2026, com tabelas, glossário, comparações, calendário, questões e flashcards. Seu fio condutor é o segredo: identidade protegida, tradição reservada e hierarquia são examinadas por responsabilidade, acesso ao conhecimento e possibilidade de contestação. A sessão ficcional da Convergência distribui formas limitadas de representação e preserva controvérsias. O calendário justapõe referências históricas, acontecimentos inventados e tarefas pessoais, exigindo que essas categorias permaneçam separadas. O texto é substantivamente equivalente à edição Word e quase idêntico à obra-30. Na comparação direta, a cópia de restauração modifica apenas o nome do arquivo e uma quebra de linha no subtítulo, sem acrescentar argumento, regra ou capítulo. Um único exemplar cobre seu conteúdo de estudo.",
+    "keypoints": [
+      "Sete partes, tabelas, cinco questões e dez flashcards.",
+      "Segredo como organização de identidade, ritual e poder.",
+      "Convergência distribui memória sem criar Casa dominante.",
+      "Três Selos: resultado, autonomia e verificação.",
+      "Calendário aproxima história, ficção e atividades sem demonstrar causalidade.",
+      "Quase duplicata da obra-30 e correspondente textual da obra-11."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 300,
+    "sha256": "691b900b80483288320935438d98b5e3184de1b5f54a1606f0c177da82f2c2a8",
+    "related": [
+      "obra-11",
+      "obra-30",
+      "obra-32"
+    ]
+  },
+  {
+    "id": "obra-13",
+    "name": "FICHA_UNIVERSAL_PHOENIX_360X_Preenchivel.docx",
+    "title": "Ficha Universal Phoenix Covenant 360X — Preenchível",
+    "theme": "Prática e organização",
+    "summary": "Formulário que transforma o universo Phoenix em um registro breve, voluntário e revisável. Reúne identificação, símbolos opcionais, oito atributos comportamentais, cinco eixos do IEC, cenários de estilo e resultado explicado. A proposta usa 70% para atributos e cenários, 20% para IEC e 10% para a camada simbólica. O resultado inclui escolas principal e secundária, margem, hipótese alternativa e sombra apoiada em um exemplo observável. Missão, proteção, desafio e guia conectam a ficha a uma quest de dois a dez minutos, com término, evidência e responsável definidos. Consentimento e revisão aparecem antes e depois do preenchimento. O formulário rejeita usos clínicos, jurídicos, financeiros ou classificações de valor humano.",
+    "keypoints": [
+      "Preenchimento opcional, consentido e revisável.",
+      "Atributos e cenários devem ter exemplos comportamentais.",
+      "IEC descreve estilo recreativo e recebe peso proposto de 20%.",
+      "Margem inferior a 3 pontos indica perfil híbrido nesta ficha.",
+      "A saída termina em ação pequena com evidência e ponto de parada."
+    ],
+    "publicTreatment": "Texto público revisado; original integral no acervo pessoal.",
+    "words": 1436,
+    "sha256": "de7d475c5e7fc396a018c8bbe1919a133979d877af9c4d2fa61c3fba332b2740",
+    "related": [
+      "obra-05",
+      "obra-20",
+      "obra-25",
+      "obra-27"
+    ]
+  },
+  {
+    "id": "obra-14",
+    "name": "fig1_planos.png",
+    "title": "Conurbação dos planos — mapa visual",
+    "theme": "Conurbação e sociedade",
+    "summary": "Registro editorial de uma figura do acervo sobre quatro planos de leitura: material, interior, relacional e ficcional. A distinção principal é que uma experiência subjetiva ou um símbolo pode ter significado sem comprovar acontecimento externo. Esta edição pública oferece uma descrição didática do conteúdo; os pixels da figura original permanecem no acervo pessoal.",
+    "keypoints": [
+      "O tema da figura deve ser interpretado no contexto da Conurbação.",
+      "A camada ficcional não comprova acontecimentos ou mecanismos reais."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 190,
+    "sha256": "c1d5261580f3bbf07cefd61c1295a5bfd2a2c7f85e3a6733ec3e2687190622d8",
+    "related": [
+      "obra-11",
+      "obra-12",
+      "obra-30"
+    ]
+  },
+  {
+    "id": "obra-15",
+    "name": "fig2_calendario2026.png",
+    "title": "Calendário sincronizado 2026 — mapa visual",
+    "theme": "Conurbação e sociedade",
+    "summary": "Registro editorial de uma figura do acervo que aproxima datas do calendário de 2026 e arcos narrativos da Conurbação. A associação entre efeméride e evento ficcional serve à organização de campanha e não demonstra causalidade. Esta edição pública apresenta uma descrição do tema; a imagem original e a agenda pessoal não são reproduzidas.",
+    "keypoints": [
+      "O tema da figura deve ser interpretado no contexto da Conurbação.",
+      "A camada ficcional não comprova acontecimentos ou mecanismos reais."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 196,
+    "sha256": "98168018b10f07736134fc16b0e3697a686ad5d3c6c79f227b08d72c5322f28f",
+    "related": [
+      "obra-11",
+      "obra-12",
+      "obra-30"
+    ]
+  },
+  {
+    "id": "obra-16",
+    "name": "Guia_de_Materiais_Phoenix_Aldenir_v1.0.docx",
+    "title": "Guia de Materiais Phoenix–Aurion–Ignis v1.0",
+    "theme": "Prática e organização",
+    "summary": "Guia pessoal de objetos organizacionais que traduz símbolos em funções simples: reunir materiais, distinguir fatos de decisões e lembrar pausas. A proposta começa pelo reaproveitamento do que já existe, com caderno, caneta, ficha e cronômetro do celular. Apresenta também um núcleo operacional e complementos narrativos opcionais, sempre subordinados ao uso observado. O ritual de três minutos escolhe um objeto útil, registra fato e próximo passo e encerra com limite de tempo. A utilidade é avaliada pela redução de perdas, clareza dos registros e facilidade de parar. O documento registra preços de agosto de 2026 e orienta comparação do total entregue. Não há necessidade de compra para iniciar nem atribuição de proteção sobrenatural aos materiais.",
+    "keypoints": [
+      "Primeiro plano: reutilização e custo zero.",
+      "Um estojo concentra objetos e reduz dispersão.",
+      "Cores diferenciam fatos, sínteses e próximos passos.",
+      "Complementos só entram depois de teste de uso.",
+      "Preços são registros históricos de pesquisa, não ofertas atuais."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 288,
+    "sha256": "f5cc4e52d4bddf9282a8b3ce7ba25b8e32cc35bb0a0a57fb1ce0207c21a242dd",
+    "related": [
+      "obra-13",
+      "obra-17",
+      "obra-20"
+    ]
+  },
+  {
+    "id": "obra-17",
+    "name": "GUIA_PHOENIX_ITENS_E_UTENSILIOS_MAGICOS_2026-08-23.docx",
+    "title": "Guia Phoenix — Itens e Utensílios Mágicos Úteis",
+    "theme": "Prática e organização",
+    "summary": "Manual de organização que separa um plano cronológico, de data e evidência, de um plano simbólico, de cores e Casas. Propõe fichário, timer, fichas, vela LED e caixa como infraestrutura de uma quest limitada. Cada objeto tem função concreta: registrar, tornar o tempo visível, reduzir uma missão a um verbo e guardar o sistema em um único lugar. O fluxo integrado prepara em dois minutos, executa por um bloco escolhido e encerra com resultado e próxima ação. Selos das Casas servem para lembrar a capacidade exigida pela tarefa, enquanto Chronos registra tempo e conclusão. A pesquisa de preços é datada e os opcionais dependem de teste prévio. Interromper, delegar ou descartar são encerramentos legítimos.",
+    "keypoints": [
+      "Plano cronológico registra o que ocorreu; plano simbólico dá linguagem ao treino.",
+      "Cada ficha contém uma ação e uma definição de concluído.",
+      "Uma Casa é escolhida pela competência necessária à tarefa.",
+      "Timer e registro tornam início e saída visíveis.",
+      "A caixa cria um endereço único para recuperar o conjunto."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 310,
+    "sha256": "6d23319a43398340ea6dbc3110892c2d3fcf01cb42c0fd567d833b62d1838838",
+    "related": [
+      "obra-13",
+      "obra-16",
+      "obra-20"
+    ]
+  },
+  {
+    "id": "obra-18",
+    "name": "Linkin_Park_Dragon_Ball_Piratas_do_Infinito_Nova_Era_Turbo_TEMI_360X_FINAL.docx",
+    "title": "Linkin Park × Dragon Ball × Piratas do Infinito: Nova Era da Dignidade",
+    "theme": "Música e escuta",
+    "summary": "A obra integra história do Linkin Park, evolução de Dragon Ball e reflexão sobre arte, emoção e aprendizagem. A música é examinada por timbre, ritmo, contraste e memória; os personagens oferecem modelos simbólicos de treino, escolha, cooperação e responsabilidade. A extensão literária apresenta os Piratas do Infinito e a Nova Era da Dignidade como ficção ética: verdade, cuidado, justiça proporcional e prestação de contas limitam o uso da força. Os roteiros M.A.G.I.A. e Navegação 32 traduzem essa reflexão em passos de observação e ação. A relação entre banda e anime é uma interpretação do projeto, sem intenção autoral comum comprovada ou validade clínica.",
+    "keypoints": [
+      "Linkin Park combina rock, rap e eletrônica; a complementaridade entre Chester e Mike é apresentada como leitura estética.",
+      "Goku, Vegeta, Gohan, Piccolo e Trunks funcionam como arquétipos de aprendizagem, revisão moral, escolha, vínculo e ação.",
+      "A extensão literária subordina força a dignidade, consentimento, verdade e prestação de contas.",
+      "Emoções são informações a considerar, não provas factuais nem ordens externas.",
+      "A Parte VIII é o principal acréscimo em relação à obra-19."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 351,
+    "sha256": "e25a2228cdf64bf427780d106cffb27baca8d83ee9fa124b3990285385ce3fd3",
+    "related": [
+      "obra-19",
+      "obra-22",
+      "obra-33"
+    ]
+  },
+  {
+    "id": "obra-19",
+    "name": "Linkin_Park_Dragon_Ball_Turbo_TEMI_360X.docx",
+    "title": "Linkin Park × Dragon Ball: música, transformação e continuidade",
+    "theme": "Música e escuta",
+    "summary": "O guia apresenta formação, discografia e arquitetura sonora do Linkin Park, acompanhadas de leituras temáticas de canções. Dragon Ball é estudado por fases e por personagens usados como exemplos de curiosidade, comparação, escolha, mentoria e responsabilidade. O eixo pedagógico distingue efeito emocional, interpretação e execução: música e narrativa podem inspirar, mas uma tarefa exige ação e revisão. Flashcards, questões e roteiros de estudo completam a proposta. A obra-18 preserva esse núcleo cultural e acrescenta uma construção literária sobre dignidade e legado. Esta edição pública apresenta os conceitos e não reproduz contextualização autobiográfica.",
+    "keypoints": [
+      "Organiza a história do Linkin Park em fases sonoras, sem limitar sua identidade aos dois primeiros álbuns.",
+      "Distingue o significado temático das letras do efeito que timbre, ritmo e dinâmica podem produzir.",
+      "Dragon Ball é usado como repertório simbólico; nenhum personagem é apresentado como modelo integral de prudência.",
+      "A morte de Chester não deve transformar canções em diagnósticos ou profecias.",
+      "O uso proposto da música tem começo, tarefa e critério de conclusão.",
+      "A obra-18 preserva quase todo este núcleo e acrescenta a construção ética e literária."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 333,
+    "sha256": "ff54f7dafded3f4e487f9a99ab9bc159ff56429e1a7129bbae5e8eff0f9ea8a5",
+    "related": [
+      "obra-18",
+      "obra-24",
+      "obra-33"
+    ]
+  },
+  {
+    "id": "obra-20",
+    "name": "MANUAL_INICIACAO_PHOENIX_360X_ALDENIR.docx",
+    "title": "Manual de Iniciação Phoenix Covenant 360X",
+    "theme": "Prática e organização",
+    "summary": "Percurso ficcional de sete dias em que portais representam habilidades de aprendizagem: separar fato de interpretação, concluir uma ação pequena, verificar fontes, pausar, ouvir contraponto, servir com limites e reunir o aprendizado. A regra 1–1–1 combina uma quest, um cronômetro e um ponto de retomada, sem penalidade por interrupções. A proposta distingue jogo de atividades profissionais e mantém decisões reais submetidas a evidência, consentimento e responsabilidade. Na edição pública, o percurso é apresentado como ferramenta narrativa geral, sem dados de identificação ou perfil natal.",
+    "keypoints": [
+      "Sete portais correspondem a habilidades, não poderes.",
+      "Quest deve ser pequena, voluntária, reversível e delimitada.",
+      "Um dia perdido não exige compensação.",
+      "O modo plantão encerra a narrativa durante assistência clínica."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 241,
+    "sha256": "e6280cae066e99fa404bbc97e665ccc4f72c5abc7c795bbd5f3ccd276ee46ce5",
+    "related": [
+      "obra-10",
+      "obra-13",
+      "obra-16",
+      "obra-17",
+      "obra-25"
+    ]
+  },
+  {
+    "id": "obra-21",
+    "name": "manual_reconhecimento_sobrevivencia_entre_planos_armagedom_xxx.docx",
+    "title": "Manual de Reconhecimento e Sobrevivência entre os Planos",
+    "theme": "Ética e fronteiras",
+    "summary": "Manual de Armagedom XXX que distingue o plano cronológico-material do mágico-ficcional e propõe quatro perfis exclusivamente narrativos: Operante, Latente, Erudito e Leigo. A matriz cruza poder confirmado na história com conhecimento do sistema, sem criar hierarquia de dignidade. Prontidão, consentimento e supervisão são independentes do poder. O documento explica testes e cooperação dentro do cenário, mas traduz a vida cotidiana em habilidade demonstrada, conhecimento teórico, formação e condutas observáveis. Confiança gradual depende de respeito a limites e possibilidade de conferência, sem identificação de aliados ou inimigos por sinais. Os exemplos separam sonhos, coincidências e experiências subjetivas de conclusões externas, e os protocolos organizam verificação, retirada, apoio e responsabilidade.",
+    "keypoints": [
+      "Os quatro perfis são combinações ficcionais de poder e conhecimento.",
+      "Capacidade, prontidão e autoridade moral não são equivalentes.",
+      "Eruditos e Leigos podem liderar sem possuir poder narrativo.",
+      "Confiança real depende de condutas observadas e revisão.",
+      "A fronteira impede classificar pessoas por sonhos, coincidências ou sensação de energia."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 296,
+    "sha256": "026bda8476335a07552a02f0a9939a6c462440b7c7ecbfe565aad41776d1093e",
+    "related": [
+      "obra-01",
+      "obra-08",
+      "obra-09",
+      "obra-10"
+    ]
+  },
+  {
+    "id": "obra-22",
+    "name": "Nirvana_Historia_Letras_Escuta_Turbo_TEMI_360X.docx",
+    "title": "Nirvana decodificado: história, letras e escuta ativa",
+    "theme": "Música e escuta",
+    "summary": "É a versão mais extensa do conjunto sobre Nirvana, com 28 dossiês de faixas, cinco laboratórios de escuta, 20 questões comentadas e 30 flashcards. Reconstrói origem, integrantes, discografia, produção e legado, explicitando divergências de datas e a contribuição de outros artistas. O principal avanço metodológico é separar semântica, resposta afetiva, recepção autobiográfica e ética de uso. Cada interpretação procura distinguir documentação, explicações do compositor e leituras abertas. O estudo musical observa riff, baixo, bateria, prosódia, dinâmica e espaços de silêncio, inclusive no Unplugged. O documento corrige simplificações sobre a autoria dos covers e evita reduzir Cobain ao suicídio. Também contextualiza temas sensíveis, como violência sexual, imagens de doença e o uso de Frances Farmer como símbolo de conflito institucional.",
+    "keypoints": [
+      "A escala 'confirmado, sustentado, aberto, frágil, mito' ensina a graduar interpretações.",
+      "A coragem sentida pelo ouvinte pode coexistir com letras ambivalentes ou sombrias.",
+      "Nirvana é estudado como parte de uma cena coletiva, não como inventor isolado do grunge.",
+      "O Unplugged reorganiza tensão e instrumentos; o formato não significa ausência absoluta de eletricidade.",
+      "Compositor, narrador e intérprete podem ser pessoas diferentes.",
+      "O material inclui precisão documental que complementa as versões 23, 24 e 31."
+    ],
+    "publicTreatment": "Texto público revisado; original integral no acervo pessoal.",
+    "words": 14939,
+    "sha256": "b604cdb3a40d3fbc6cdfbf93a939e3e6d610e2ff8a654fd1d8628ab5a446eee9",
+    "related": [
+      "obra-23",
+      "obra-24",
+      "obra-31",
+      "obra-18"
+    ]
+  },
+  {
+    "id": "obra-23",
+    "name": "Nirvana_Historia_Letras_Forca_de_Continuar_Turbo_TEMI_360X.docx",
+    "title": "Nirvana: história, letras e a força de continuar",
+    "theme": "Música e escuta",
+    "summary": "O guia oferece uma entrada mais curta no mesmo universo cultural: história em sete marcos, descrição dos integrantes, comparação dos discos, mapa de 14 músicas e seis decodificações aprofundadas. Explica a escrita por fragmentos, ironia e contradição, preservando espaço para interpretações concorrentes. O mnemônico CAOS organiza a experiência sonora em contenção, acúmulo, onda explosiva e soltura. A aplicação combina três laboratórios de escuta, pronúncia aproximada para brasileiros, casos didáticos, 20 questões comentadas e 25 flashcards. Sua contribuição específica é tornar o estudo progressivo e executável em pequenas sessões. A experiência pessoal de coragem é acolhida como recepção afetiva, enquanto o sentido das palavras continua sendo objeto de análise histórica e textual.",
+    "keypoints": [
+      "Distingue origem em Aberdeen da cena regional associada a Seattle.",
+      "Apresenta Bleach, Nevermind, In Utero e Unplugged como configurações sonoras diferentes.",
+      "Acrescenta Polly e On a Plain ao mapa resumido de canções.",
+      "CAOS é um mnemônico editorial de dinâmica musical, não escala clínica.",
+      "O inglês começa pelo título e pelo sentido, com pronúncia aproximada e reencontros curtos.",
+      "Questões e flashcards favorecem explicar sem consultar, em vez de apenas reler."
+    ],
+    "publicTreatment": "Texto público revisado; original integral no acervo pessoal.",
+    "words": 7108,
+    "sha256": "7ea1de105602a309e905e8b30eb9b22d9399371c5d54bbb00eeeb4808246ed2b",
+    "related": [
+      "obra-22",
+      "obra-24",
+      "obra-31"
+    ]
+  },
+  {
+    "id": "obra-24",
+    "name": "Nirvana_Historia_Significado_Forca_Emocional_Turbo_TEMI_360X.docx",
+    "title": "Nirvana: história, significado e força emocional",
+    "theme": "Música e escuta",
+    "summary": "Esta versão organiza o estudo em três caminhos: história e trajetória; som, emoção e significado; pronúncia e prática. O panorama vai dos primeiros projetos à explosão de Nevermind, à aspereza de In Utero e à reorganização de instrumentos no Unplugged. A análise sonora separa voz, baixo, bateria, guitarra, melodia e dinâmica, explicando como podem contribuir para a experiência de força. O atlas apresenta 13 canções com título, ano, pronúncia, tema, efeito musical possível e cuidado interpretativo. O documento propõe escutas sucessivas por instrumento e playlists por função, tratadas como sugestões pessoais. Sua utilidade no conjunto é fornecer uma narrativa contínua e um roteiro de observação, antes das análises mais longas e dos bancos de questões das outras versões.",
+    "keypoints": [
+      "O que a música diz e o que a música faz são perguntas relacionadas, mas distintas.",
+      "O conceito religioso de nirvana não funciona como chave biográfica de todas as letras.",
+      "Melodia e ruído convivem desde os primeiros trabalhos; a história não é uma troca simples entre autenticidade e mercado.",
+      "Cada verbete do atlas inclui um limite de interpretação.",
+      "Observar um instrumento por vez ajuda a perceber como o conjunto organiza a tensão.",
+      "Uma playlist deve ser avaliada pelo efeito efetivo, não por uma função fixa atribuída à faixa."
+    ],
+    "publicTreatment": "Texto público revisado; original integral no acervo pessoal.",
+    "words": 7058,
+    "sha256": "5578aa649856ee7a85fa36e03c949a2749fa2f1c6a1526aaae418eda88eb5fd9",
+    "related": [
+      "obra-22",
+      "obra-23",
+      "obra-31",
+      "obra-19"
+    ]
+  },
+  {
+    "id": "obra-25",
+    "name": "PHOENIX_COVENANT_360X_Mapa_Astral_RPG.docx",
+    "title": "Phoenix Covenant 360X — Mapa Astral RPG e Protocolo Inter-AI",
+    "theme": "Phoenix e Armagedom",
+    "summary": "Compilação identificada como PHX-COVENANT 6.0 que reúne cosmologia, dez Escolas, seleção, ética bíblica, manual pessoal e treino social. A Interface Áurea é apresentada como metáfora de tradução entre conhecimento e ação, enquanto a contaminação negra representa padrões de desinformação, manipulação e desumanização. O motor utiliza oito atributos e propõe 70% para atributos e cenários, 20% para IEC e 10% para símbolos; margens inferiores a três pontos geram perfil híbrido. O Conselho distribui tarefas diferentes entre IAs e mantém divergências explícitas. O livro amplia a Ordem dos Avessos e a economia da suficiência, com questões, flashcards e fichas. A versão mantém a responsabilidade humana e não transforma associação tecnológica em característica oficial das empresas.",
+    "keypoints": [
+      "O rótulo de versão é PHX-COVENANT 6.0.",
+      "Oito atributos e pesos 70/20/10 definem esta proposta.",
+      "A Bíblia funciona como bússola ética voluntária.",
+      "O Conselho distribui papéis em vez de repetir a mesma pergunta.",
+      "As referências a produtos de IA são nominais e datadas."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 309,
+    "sha256": "981e43f33a6e5efba4a740b7641960e5ad49d96448ebb11a07339d8c0a27f5ef",
+    "related": [
+      "obra-02",
+      "obra-05",
+      "obra-13",
+      "obra-26",
+      "obra-27"
+    ]
+  },
+  {
+    "id": "obra-26",
+    "name": "PHOENIX_COVENANT_360X_RECONSTRUIDO_v1.0.docx",
+    "title": "Phoenix Covenant 360X — Reconstruído v1.0",
+    "theme": "Phoenix e Armagedom",
+    "summary": "Reconstrução que apresenta o universo como atlas funcional, codex de 67 artigos e manual de campo. As Casas são lentes para reconhecer competências e riscos; níveis de N0 a N7 dependem de evidência local, honra e autoproteção. Aura reúne foco, fronteira, vínculo, recuperação e estratégia. Esta edição propõe explicitamente um significado alternativo para IEC: Índice de Equilíbrio Covenant, composto por verdade, honra, serviço, autoproteção e humildade. O documento organiza quatro camadas — fato, relato, metáfora e fé — e exige tradução explícita antes da ação. Phoenix Real usa blocos limitados e Phoenix Social desenvolve interação em sete dias. Passaporte, fichas e exercícios externalizam memória, limites e retomada sem atribuir autoridade moral à IA.",
+    "keypoints": [
+      "67 artigos condensam regras de sincronização e responsabilidade.",
+      "Os níveis são locais e temporários, com evidência antes do reconhecimento.",
+      "IEC significa Equilíbrio Covenant e é rotulado como reconstrução proposta.",
+      "Algumas Casas têm funções diferentes das demais compilações.",
+      "O bloco 20–1–1–0 usa vinte minutos, uma ação, uma observação e encerramento."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 303,
+    "sha256": "7bceaddd42ccbd919c2780044099097e3cf347aeb29071304dfa1a53d31b7ff2",
+    "related": [
+      "obra-02",
+      "obra-25",
+      "obra-27",
+      "obra-20"
+    ]
+  },
+  {
+    "id": "obra-27",
+    "name": "PHOENIX_COVENANT_TURBO_TEMI_360X_INTEGRADO_FINAL.docx",
+    "title": "Phoenix Covenant Turbo TEMI 360X — Integrado Final",
+    "theme": "Phoenix e Armagedom",
+    "summary": "Compilação ilustrada que integra Ordem dos Avessos, neurodiversidade, suficiência, cosmologia, dez Casas e manual pessoal. Usa dez atributos e uma fórmula de distância aos vetores das Casas, propondo pesos de 55%, 25%, 15% e 5%. A saída distingue Natureza, Competência, Pressão e Desenvolvimento, evitando resumir a pessoa a uma classificação única. Aura, carga, controle e direção recebem métricas recreativas que pretendem mostrar a necessidade de regular intensidade. O livro inclui níveis N0–N7, treino social, Passaporte e JSON de intercâmbio com campos ausentes e inferidos identificados. As IAs devem explicar divergências e devolver a responsabilidade ao humano. O anexo anuncia onze pranchas originais, e o encerramento apresenta um rótulo de versão diferente do corpo.",
+    "keypoints": [
+      "Dez atributos substituem os oito de outras propostas.",
+      "Pesos sugeridos: 55% comportamento, 25% cognição/cenários, 15% valores e 5% símbolos.",
+      "Quatro Casas distinguem tendências, competência, pressão e desenvolvimento.",
+      "Métricas de aura e potência são ficcionais, sem valor clínico.",
+      "O corpo usa 6.0 e o encerramento visual indica 6.1."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 301,
+    "sha256": "e8f5649964f128e9ff6d1b2ce68cfc9966d34ec327dafb98b42ba92152cd2866",
+    "related": [
+      "obra-05",
+      "obra-25",
+      "obra-26",
+      "obra-03",
+      "obra-04"
+    ]
+  },
+  {
+    "id": "obra-28",
+    "name": "Piratas_do_Infinito_Codigo_Cosmico_Turbo_TEMI_360X_COMPLETO_CONTINUADO_FINAL.docx",
+    "title": "Piratas do Infinito — Código Cósmico completo, expandido e continuado",
+    "theme": "Piratas do Infinito",
+    "summary": "A edição continuada apresenta uma constituição narrativa ampla: dezoito fundamentos, expansão da Fortuna Meritória, regras adicionais de governança e continuação da saga. O conjunto chega a 58 leis numeradas em algarismos romanos, seguido pelos capítulos 59 a 88 sobre magia, protagonista e protocolos. Entre os acréscimos estão contestação e apelação, proteção dos vulneráveis, privacidade, adaptação cultural e redenção sem apagamento do passado. Seis escolas de magia traduzem competências com limites explícitos. Uma primeira temporada é planejada em doze episódios sobre reconstrução material, cuidado familiar, relações, trabalho e conhecimento. A Ordem da Certeza funciona como antagonista conceitual do controle. Fichas e rotinas convertem a narrativa em planejamento reflexivo, sem garantir resultados reais.",
+    "keypoints": [
+      "58 leis e capítulos 59–88; arquitetura distinta do manual de 36 leis.",
+      "Contestação, privacidade e proporcionalidade ampliam a governança.",
+      "Seis escolas de magia representam competências narrativas limitadas.",
+      "Doze episódios são roteiro de temporada, não romance integral desenvolvido.",
+      "Reconstrução material, trabalho sustentável, vínculos e autonomia familiar.",
+      "Protocolos de indignação, ajuda, autoria, relações, restituição e hiperfoco."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 302,
+    "sha256": "197164db3a0eccb3ee5d6a7f4296aac18b1232d326d9161370b6604c30ec5acb",
+    "related": [
+      "obra-29",
+      "obra-07",
+      "obra-06",
+      "obra-32"
+    ]
+  },
+  {
+    "id": "obra-29",
+    "name": "Piratas_do_Infinito_Codigo_Cosmico_Turbo_TEMI_360x.docx",
+    "title": "Piratas do Infinito — Código Cósmico da Honra, Mérito e Fortuna Justa, Turbo TEMI 360x",
+    "theme": "Piratas do Infinito",
+    "summary": "Organizada em nove partes e sessenta capítulos, esta edição explica o universo como cosmologia literária, ética narrativa, jogo e experiências humanas transformadas em arquétipos. Cada capítulo oferece essência, explicação, aplicação e armadilha. O percurso vai de coragem, justiça e responsabilidade a conhecimento, trabalho, ajuda, relações e organização da energia. Fortuna Meritória associa oportunidades a condutas, mantendo dignidade fora da pontuação. O livro distingue acesso ao conhecimento, remuneração do trabalho e restrições proporcionais ao risco. Também propõe três rotas complementares: real, ética e narrativa, com prioridade da realidade nas decisões concretas. A mecânica de jogo reúne pontos, títulos e doze casos. Planos de sete, trinta e noventa dias mostram como fechar pequenas entregas e construir continuidade.",
+    "keypoints": [
+      "Nove partes e sessenta capítulos com essência, aplicação e armadilha.",
+      "Três rotas: real, ética e narrativa.",
+      "Conhecimento acessível, trabalho remunerável e dados sensíveis protegidos.",
+      "Autonomia pode coexistir com apoio contínuo.",
+      "Doze casos de conflito, autoria, liderança, relações, finanças e hiperfoco.",
+      "Planos de 7/30/90 dias para estabilidade, produto útil e expansão."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 306,
+    "sha256": "5af643ad0aba6a643b261ae9789b92551c7c7d21fec3675045da1c2b2e97d9d8",
+    "related": [
+      "obra-07",
+      "obra-06",
+      "obra-28",
+      "obra-32"
+    ]
+  },
+  {
+    "id": "obra-30",
+    "name": "RESTAURAÇAO .md",
+    "title": "Restauração — cópia Markdown da Conurbação 2026",
+    "theme": "Conurbação e sociedade",
+    "summary": "O arquivo de restauração preserva a mesma Conurbação 2026 da obra-12. Apresenta as camadas documental, ficcional e simbólica; a Legião Sem Rosto; os Construtores da Pedra Polida; a Lâmpada de Ingolstadt; o Álfheim Interior; e o antagonista conceitual da Névoa. Mantém calendário, cinco leis, exercícios, referências declaradas e ressalvas do documento-base. A comparação textual identificou apenas a troca do nome de arquivo e a divisão acidental da palavra Infinito no subtítulo. Não foi encontrada mudança de argumento, cronologia, resposta ou regra. Seu valor no acervo é de preservação e rastreabilidade da restauração, não de nova expansão temática. A leitura integral pode ser consultada separadamente sem duplicar o percurso de estudo.",
+    "keypoints": [
+      "Cópia substantivamente igual à obra-12.",
+      "Única mudança no corpo: quebra em “Piratas do Infinito”.",
+      "Sem novo capítulo, regra, evento ou exercício.",
+      "Mesmos limites das alegações históricas, legais, médicas e de calendário.",
+      "Pode ser mantida para conferência sem repetir a leitura sequencial."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 274,
+    "sha256": "5c58dbe9d788baf62c4f4331c51454f670e12fdebbc46bce3485e765c6ec6a20",
+    "related": [
+      "obra-12",
+      "obra-11"
+    ]
+  },
+  {
+    "id": "obra-31",
+    "name": "RESTAURACAO_NIRVANA_TURBO_TEMI_360X_v2.0.docx",
+    "title": "Restauração Nirvana v2.0: história, som, letras, catarse e legado",
+    "theme": "Música e escuta",
+    "summary": "A versão de restauração integra história, integrantes, discografia, anatomia sonora, temas de letras e trajetórias posteriores. Propõe rotas de consulta rápida, estudo central, leitura aprofundada, aplicação e revisão. Seu mapa de 24 músicas amplia a visão dos álbuns e inclui raridades de Incesticide, como Sliver, Aneurysm e Dive. Seis análises aprofundam faixas centrais, sempre distinguindo a leitura artística de prontuário, prescrição ou autobiografia literal. A aplicação reúne vocabulário em inglês, estruturas presentes em títulos, 20 flashcards, 20 perguntas abertas com gabarito orientador e um plano de escuta de 14 dias. Funciona como versão integrada e prática; a obra-22 acrescenta maior detalhamento sobre autoria, fontes, divergências e algumas faixas ausentes deste mapa.",
+    "keypoints": [
+      "Diferencia o que o compositor expressou, o que a documentação permite reconstruir e o sentido criado pelo ouvinte.",
+      "O legado é analisado nas dimensões musical, industrial e cultural.",
+      "Incesticide é compilação de origens variadas e uma porta para caminhos laterais do catálogo.",
+      "Sliver não significa silver; a observação transforma uma confusão de grafia em aprendizado.",
+      "O plano de 14 dias associa cada faixa a uma missão sonora e a poucas palavras.",
+      "O encerramento enfatiza catarse sem romantização do sofrimento."
+    ],
+    "publicTreatment": "Texto público revisado; original integral no acervo pessoal.",
+    "words": 8870,
+    "sha256": "ec1f5450788b4e34f4c1010adc7f4153598b422dda001d4d3bc015b8b731643d",
+    "related": [
+      "obra-22",
+      "obra-23",
+      "obra-24"
+    ]
+  },
+  {
+    "id": "obra-32",
+    "name": "RESTAURACAO_Piratas_do_Infinito_Mapa_Astral_Turbo_TEMI_360X_INTEGRADO.docx",
+    "title": "Restauração integrada — Piratas do Infinito, Mapa Astral e Atlas dos Legados",
+    "theme": "Piratas do Infinito",
+    "summary": "Esta integração reúne dezesseis partes e reorganiza o código ético, os protocolos e o RPG. Sua contribuição distintiva é separar Casas, Corrente Pirata e condição mágica: perfil não equivale a mérito, e mérito não depende de magia. A versão mantém dezoito leis fundamentais e desenvolve ajuda, autoria, relações, hiperfoco e decisões em capítulos próprios. O Atlas dos Legados reconhece trabalhadores, equipes, cuidadores e contribuidores anônimos por representantes explicitamente ficcionais. A Câmara do Convés introduz cinco cadeiras de memória para interrogar custos, exclusões e trabalho invisível. Graus documentais, contradições preservadas, consentimento, revisão e contestação limitam homenagens e classificações. É a ponte mais explícita deste conjunto entre ética pessoal, reconhecimento social e governança narrativa.",
+    "keypoints": [
+      "Dezesseis partes, dezoito leis fundamentais e integração temática.",
+      "Casas: funcionamento; Piratas: trajetória; magia: ferramenta opcional.",
+      "Atlas: históricos, vivos consentidos, coletivos, anônimos, artefatos, lugares e legados contestados.",
+      "Cinco cadeiras de memória interrogam cuidado, conhecimento, custos, exclusão e trabalho invisível.",
+      "Fontes, contexto, danos e revisão limitam as homenagens."
+    ],
+    "publicTreatment": "Síntese pública de estudo; original integral no acervo pessoal.",
+    "words": 298,
+    "sha256": "4038599119f7083d1d1c5c74e638ba889b4ead2c0d9350884227e1e385430ba9",
+    "related": [
+      "obra-06",
+      "obra-07",
+      "obra-28",
+      "obra-29",
+      "obra-11",
+      "obra-12"
+    ]
+  },
+  {
+    "id": "obra-33",
+    "name": "TDAH_dupla_excepcionalidade_IA_Turbo_TEMI_360X_FINAL.docx",
+    "title": "TDAH, dupla excepcionalidade e IA como apoio à organização",
+    "theme": "Prática e organização",
+    "summary": "O manual discute a coexistência possível de altas habilidades e dificuldades associadas ao TDAH, usando a imagem de picos e vales para distinguir compreensão de execução. Aborda mascaramento, irregularidade de desempenho, desenvolvimento assíncrono, aprendizagem, apoio familiar e uso de ferramentas externas. Sua parte operacional oferece uma matriz de dificuldades e apoios, o protocolo ADV 360, prompts, checklists e um plano inicial de sete dias. A IA aparece como metáfora de exoesqueleto cognitivo: ajuda a reduzir ambiguidade, decompor tarefas e produzir registros, mas também pode alimentar pesquisa sem fim. O ganho didático é substituir cobrança vaga por uma próxima ação observável. O texto é educativo e não estabelece diagnóstico individual; várias generalizações sobre perfis 2e precisam de leitura crítica.",
+    "keypoints": [
+      "Compreender uma tarefa e conseguir iniciá-la, organizar-se e concluí-la são capacidades que não se equivalem.",
+      "Altas habilidades e TDAH podem coexistir, mas nenhum dos dois pode ser deduzido apenas de desempenho irregular.",
+      "Apoios externos incluem agenda, checklist, lembretes, escopo definido e revisão curta.",
+      "A IA deve apoiar a formulação da tarefa e a verificação, com atenção ao risco de prolongar planejamento.",
+      "O material valoriza acordos concretos e respeito na ajuda de familiares, professores e colegas.",
+      "Tempos, metáforas e roteiros são propostas editoriais ajustáveis, não protocolo terapêutico validado."
+    ],
+    "publicTreatment": "Texto público revisado; original integral no acervo pessoal.",
+    "words": 5506,
+    "sha256": "41fedc57fdb4777452f8df326e92d8a48b1faacd5889f575660b3cafa6e1525f",
+    "related": [
+      "obra-18",
+      "obra-19",
+      "obra-23",
+      "obra-31"
+    ]
+  }
+]

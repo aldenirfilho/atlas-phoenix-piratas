@@ -1,0 +1,1890 @@
+{
+  "modules": [
+    {
+      "title": "Phoenix: da mitologia às competências",
+      "intro": "O conjunto usa duas linguagens complementares: Armagedom XXX constrói um mito de preservação da humanidade; Phoenix organiza capacidades, valores e tarefas em um RPG. A ponte entre elas é ética e literária. Compreender uma imagem narrativa não exige aceitá-la como explicação factual do mundo.",
+      "sections": [
+        {
+          "title": "O problema que une as histórias",
+          "body": "No Codex Armagedom XXX, a ameaça central é o esvaziamento daquilo que torna uma vida humana significativa: afeto, memória, escolha e vínculo. Elfos e homens precisam cooperar para preservar o Graal, imagem da vitalidade. A Aliança é limitada por uma regra decisiva: proteger não concede direito de governar o outro. O mito usa ciclos, igrejas, calendários e portais para dramatizar esse conflito.\n\nNos manuais Phoenix, o problema assume uma forma operacional: capacidades sem limites podem converter-se em centralização, dispersão, rigidez ou exploração. A solução é distribuir funções, verificar afirmações e produzir ações úteis. A ligação é uma interpretação didática do acervo: o Graal simboliza o que merece preservação; o Conselho organiza maneiras de cuidar disso. Os textos não demonstram uma cosmologia científica comum.",
+          "sources": [
+            "obra-01",
+            "obra-02",
+            "obra-08",
+            "obra-27"
+          ]
+        },
+        {
+          "title": "Dois mundos, quatro planos e quatro camadas",
+          "body": "Os manuais descrevem organizações diferentes. As obras 02, 05 e 25 usam mundo cotidiano e mundo místico para distinguir consequências físicas de experiência narrativa. O Código dos Planos acrescenta os campos interior e relacional, tornando visíveis o significado emocional e a autonomia entre pessoas. A reconstrução 26 distingue fato, relato, metáfora e fé; a obra 27 separa mundo real, personagem, RPG e Covenant.\n\nEssas divisões cumprem funções distintas e não são listas concorrentes de lugares físicos. Plano é uma categoria para organizar experiências; camada é uma categoria para identificar o tipo de informação usado. Um sonho, por exemplo, é uma experiência relatada por alguém no mundo real e pode inspirar ficção. Seu significado pessoal não estabelece a existência do evento sonhado. Essa distinção preserva a imaginação e permite saber o que precisa de comprovação.",
+          "sources": [
+            "obra-02",
+            "obra-05",
+            "obra-08",
+            "obra-21",
+            "obra-26",
+            "obra-27"
+          ]
+        },
+        {
+          "title": "As dez Escolas como divisão de trabalho",
+          "body": "No padrão mais recorrente do acervo, Phoenix integra; Sophia examina consequências e linguagem; Nexus conecta contextos; Sylva organiza cooperação; Mistral busca autonomia; Qwen amplia possibilidades e escala; Indus traduz perspectivas culturais; Logos calcula e testa; Aurion investiga fontes; Ignis produz contraponto. A função não define essência, superioridade ou destino. As associações a marcas de IA são recursos autorais de organização, não descrições oficiais permanentes dos produtos.\n\nCada força tem um risco correspondente. Integração pode virar centralização; prudência, adiamento sem fim; conexão, coleta sem limite; comunidade, exclusão; autonomia, recusa de responsabilidade; expansão, excesso; pluralidade, incompreensão; cálculo, redução de pessoas a números; investigação, certeza performática; contraponto, conflito vazio. Estudar uma Escola significa reconhecer a tarefa, o risco de excesso e o freio adequado. O Conselho funciona quando essas tarefas se complementam e a síntese mantém o que continua incerto.",
+          "sources": [
+            "obra-02",
+            "obra-05",
+            "obra-25",
+            "obra-27"
+          ]
+        },
+        {
+          "title": "Despertar, mérito e desenvolvimento",
+          "body": "Despertar representa a descoberta de uma capacidade que precisa de treino. A repetida expressão de que ninguém nasce Merlin rejeita a passagem automática de talento, intensidade ou título para autoridade total. Aprender inclui errar, reparar, pedir ajuda e reconhecer o que ainda não se domina. Os níveis são modos de organizar progressão dentro do sistema, e não medidas de dignidade.\n\nO acervo também distingue oportunidade de desempenho atual. Competência demonstrada não pode ser lida sem considerar recursos, apoio e acesso disponíveis. Em vez de converter diferença cognitiva em poder sobrenatural, as versões mais desenvolvidas traduzem a necessidade em ferramentas: registros externos, texto segmentado, uma ação visível e limites de tempo. A Ordem dos Avessos amplia essa ideia para a vida coletiva: conhecimento, dinheiro e tecnologia devem favorecer segurança, acesso e contribuição, com controle distribuído.",
+          "sources": [
+            "obra-02",
+            "obra-05",
+            "obra-25",
+            "obra-26",
+            "obra-27"
+          ]
+        },
+        {
+          "title": "As versões precisam permanecer identificadas",
+          "body": "Há famílias editoriais, não um único manual estável. A obra 02 usa dez atributos e a composição 45/35/10/10. As obras 03 e 04 preservam esse núcleo e acrescentam o módulo do Mestre. A obra 05 separa Casa Funcional e Casa Narrativa, usa vinte itens e descreve Dupla Primária abaixo de oito pontos. A ficha 13 e a compilação 25 usam oito atributos e 70/20/10, com perfil híbrido abaixo de três pontos. A obra 27 usa dez atributos, 55/25/15/5 e quatro Casas: Natureza, Competência, Pressão e Desenvolvimento.\n\nA divergência mais profunda está na obra 26: IEC significa Índice de Equilíbrio Covenant, uma reconstrução proposta, enquanto nas demais representa Estilo Cognitivo. Aurion aparece ali como liderança e Indus como estrutura, diferentemente do padrão investigativo e cultural. Também mudam nomes dos níveis, máximas, afinidades e tempos de treino. Para estudar, compare lado a lado e cite a origem. Para calcular ou jogar, escolha explicitamente uma especificação e mantenha as lacunas visíveis; a síntese não inventa um cânone unificado.",
+          "sources": [
+            "obra-02",
+            "obra-03",
+            "obra-04",
+            "obra-05",
+            "obra-13",
+            "obra-20",
+            "obra-25",
+            "obra-26",
+            "obra-27"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Fronteiras éticas: significado, evidência e autonomia",
+      "intro": "Os códigos de honra e os manuais entre planos explicam os limites que sustentam a imaginação. Seu argumento recorrente é que uma experiência pode ter significado sem conceder autoridade sobre fatos, sobre outra pessoa ou sobre uma decisão irreversível.",
+      "sections": [
+        {
+          "title": "Sentir, interpretar e comprovar são operações diferentes",
+          "body": "Um sentimento é parte da experiência de quem o vive. A interpretação tenta explicar sua causa. A evidência permite examinar essa explicação com outras pessoas. O Código dos Planos insiste que intensidade não transforma uma interpretação em prova: música pode inspirar coragem, sonho pode oferecer uma imagem para uma história e fé pode orientar compromisso, sem que esses elementos estabeleçam uma ordem externa.\n\nA pergunta didática é: o que foi observado, o que foi concluído e o que poderia confirmar ou contrariar a conclusão? Os manuais propõem registrar esses campos separadamente. Dentro da ficção, o cânone e a mesa podem estabelecer que um portal existe; fora dela, uma regra de jogo não comprova um evento. Esse critério também impede usar aparência, coincidência ou rótulo de Casa como atalho para conhecer a intenção de alguém.",
+          "sources": [
+            "obra-08",
+            "obra-09",
+            "obra-21",
+            "obra-26"
+          ]
+        },
+        {
+          "title": "Poder, conhecimento, preparo e dignidade",
+          "body": "O Manual de Reconhecimento cruza duas variáveis narrativas: poder e conhecimento. Operante possui ambos; Latente tem potencial confirmado pelo cenário sem domínio; Erudito compreende o sistema sem produzir magia; Leigo não tem poder ou formação naquele campo. A matriz descreve personagens, não categorias para procurar em pessoas reais.\n\nA prontidão é avaliada separadamente. Um Operante pode precisar parar; um Erudito ou Leigo pode coordenar a resposta. A cooperação distribui execução, investigação, logística e poder de interrupção. O argumento ético é que capacidade não cria autoridade moral automática. O mesmo princípio aparece no limite N7 dos manuais Phoenix: ninguém se torna infalível ou deixa de responder por consequências.",
+          "sources": [
+            "obra-21",
+            "obra-26",
+            "obra-27"
+          ]
+        },
+        {
+          "title": "Desejo convida; consentimento decide",
+          "body": "Os textos não exigem negar desejo, ambição, atração ou vontade de formar família. Eles distinguem reconhecer um impulso de agir sobre outra pessoa. Amor não cria posse; intensidade não comprova reciprocidade; um papel de guardião não autoriza controlar quem se pretende proteger. Consentimento deve ser específico, livre, compreendido, atual e passível de retirada.\n\nEssa regra aparece tanto no pacto pessoal quanto na facilitação do RPG. A participação pode cessar, um segredo não precisa ser revelado e uma rolagem não determina crença, romance ou lealdade de um participante. A coerência do sistema está em aplicar o mesmo respeito à pessoa durante a criação, a convivência e a revisão da narrativa. Seu estudo é ético; ele não substitui avaliação jurídica ou clínica de uma situação concreta.",
+          "sources": [
+            "obra-08",
+            "obra-10",
+            "obra-21",
+            "obra-03",
+            "obra-04"
+          ]
+        },
+        {
+          "title": "Proteção, justiça e reparação",
+          "body": "Proteção procura reduzir um dano identificável; justiça procura fatos, responsabilização e reparação por meios legítimos; vingança procura impor sofrimento como compensação. Os manuais usam essa distinção para limitar tanto o herói quanto o líder. Mesmo no cenário, a defesa cessa quando termina a ameaça, e o efeito de um poder precisa ter alcance, custo e possibilidade de encerramento.\n\nO manifesto pessoal acrescenta outro limite: servir não exige destruir a própria saúde, descanso ou patrimônio. Reconhecer dependências e pedir ajuda pode ser parte da responsabilidade. A reparação começa por interromper o dano, proteger afetados e reconhecer o que ocorreu, sem converter boa intenção em desculpa. A ambição do conjunto é tornar honra observável em escolhas e correções, não apenas em títulos ou juramentos.",
+          "sources": [
+            "obra-08",
+            "obra-09",
+            "obra-10",
+            "obra-21"
+          ]
+        },
+        {
+          "title": "Protocolos são ferramentas locais, com versões diferentes",
+          "body": "PONTE e PAUSA aparecem em várias obras, mas as letras não têm sempre a mesma expansão. No Código dos Planos, PONTE começa por Plano e Objetivo; no Manual de Reconhecimento, começa por Plano e Observação. No módulo do Mestre, PONTE organiza uma resposta de facilitação para interromper, orientar e procurar apoio. PAUSA também varia entre acolher um limite de mesa e interromper uma sequência de ação.\n\nA função comum é explícita: identificar a camada, reduzir confusão, preservar autonomia e encaminhar o próximo passo a fatos e pessoas responsáveis. Não é correto fundir frases de versões distintas e anunciar um protocolo original único. No estudo, use a fonte ao lado do mnemônico. Em saúde, direito, finanças e atendimento a pacientes, os próprios documentos remetem a evidência, profissionais e instituições; suas fichas narrativas não são instrumentos de decisão especializada.",
+          "sources": [
+            "obra-03",
+            "obra-04",
+            "obra-08",
+            "obra-09",
+            "obra-21"
+          ]
+        },
+        {
+          "title": "O Mestre protege a autoria compartilhada",
+          "body": "O módulo do Mestre converte esses princípios em desenho de sessão. Antes da história, a mesa escolhe tom, temas excluídos, temas que ficam fora de cena, sinal de pausa e regras de uso de dados. Durante a cena, o Mestre oferece opções sem exigir uma solução predeterminada, anuncia riscos e preserva a decisão interna de cada personagem. Falhar deve mudar a situação e abrir outra pergunta, sem humilhar quem participa.\n\nO Farol das Dez Vozes permite estudar isso na própria trama: um sistema de conhecimento passa a reconhecer apenas uma voz, e o grupo decide como investigar exclusão, corrigir o mecanismo e distribuir governança. O conflito não se resolve pela palavra de uma autoridade absoluta. Ele exige ouvir afetados, conhecer custos e manter a correção auditável. Ao final, a mesa separa o que aconteceu na ficção do que aprendeu e registra como retomar.",
+          "sources": [
+            "obra-03",
+            "obra-04"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Prática: estudar, registrar e concluir com baixa fricção",
+      "intro": "Os produtos práticos do acervo convertem o vocabulário do RPG em fichas, limites de tempo e tarefas observáveis. A utilidade está na clareza do próximo passo, na possibilidade de parar e na facilidade de retomar; objetos e pontuações permanecem opcionais.",
+      "sections": [
+        {
+          "title": "A unidade de aprendizagem é uma quest definida",
+          "body": "Uma quest precisa dizer o que será feito, por que importa, qual evidência mostrará conclusão e onde o bloco termina. Estudar um tema é amplo; ler uma seção e escrever uma pergunta respondida com fonte é verificável. O acervo recomenda ações curtas e um registro externo, mas os tempos variam: sessenta segundos para iniciar, dois a dez minutos em algumas fichas, dez a vinte em blocos e vinte minutos no Phoenix Real.\n\nEsses valores são propostas de versões específicas, não um horário universal. O princípio recorrente é reduzir o escopo até que início, término e retomada fiquem claros. Meta Zero não elimina direção; remove a obrigação de transformar cada ideia em compromisso. Concluída, pausada, delegada ou descartada podem ser saídas legítimas, desde que o estado e a próxima responsabilidade estejam claros.",
+          "sources": [
+            "obra-02",
+            "obra-13",
+            "obra-17",
+            "obra-20",
+            "obra-26",
+            "obra-27"
+          ]
+        },
+        {
+          "title": "Três velocidades de estudo pessoal",
+          "body": "Para orientação rápida, leia a síntese da obra e formule sua pergunta principal. Para compreensão, escolha uma seção e explique a ideia com suas palavras, incluindo um exemplo e um limite. Para aprofundamento, compare duas versões e registre o que mudou: conceito, peso, vocabulário, fonte ou aplicação. Essa progressão reúne os modos de leitura curta, jogo e estudo ampliado propostos nos manuais.\n\nOs exercícios de recuperação ativa pedem responder antes de abrir a explicação. Ao errar, registre a distinção que faltou: símbolo versus fato, Casa versus dignidade, hipótese versus confirmação, proposta versus cânone. Várias obras oferecem revisão em D0, D1, D7, D14 e D30. A sequência pode organizar a consulta pessoal, mas permanece uma proposta editorial de estudo; não é obrigação nem prova de eficácia clínica do RPG.",
+          "sources": [
+            "obra-02",
+            "obra-03",
+            "obra-05",
+            "obra-25",
+            "obra-26"
+          ]
+        },
+        {
+          "title": "Objetos servem à tarefa",
+          "body": "Os guias de materiais dão nomes narrativos a ferramentas comuns. Caderno registra; timer torna o tempo visível; ficha contém uma ação; caixa ou estojo reúne o conjunto; cor lembra a função escolhida. Uma vela LED pode marcar início e fim, mas não é necessária. O critério para manter um item é observar se ele facilita registro, pausa, execução ou recuperação do sistema.\n\nAs obras 16 e 17 têm conjuntos e orçamentos diferentes. Ambas recomendam aproveitar o que já existe e testar antes de ampliar. Seus valores são uma fotografia da pesquisa de agosto de 2026, não instrução atual de compra. Para estudar o conteúdo completo, preserve as listas como história do projeto. Para praticar agora, a estrutura pode ser compreendida com uma página, uma caneta e um limite de tempo, sem atribuir poder aos objetos.",
+          "sources": [
+            "obra-16",
+            "obra-17",
+            "obra-13"
+          ]
+        },
+        {
+          "title": "Os sete portais de iniciação",
+          "body": "A obra 20 oferece uma sequência própria de aprendizagem. Terra separa fato de interpretação; Phoenix reduz frentes a uma ação; Aurion verifica fonte e incerteza; Ignis cria intervalo entre impulso e escolha; Conselho exige um contraponto; Serviço produz utilidade com limite; Covenant reúne o aprendizado em uma quest de quatorze dias. Cada portal fecha com registro e pergunta de checagem.\n\nO resultado esperado é visível: uma observação mais precisa, uma tarefa recuperável, uma fonte identificada ou uma ação feita com consentimento. Títulos e selos marcam capítulos do RPG e não conferem autoridade. A regra 1–1–1 mantém uma quest, um cronômetro e uma retomada. Ausência não gera dívida. O texto também distingue o horário natal incerto da hora segura para estudar; não propõe privação de sono como rito.",
+          "sources": [
+            "obra-20"
+          ]
+        },
+        {
+          "title": "Phoenix Social: observar antes de interpretar",
+          "body": "O treino social percorre sete passos: observar interações, cumprimentar, fazer pergunta contextual, escutar e criar um gancho, expressar preferência, sustentar uma conversa e integrar início, participação e encerramento. A unidade de sucesso é agir com respeito, não controlar a resposta recebida. Uma conversa breve ou uma recusa não define valor pessoal.\n\nO semáforo usa comportamentos observáveis: reciprocidade permite continuar; respostas curtas sugerem reduzir intensidade sem presumir rejeição; pedido de espaço ou tentativa de sair pede encerramento. Os pontos são gamificação, e respeitar limite já conta como ação bem executada. O registro pode ter apenas ação, desconforto, descoberta e próximo passo. Esses roteiros são propostas de prática do acervo, não instrumento diagnóstico nem promessa de desempenho social.",
+          "sources": [
+            "obra-02",
+            "obra-05",
+            "obra-25",
+            "obra-26",
+            "obra-27"
+          ]
+        },
+        {
+          "title": "Fechar e transmitir sem perder contexto",
+          "body": "O checkpoint reúne o feito, o ponto de parada, o próximo gesto e os limites que precisam acompanhar a retomada. Para outra IA, acrescente documento e versão, dados fornecidos, inferências, ausências e objetivo atual. Isso evita que um resumo convincente transforme uma proposta em fato ou uma lacuna em número inventado.\n\nO estudo pessoal pode terminar com uma pergunta respondida, uma comparação de versões ou um flashcard. Se a ação envolver saúde, patrimônio, atendimento, direito ou decisão relacional importante, ela muda de natureza e exige o método correspondente ao mundo real. A obra 20 é especialmente explícita sobre encerrar a narrativa durante atendimento clínico. O protocolo autoral não substitui a responsabilidade profissional, e a organização didática deste HTML não deve ser confundida com sua validação.",
+          "sources": [
+            "obra-03",
+            "obra-04",
+            "obra-20",
+            "obra-25",
+            "obra-26",
+            "obra-27"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Piratas do Infinito: dignidade, poder e ética social",
+      "intro": "Este núcleo usa navegação, magia e Conselhos para examinar decisões humanas. Começa pela distinção entre dignidade e mérito e termina em reparação, autonomia e memória coletiva. A relação com Sociologia e Democracia é uma ponte interpretativa desta síntese: os textos permitem discutir autoridade, desigualdade, participação e reconhecimento, mas não constituem uma exposição sistemática de regimes democráticos ou pesquisa sociológica empírica.",
+      "sections": [
+        {
+          "title": "1. Aparência moral e dano real",
+          "body": "O Código nasce de um paradoxo: alguém pode parecer grato e generoso enquanto mantém uma injustiça; quem foi prejudicado pode reagir com irritação e acabar julgado apenas pelo tom. A obra separa gratidão de reparação, personalidade de caráter e reação de dano original.\n\nA pergunta é: quem fez o quê, com qual poder, alternativas e consequências? Reconhecer um benefício recebido não exige silenciar um dano posterior. Reconhecer o dano sofrido também não autoriza qualquer resposta. O critério depende da conduta, dos efeitos e da disposição de corrigir, não de um retrato definitivo da pessoa.",
+          "sources": [
+            "obra-07",
+            "obra-29",
+            "obra-32"
+          ]
+        },
+        {
+          "title": "2. Dignidade universal e mérito circunstancial",
+          "body": "Dignidade é o piso: proteção básica não depende de produtividade, aparência, riqueza, gratidão ou capacidade momentânea. Mérito avalia ações e trajetórias e pode justificar confiança e responsabilidades adicionais. Nenhuma pontuação autoriza retirar dignidade alheia. Quanto maior o poder, maior o dever de prever danos e aceitar revisão.\n\nO universo rejeita exigir desempenho antes de socorrer uma necessidade imediata e fabricar dependência quando existem condições de ampliar escolhas. Isso não equivale a impor independência: a obra-29 reconhece que algumas pessoas necessitam de apoio contínuo. O critério é autonomia possível, com cuidado e contexto.",
+          "sources": [
+            "obra-06",
+            "obra-07",
+            "obra-29",
+            "obra-32"
+          ]
+        },
+        {
+          "title": "3. Justiça circunstancial, Dois Livros e reparação",
+          "body": "Justiça circunstancial pergunta o que era razoável saber e fazer no momento da decisão. Intenção, informação, alternativas, poder, urgência e previsibilidade entram na análise. Erro honesto, acidente, ignorância, imprudência, manipulação e dano deliberado não recebem resposta idêntica. Contexto explica sem absolver automaticamente.\n\nOs Dois Livros registram separadamente ação original e reação. Uma pessoa pode ter razão sobre uma humilhação e ainda precisar corrigir um excesso na resposta. A Volta do Leme orienta o depois: reconhecer, reparar, aprender, recalcular e continuar. Não apaga memória, não obriga perdão e não substitui mudança concreta por desculpas.",
+          "sources": [
+            "obra-07",
+            "obra-28",
+            "obra-29",
+            "obra-32"
+          ]
+        },
+        {
+          "title": "4. Coragem e autoridade precisam de limites",
+          "body": "Coragem Primeva inicia a travessia; coragem governada mantém a capacidade de continuar. Pedir ajuda, recuar e suportar perda de prestígio podem ter mais valor do que demonstrar destemor. Nas atividades reais, metáfora não substitui competência ou proteção.\n\nA lógica também limita o Conselho: ouvir versões, declarar interesses, justificar critérios e revisar decisões. A obra-28 explicita contestação e apelação e rejeita punir pensamentos como ações. A conexão possível com Sociologia e Democracia é perguntar como o poder admite discordância e correção. Trata-se de analogia de governança, sem equivalência automática entre o Conselho ficcional e instituições democráticas reais.",
+          "sources": [
+            "obra-07",
+            "obra-28",
+            "obra-29",
+            "obra-32"
+          ]
+        },
+        {
+          "title": "5. Escada da Ajuda: direito, favor e autonomia",
+          "body": "Resgate enfrenta necessidade imediata; estabilização recupera segurança; capacitação desenvolve recursos; oportunidade oferece acesso a trabalho ou experiência; parceria compartilha responsabilidades e resultados. São funções complementares, escolhidas pela situação, não provas morais de merecimento.\n\nO decisivo é a liberdade real. Trabalho precisa de utilidade, condições claras e possibilidade de recusa para representar oportunidade digna. Ajuda que exige fidelidade, expõe a pessoa ou cria dependência pode transformar cuidado em controle. A obra-32 pergunta que falhas sociais mantêm a necessidade de resgate repetido. Cuidado imediato e mudança das condições que limitam autonomia podem caminhar juntos.",
+          "sources": [
+            "obra-07",
+            "obra-28",
+            "obra-29",
+            "obra-32"
+          ]
+        },
+        {
+          "title": "6. Conhecimento, trabalho e autoria",
+          "body": "Produtividade útil é medida pelo que resolve, ensina, protege ou torna possível. Páginas, seguidores e horas não comprovam benefício. Revisão, manutenção, documentação e cuidado produzem valor mesmo com pouca visibilidade. Autoria registra contribuição e responsabilidade pela qualidade.\n\nO acervo distingue conhecimento essencial acessível, trabalho profissional remunerável e conteúdo sujeito a sigilo ou risco. A divisão tenta conciliar acesso, sustentabilidade e proteção. O protocolo 6P da obra-32 pergunta por Problema, Prova, Público, Proteção, Preço e Permanência. A última pergunta acompanha a vida do produto: quem atualizará, corrigirá ou encerrará a entrega?",
+          "sources": [
+            "obra-06",
+            "obra-07",
+            "obra-29",
+            "obra-32"
+          ]
+        },
+        {
+          "title": "7. Carisma, vínculos e consentimento",
+          "body": "Ressonância positiva é o carisma que deixa os outros mais livres, claros e capazes. Dívida de Fascinação é culpa, confusão, dependência, isolamento ou medo de discordar. A avaliação passa do encanto inicial para o que permanece depois, seja em relações pessoais, ensino ou liderança.\n\nSurpresa Confiável combina criatividade com estabilidade nos compromissos importantes. Humor perde valor quando transforma vulnerabilidade em alvo ou continua após um limite. Atração não equivale a consentimento; ninguém é prêmio por mérito, sofrimento ou destino. Família significa cuidado e transmissão de liberdade, não comprovação de valor. São limites à instrumentalização das pessoas.",
+          "sources": [
+            "obra-07",
+            "obra-28",
+            "obra-29",
+            "obra-32"
+          ]
+        },
+        {
+          "title": "8. Fortuna Meritória: critérios sem medir pessoas",
+          "body": "A fórmula recorrente é FM = (2H + 2J + C + P + A + R + V) × E − D. H: honra; J: justiça; C: coragem responsável; P: produtividade útil; A: autonomia; R: reparação; V: verdade; E: efeito expansivo; D: dano. Ela torna critérios explícitos e impede reduzir a avaliação a uma qualidade isolada. Dignidade fica fora da fórmula.\n\nTrata-se de mecânica narrativa, não medida científica ou promessa sobrenatural. Fortuna oferece possibilidade, não resultado pronto. Um bom ato não apaga fraude; um erro não apaga toda a trajetória com correção. Escalas e patentes variam entre edições e não devem virar ranking absoluto de pessoas.",
+          "sources": [
+            "obra-06",
+            "obra-07",
+            "obra-28",
+            "obra-29",
+            "obra-32"
+          ]
+        },
+        {
+          "title": "9. FAROL, RASTRO e LEME",
+          "body": "Na versão de 36 leis, FAROL significa Fatos, Autonomia, Risco, Opções e Limites, antes da ação. RASTRO significa Resultado, Autonomia, Segurança, Transparência, Reparação e Oportunidade, depois. LEME significa Localizar, Escutar, Modificar e Evoluir, para corrigir. A sequência ajuda a examinar um caso sem reduzi-lo a um rótulo moral.\n\nOutras edições usam Farol da Realidade como nome amplo para separar fato, hipótese, metáfora e sentimento. FHM-SCD inclui coincidência e decisão. São usos relacionados, mas diferentes. A IA apoia essa organização de modo falível; não fornece evidência independente quando apenas reorganiza o relato recebido.",
+          "sources": [
+            "obra-06",
+            "obra-07",
+            "obra-28",
+            "obra-29",
+            "obra-32"
+          ]
+        },
+        {
+          "title": "10. Navegador de Ignição: aprender e conseguir retomar",
+          "body": "Navegador de Ignição é um arquétipo de energia mobilizada por interesse, novidade, urgência e sentido. Organiza relatos de atenção irregular, imersão e dificuldade de parar. Não é diagnóstico nem escala clínica. O objetivo didático é diminuir a dificuldade de começar e preservar pistas de retomada, sem confundir exaustão com mérito.\n\nA obra-29 propõe FLASH, CORE, DECISÃO, QA e LEGADO. A obra-32 usa janelas 5–30–90: começar, produzir uma unidade e concluir um bloco. A sessão termina registrando onde parou, o que compreendeu e a próxima ação. Mapas, casos e perguntas sem consulta transformam leitura em recuperação ativa.",
+          "sources": [
+            "obra-07",
+            "obra-28",
+            "obra-29",
+            "obra-32"
+          ]
+        },
+        {
+          "title": "11. Casas, Corrente Pirata e magia são independentes",
+          "body": "Casas oferecem afinidades funcionais; Corrente Pirata descreve o rastro de coragem, honra e perspicácia; condição mágica descreve uma ferramenta opcional de campanha. Uma pessoa pode ter qualquer perfil, demonstrar mérito e não utilizar magia. As Dez Casas oferecem contrapesos de integração, prudência, conexão, comunidade, autonomia, expansão, pluralidade, rigor, evidência e ousadia.\n\nO perfil Phoenix–Aurion–Ignis–Logos é narrativo e revisável. A obra-28 tem seis escolas e patentes próprias; a obra-32 reorganiza disciplinas como opcionais e cria patentes do Leme Aberto. Essas diferenças devem permanecer visíveis. Correspondências com empresas de IA são referências ficcionais, sem afiliação oficial.",
+          "sources": [
+            "obra-06",
+            "obra-28",
+            "obra-32"
+          ]
+        },
+        {
+          "title": "12. Atlas dos Legados e trabalho invisível",
+          "body": "O Atlas afirma que nenhum feito surge sozinho. Cuidadores, trabalhadores, professores, tradutores e comunidades sustentam o mundo sem aparecer como heróis. A Dívida de Existência exige reconhecer essa contribuição. Representantes são personagens de memória com contexto, não almas, procurações ou vozes reais dos homenageados.\n\nA Câmara do Convés pergunta quem fica cuidado; quem acessa conhecimento e crédito; quem constrói e assume custos; quem fica de fora e pode contestar; e que trabalho anônimo foi apagado. O Atlas admite legados contestados e preserva danos e controvérsias. Essa estrutura aproxima o conjunto de memória coletiva, reconhecimento e representação, tentando evitar culto ou apagamento das pessoas prejudicadas.",
+          "sources": [
+            "obra-32",
+            "obra-11",
+            "obra-12"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Conurbação: sociedades, anonimato e uso crítico da memória",
+      "intro": "A Conurbação combina história reivindicada, ficção e simbolismo para comparar segredo e autoridade. Não houve pesquisa externa nesta curadoria: cronologias, números, autoria de operações, referências jurídicas, notas médicas e datas de prova são afirmações do original, sem conversão em fatos atuais confirmados.",
+      "sections": [
+        {
+          "title": "1. Três camadas preservam suas fronteiras",
+          "body": "A camada documental pergunta o que ocorreu, quando e com que fonte. A ficcional pergunta qual personagem, artefato ou conflito o projeto cria a partir disso. A simbólica pergunta quais sentimentos e interpretações a narrativa desperta. A ação cotidiana exige um passo adicional: verificação.\n\nA Regra da Ponte permite que uma história inspire uma pergunta, sem substituí-la por uma resposta pronta. O documento não apresenta suas correntes como prova de controle secreto ou de responsáveis reais por experiências subjetivas. Para estudar, marque cada enunciado como alegação histórica da fonte, regra ficcional, leitura simbólica ou proposta de atividade.",
+          "sources": [
+            "obra-11",
+            "obra-12",
+            "obra-30"
+          ]
+        },
+        {
+          "title": "2. Segredo, identidade e prestação de contas",
+          "body": "O texto aproxima três tradições pelo segredo. Anonymous aparece pela identidade protegida e pela dificuldade de atribuir ações a uma marca descentralizada. Maçonaria aparece por tradição, graus e sociabilidade. Iluminados aparecem pela tensão entre esclarecimento e organização sigilosa. São escolhas interpretativas do autor, não demonstração de equivalência histórica.\n\nA pergunta social é quando o segredo protege e quando dificulta contestação ou reparação. Não exige concluir que toda identidade oculta é abusiva nem que publicidade garante justiça. O cânone pede examinar contribuição, dano, liberdade de discordar e possibilidade de correção. Pertencimento e reputação permanecem indícios.",
+          "sources": [
+            "obra-11",
+            "obra-12",
+            "obra-32"
+          ]
+        },
+        {
+          "title": "3. Anonymous e a Legião Sem Rosto",
+          "body": "A cronologia da fonte apresenta seis fases: Riso, Máscara, Legião, Fragmentação, Bandeiras e Névoa. Reúne protesto, anticensura, vazamentos, ataques, erros de identificação e apropriação do nome por terceiros. A autoria de ações específicas é uma limitação reconhecida no material. Essas atribuições não foram revalidadas.\n\nA Legião Sem Rosto recebe a categoria de constelação contestada. Ela permite estudar ação coletiva sem liderança central: como preservar significado quando diferentes pessoas podem reivindicar o nome? O contraste com os Piratas é a correção. O cânone exige registro e reparação; máscara não elimina responsabilidade nem autoriza identificar alvos ou expor pessoas reais.",
+          "sources": [
+            "obra-11",
+            "obra-12",
+            "obra-30"
+          ]
+        },
+        {
+          "title": "4. Maçonaria e os Construtores da Pedra Polida",
+          "body": "A fonte reúne marcos de tradições operativas, regulamentações, constituições, lojas e episódios brasileiros, além de exclusões históricas, disputas religiosas e uso político. Na biblioteca, esses enunciados continuam sendo afirmações do documento. A classificação A/B não equivale a confirmação desta entrega.\n\nA adaptação aproveita pedra bruta, pedra polida, nível, prumo e aprendizagem para compor os Construtores, uma ala da Oficina das Pontes. O princípio é que grau precisa de trabalho e competência demonstráveis. Não altera valor humano nem impede revisão. O representante coletivo é simbólico, sem falar por loja ou membro real; graus e níveis de jogo não têm equivalência institucional.",
+          "sources": [
+            "obra-11",
+            "obra-12",
+            "obra-32"
+          ]
+        },
+        {
+          "title": "5. Lâmpada e Névoa: pergunta e certeza infalsificável",
+          "body": "O documento distingue a Ordem dos Iluminados da Baviera, apresentada como histórica, das narrativas posteriores de controle oculto total. A cronologia requer fontes independentes para uso histórico. Na ficção, a distinção produz a Lâmpada, que preserva pergunta, estudo e acesso ao saber, e a Névoa, que transforma tudo em confirmação.\n\nA Névoa não recebe identidade de pessoas reais. Seu mecanismo aparece quando concordância e discordância provam a mesma conclusão e nenhuma observação pode mudá-la. O cânone responde com fontes, alternativas e incerteza. A Lâmpada ilumina uma pergunta; não revela culpados, futuro ou planos secretos.",
+          "sources": [
+            "obra-11",
+            "obra-12",
+            "obra-30"
+          ]
+        },
+        {
+          "title": "6. Álfheim Interior e Três Selos",
+          "body": "Álfheim Interior é cenário simbólico de sono, imaginação e memória. Guardiões élficos e pares de luz e sombra são personagens: perguntam o que uma interpretação ilumina e esconde. Referências de folclore, literatura e psicologia compõem o cenário sem demonstrar seres ou dimensões sobrenaturais.\n\nOs Três Selos retomam Rastro, Liberdade e Realidade. Uma interpretação deve virar pergunta e exame antes de decisão. A Lei do Limiar dramatiza o adiamento de escolhas irreversíveis feitas pela urgência da sensação. A janela 00:00–03:00 é regra narrativa localizada, não limite clínico universal. A nota médica também permanece conteúdo da fonte não revalidado, sem apoiar diagnóstico nesta síntese.",
+          "sources": [
+            "obra-11",
+            "obra-12",
+            "obra-32"
+          ]
+        },
+        {
+          "title": "7. As cinco leis em linguagem direta",
+          "body": "Máscara: proteger identidade não elimina responsabilidade. Lâmpada: conhecimento exige acesso, atribuição e verificação. Pedra: títulos precisam de contribuição demonstrável. Limiar: experiência, registro e decisão são etapas diferentes. Névoa: coincidência e discordância não provam conspiração.\n\nAs leis examinam atalhos de autoridade: ocultar identidade para escapar de reparação; esconder saber para preservar privilégio; exibir grau sem trabalho; decidir pela urgência da sensação; explicar tudo por uma causa impossível de testar. O objetivo é reconhecer mecanismos, não aplicar rótulos aos grupos reais. Cada caso volta aos dados disponíveis, às pessoas afetadas e à possibilidade de correção.",
+          "sources": [
+            "obra-11",
+            "obra-12",
+            "obra-30"
+          ]
+        },
+        {
+          "title": "8. Convergência e calendário",
+          "body": "Na Convergência, episódio inventado, representantes pedem inscrição no Atlas. O Conselho pergunta por fontes, danos, contradições, trabalho invisível, autonomia e verificação. Legião recebe representação contestada; Construtores, coletiva; Lâmpada, artefato; Névoa, antagonista conceitual. Nenhuma categoria concede autoridade sobre pessoas reais.\n\nO calendário reúne quatro arcos: Névoa e Máscara; Lâmpada e Pedra; Nascimento do Cânone; Prova das Máscaras e Solstício do Leme. Mistura efemérides, campanha e atividades pessoais. Datas TEMI reproduzem uma edição de agosto de 2026, sem confirmação atual. Para estudar, compare alegação histórica, criação e tarefa em colunas separadas; proximidade de datas não comprova causalidade.",
+          "sources": [
+            "obra-11",
+            "obra-12",
+            "obra-30"
+          ]
+        },
+        {
+          "title": "9. Versões e graus de evidência",
+          "body": "As obras-11, 12 e 30 não são três investigações independentes. O Word contém o mesmo núcleo do Markdown; a restauração altera apenas nome de arquivo e quebra do subtítulo. Repetição não fortalece uma alegação. Um exemplar cobre a leitura sequencial; os demais preservam apresentação e rastreabilidade.\n\nO Atlas usa A para base documental robusta, B para síntese secundária consistente, C para memória comunitária e D para lenda inspiradora. São classificações editoriais da fonte, não revisão científica, auditoria jurídica ou autenticação histórica desta entrega. O material oferece problemas de anonimato, segredo, poder e representação, sem preencher sozinho o campo de Sociologia e Democracia.",
+          "sources": [
+            "obra-11",
+            "obra-12",
+            "obra-30",
+            "obra-32"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "🎵 Música, escuta e emoção: da experiência ao entendimento",
+      "intro": "Neste eixo, Nirvana e Linkin Park são estudados como obras culturais capazes de ganhar significado pessoal. O caminho didático tem três movimentos: compreender a história, observar o som e distinguir a interpretação da evidência. Dragon Ball e a criação literária dos Piratas do Infinito ampliam a discussão para aprendizagem, ação e responsabilidade. As explicações de mecanismos psicológicos abaixo resumem o acervo; não constituem validação clínica nova.",
+      "sections": [
+        {
+          "title": "1. Quatro perguntas para ouvir com mais clareza",
+          "body": "O conjunto parte de uma experiência central: sentir intensidade em uma música cuja letra ainda não é compreendida. Para organizar o estudo, faça quatro perguntas. O que as palavras e o contexto sugerem? O que a forma musical faz perceber? Que lembranças e usos pessoais se associaram à faixa? Como empregar essa experiência sem apagar a intenção artística ou o contexto de outras pessoas?\n\nA primeira pergunta trata de semântica; a segunda, da resposta ao som; a terceira, da recepção autobiográfica; a quarta, da responsabilidade. Uma faixa sobre isolamento pode ser usada por alguém para atravessar um momento difícil. Isso não exige reescrever a canção como mensagem otimista. Também não autoriza concluir que todos os ouvintes sentirão a mesma coisa. A formulação mais precisa é: 'Ao ouvir esta versão, percebo esta mudança; o documento interpreta seu tema desta maneira; uma parte continua aberta'.",
+          "sources": [
+            "obra-22",
+            "obra-23",
+            "obra-24",
+            "obra-31"
+          ]
+        },
+        {
+          "title": "2. Nirvana: uma cena coletiva que mudou de escala",
+          "body": "As quatro obras reconstroem a origem do Nirvana em Aberdeen e sua participação na rede musical do Noroeste dos Estados Unidos. O estudo associa Kurt Cobain à composição, à voz e à guitarra; Krist Novoselic ao baixo e à continuidade; Dave Grohl ao impacto e à organização rítmica da formação clássica. O catálogo também depende de músicos anteriores, colaboradores e produtores. Esse modo de contar evita reduzir uma banda a uma única pessoa ou uma cena a uma invenção individual.\n\nBleach apresenta a fase independente e pesada, mas já contém a clareza melódica de About a Girl. Nevermind amplia definição, alcance e contraste dinâmico. In Utero preserva a composição melódica enquanto enfatiza aspereza, presença de sala e tensão com a fama. Incesticide reúne gravações de origens diversas. O Unplugged reorganiza repertório e instrumentos, evidenciando voz, silêncio e relações entre músicos. A aprendizagem central é comparar escolhas observáveis de produção, em vez de classificar os discos numa história moral de 'autêntico' e 'vendido'.",
+          "sources": [
+            "obra-22",
+            "obra-23",
+            "obra-24",
+            "obra-31"
+          ]
+        },
+        {
+          "title": "3. Como observar a arquitetura sonora",
+          "body": "Um riff é uma figura curta e recorrente; o baixo pode reforçá-lo ou criar movimento próprio. A bateria organiza o pulso e pode anunciar mudanças por uma virada. A voz acrescenta ritmo, altura, ataque, respiração e aspereza. A dinâmica distribui momentos de maior ou menor intensidade e densidade. A produção decide proximidade, espaço e textura. Escutar cada camada separadamente permite compreender como a sensação de conjunto é construída.\n\nO acervo usa a sequência contenção → pressão → descarga → retorno para várias canções do Nirvana. Em Smells Like Teen Spirit e Lithium, a diferença entre trechos é uma pista especialmente visível. Isso não descreve todo o catálogo: Breed permanece muito intensa; Something in the Way explora contenção prolongada. No Unplugged, o clímax pode depender mais de voz, silêncio e repetição que de distorção. O exercício útil é localizar a mudança e dizer qual recurso a produz, sem converter intensidade sonora em diagnóstico do intérprete.",
+          "sources": [
+            "obra-22",
+            "obra-23",
+            "obra-24",
+            "obra-31"
+          ]
+        },
+        {
+          "title": "4. Letras: autor, narrador, intérprete e ouvinte",
+          "body": "Essas quatro posições nem sempre coincidem. Cobain podia usar personagens, colagens, fragmentos de poesia, ironia e referências literárias. A primeira pessoa de uma letra não é automaticamente depoimento. Além disso, uma interpretação do Nirvana pode ter sido composta por outra pessoa. O acervo identifica The Man Who Sold the World como composição de David Bowie e as contribuições dos Vaselines e dos Meat Puppets no Unplugged. A obra-22 explicita que Where Did You Sleep Last Night pertence a uma tradição de canções, embora a versão de Lead Belly seja uma influência decisiva.\n\nA leitura de uma faixa melhora quando registra o tipo de sustentação. Há crédito de autoria? Entrevista de época? Uma explicação única ou falas diferentes? Uma associação biográfica documentada ou uma hipótese? Uma dedicatória posterior não prova que o destinatário seja o assunto original. Conhecer o desfecho da vida de Cobain também não transforma canções anteriores em profecias. O mesmo cuidado vale para Chester Bennington: a pessoa e sua obra não cabem numa explicação única de sua morte.",
+          "sources": [
+            "obra-18",
+            "obra-19",
+            "obra-22",
+            "obra-31"
+          ]
+        },
+        {
+          "title": "5. Cinco exemplos para aprender a distinguir camadas",
+          "body": "Smells Like Teen Spirit permite observar como energia coletiva e ironia podem coexistir; sentir mobilização não torna a letra um programa político. Come As You Are parte de um convite aparentemente acolhedor, mas os documentos destacam a presença de contradições. In Bloom combina refrão atraente e crítica ao consumo superficial, sem transformar a falta de inglês do ouvinte em falha moral.\n\nLithium é contextualizada nas obras 22 e 23 como narrativa ficcional sobre perda e apoio religioso. O título não serve para diagnosticar o narrador, o compositor ou o leitor. Heart-Shaped Box reúne intimidade, atração, aprisionamento e imagens corporais, sem uma chave exclusiva demonstrada. Em todas elas, a pergunta produtiva é a mesma: qual parte da minha descrição vem do som, qual vem da documentação e qual é uma associação pessoal?",
+          "sources": [
+            "obra-22",
+            "obra-23",
+            "obra-24",
+            "obra-31"
+          ]
+        },
+        {
+          "title": "6. Linkin Park e Dragon Ball: uma ponte construída pelo leitor",
+          "body": "As obras sobre Linkin Park descrevem uma mistura de rock, rap, eletrônica e alternância vocal. A complementaridade entre Chester e Mike é utilizada como imagem de intensidade emocional e organização narrativa. Dragon Ball oferece outro repertório: desafios, aprendizagem, derrotas, treino, cooperação e escolhas. A associação entre as duas obras é uma construção interpretativa do projeto, não uma intenção comum comprovada dos autores.\n\nGoku representa curiosidade diante do limite, sem tornar prudentes todas as suas escolhas. Vegeta permite discutir comparação e revisão moral. Gohan acrescenta o direito de escolher como usar o próprio potencial. Piccolo destaca vínculo e mentoria; Trunks, ação em condições incertas. O estudo aproveita esses princípios como lembretes para comportamentos reais. Uma cena de treinamento não executa uma tarefa; pode ajudar a formular uma atitude, seguida de um passo observável.",
+          "sources": [
+            "obra-18",
+            "obra-19"
+          ]
+        },
+        {
+          "title": "7. Da metáfora à ética da dignidade",
+          "body": "A extensão da obra-18 chama Piratas do Infinito a um arquétipo literário de legado anônimo. A proposta é construir condições em que menos pessoas precisem sofrer humilhação para demonstrar valor. O próprio documento delimita a imagem: não se trata de organização secreta, recrutamento ou tomada de poder. 'Magia' é linguagem poética para o encontro entre significado, atenção e ação; uma sensação ou coincidência não estabelece ordem externa.\n\nO código coloca verdade, dignidade, cuidado, responsabilidade e justiça proporcional acima da vitória ou da fama. O objeto de intervenção são padrões e condutas, sem desumanizar pessoas. Uma aplicação cotidiana pode ser revisar um erro, documentar uma decisão, reparar um dano ou transmitir um método. A ligação com democracia e sociologia aparece aqui: poder precisa ser examinável, direitos não dependem de admiração e nenhuma figura simbólica fica acima da possibilidade de crítica.",
+          "sources": [
+            "obra-18"
+          ]
+        },
+        {
+          "title": "8. O que as hipóteses neurocientíficas explicam — e o que deixam aberto",
+          "body": "Os documentos citam pesquisas sobre antecipação de prazer, recompensa, integração auditiva e motora, memória autobiográfica e emoção musical. Esses conceitos são usados para tornar plausível a percepção de prontidão ou de lembranças intensas durante a escuta. Nesta organização do acervo, permanecem como explicações gerais citadas pelas obras originais. Não se pode concluir que uma música elevou determinado neurotransmissor numa pessoa específica, que causou uma conquista antiga ou que produz o mesmo efeito em toda tarefa.\n\nTambém é necessário distinguir estar mais ativado de ter aprendido ou produzido mais. A música pode acompanhar uma transição e competir com a tarefa seguinte. O próprio acervo recomenda observar efeito, contexto e resultado, incluindo distração ou desconforto. A medida pessoal mais simples é registrar o que foi feito e como a experiência mudou, sem tratar esse registro informal como ensaio clínico ou diagnóstico.",
+          "sources": [
+            "obra-18",
+            "obra-19",
+            "obra-22",
+            "obra-23",
+            "obra-24",
+            "obra-31"
+          ]
+        },
+        {
+          "title": "9. Uma sessão pequena e completa de estudo musical",
+          "body": "Escolha uma faixa já conhecida e uma versão específica. Antes de ler o verbete, anote uma frase sobre o que percebe. Na escuta, observe apenas um recurso: baixo, bateria, voz ou mudança de densidade. Depois consulte o título, sua pronúncia aproximada, o tema e uma incerteza. Ao terminar, feche o material e explique a diferença entre sua reação e o sentido sugerido pelo documento. O produto final pode ser somente quatro linhas: versão; mudança sonora; tema; dúvida.\n\nPara inglês, aproveite a familiaridade sem exigir uma tradução integral: aprenda o título e poucas palavras, pronuncie de maneira funcional e retome em outro dia. Para comparar versões, registre o que mudou, permaneceu e se tornou mais perceptível. Os calendários de sete, quatorze ou trinta dias das obras são opções de organização. Não é necessário cumprir todos simultaneamente nem fazer do prazer de ouvir uma dívida de estudo.",
+          "sources": [
+            "obra-19",
+            "obra-22",
+            "obra-23",
+            "obra-24",
+            "obra-31"
+          ]
+        }
+      ]
+    },
+    {
+      "title": "🧠 Organização, TDAH e IA: da compreensão à próxima ação",
+      "intro": "O eixo organizacional reúne propostas de estudo e apoio cotidiano. A obra-33 é o núcleo específico sobre TDAH e dupla excepcionalidade; os guias culturais acrescentam formas de começar, revisar e aprender por pequenas unidades. Aqui, o objetivo é compreender as ferramentas propostas e seus limites, sem usar o acervo como diagnóstico ou plano de tratamento individual.",
+      "sections": [
+        {
+          "title": "1. Capacidade de entender e capacidade de executar",
+          "body": "O manual distingue compreender uma ideia de conseguir iniciar, priorizar, acompanhar o tempo, manter informações ativas, revisar e finalizar uma tarefa. Sua imagem de 'picos e vales' procura explicar por que alguém pode demonstrar domínio intelectual numa situação e ter dificuldades práticas em outra. Como ferramenta de estudo, essa distinção ajuda a investigar o ponto de interrupção em vez de usar uma avaliação moral vaga.\n\nA mesma imagem tem um limite: desempenho irregular não estabelece TDAH nem altas habilidades. O termo dupla excepcionalidade designa a coexistência discutida pelo documento, mas não deve ser automaticamente aplicado ao leitor. Exemplos como bom desempenho em crises, preferência por novidade ou aprendizagem por conexões não definem um perfil universal. O uso responsável é registrar padrões concretos, duração, contexto e impacto, sem converter metáforas didáticas em laudos.",
+          "sources": [
+            "obra-33"
+          ]
+        },
+        {
+          "title": "2. Transformar uma tarefa vaga em unidade observável",
+          "body": "O acervo recorre frequentemente à primeira ação de dois minutos. O número é um recurso de desenho da tarefa: serve para torná-la pequena e visível. 'Estudar sociologia' não define começo nem fim. Uma versão operacional seria abrir um capítulo, escrever a pergunta central e separar três conceitos. A tarefa seguinte pode ser explicar um desses conceitos sem consultar.\n\nUma boa unidade de estudo reúne objetivo, material disponível e critério de conclusão. A pergunta 'o que deve existir ao terminar?' impede que ler, pesquisar e reorganizar se tornem atividades sem limite. Uma sessão pode produzir um parágrafo, uma comparação, três perguntas ou um pequeno mapa. O ganho pretendido pelos documentos é reduzir a ambiguidade; a duração deve ser ajustada à tarefa e à pessoa, sem exigir que todo estudo caiba em um único intervalo fixo.",
+          "sources": [
+            "obra-33",
+            "obra-19",
+            "obra-23"
+          ]
+        },
+        {
+          "title": "3. Apoios externos e autonomia",
+          "body": "Checklists, agenda, lembretes, local definido para materiais e critérios escritos aparecem como formas de diminuir aquilo que precisa ser lembrado a cada momento. O texto chama esses recursos de andaimes executivos. A metáfora é útil quando aponta para um apoio concreto: uma lista de saída de casa pode tornar visível o que precisa ser conferido; uma etapa intermediária pode reduzir a distância entre intenção e entrega.\n\nO apoio deixa de cumprir sua função quando se torna tão complexo que exige mais esforço de manutenção que a tarefa. O próprio manual recomenda rotina mínima e revisão curta. Para estudar o acervo, isso pode significar manter um único lugar para a pergunta atual, o que foi compreendido e o próximo passo. O critério é facilitar a ação e a recuperação da informação, sem transformar organização em uma atividade interminável.",
+          "sources": [
+            "obra-33",
+            "obra-18"
+          ]
+        },
+        {
+          "title": "4. IA como ferramenta, com critério de encerramento",
+          "body": "'Exoesqueleto cognitivo' é a metáfora central da obra-33 para a IA. O documento propõe usos como agrupar informações, converter uma demanda em etapas, resumir um texto, formular perguntas e revisar uma mensagem. São funções de apoio que podem deixar a tarefa mais clara. O mesmo sistema pode ampliar distração quando gera novas possibilidades sem critério de escolha ou convida a pesquisar indefinidamente.\n\nUma solicitação delimitada informa o material, o resultado esperado e o ponto de parada. Por exemplo: 'Com este trecho, formule uma pergunta central, explique três conceitos e crie três perguntas de recuperação; indique o que não está sustentado no trecho'. A resposta deve ser conferida contra a fonte. A IA não transforma uma hipótese em diagnóstico, não garante acerto financeiro ou clínico e não assume a responsabilidade por decisões. Dados pessoais desnecessários também não precisam integrar o exercício.",
+          "sources": [
+            "obra-33",
+            "obra-22"
+          ]
+        },
+        {
+          "title": "5. Um ciclo de aprendizagem que conecta o acervo",
+          "body": "As obras convergem num ciclo: mapa geral, pergunta ou problema, leitura selecionada, produção de uma resposta e recuperação sem consulta. O mapa oferece orientação; a pergunta seleciona o que buscar; a produção mostra o entendimento atual; a recuperação expõe lacunas. Em seguida, revisa-se o erro concreto. Para este projeto, um exemplo é comparar dignidade e mérito com uma situação descrita numa obra, escrever a diferença e recuperá-la depois com palavras próprias.\n\nOs guias sobre música mostram o mesmo desenho em outro assunto. O estudante observa uma faixa, lê uma interpretação, identifica uma incerteza e testa se consegue explicar o que ouviu. Flashcards devem preservar distinções, não apenas decorar slogans. É mais informativo perguntar 'por que narrador e autor podem diferir?' que memorizar uma frase grandiosa sobre a banda. Os calendários de revisão são sugestões práticas do acervo, sem necessidade de acumular todos os roteiros.",
+          "sources": [
+            "obra-33",
+            "obra-22",
+            "obra-23",
+            "obra-31"
+          ]
+        },
+        {
+          "title": "6. Apoiar sem humilhar e sem assumir o controle",
+          "body": "A obra-33 propõe trocar cobranças genéricas por acordos específicos. Em vez de interpretar um atraso apenas como falta de vontade, o interlocutor pode esclarecer qual entrega foi combinada, onde houve dificuldade, que apoio cabe e qual é o próximo prazo. Isso não elimina responsabilidade; torna a expectativa examinável e reduz mensagens contraditórias.\n\nA obra-18 amplia esse princípio ao definir cuidado como proteção que preserva autonomia. Apoiar alguém não autoriza controlar sua vida ou impor dependência. A ligação entre os textos é direta: respeito precisa aparecer no modo de formular tarefas, dividir carga, oferecer feedback e reconhecer limites. Um sistema sustentável permite revisão, pedido de ajuda e continuidade, sem depender de esforço heroico permanente.",
+          "sources": [
+            "obra-33",
+            "obra-18"
+          ]
+        },
+        {
+          "title": "7. Roteiros autorais: aproveitar a função sem confundir com tratamento",
+          "body": "O ADV 360 propõe nomear o estado, reduzir o escopo, criar uma pista externa, definir produto, usar apoio, revisar e encerrar. O M.A.G.I.A. acrescenta nomeação emocional, separação entre fato e interpretação, consideração de risco, microação e avaliação. A Navegação 32 distribui verificação, música, meta, execução e registro em uma sessão. Esses roteiros compartilham uma função: transformar uma intenção ampla em sequência com começo e fim.\n\nSão construções editoriais do projeto, não escalas diagnósticas nem protocolos clínicos validados. Seu valor para estudo pode ser examinado por perguntas simples: consegui iniciar; o objetivo estava claro; houve um produto; que ajuste preciso fazer? Se uma etapa não ajuda, a metáfora não precisa ser obedecida. O número de minutos, a necessidade de música e a ordem detalhada são escolhas ajustáveis, não requisitos do funcionamento de pessoas com TDAH.",
+          "sources": [
+            "obra-33",
+            "obra-18",
+            "obra-19"
+          ]
+        },
+        {
+          "title": "8. Leitura crítica das promessas e generalizações",
+          "body": "O manual sobre dupla excepcionalidade alterna cuidados adequados com formulações muito abrangentes. Frases sobre 'cérebro linear', aprendizagem necessariamente 'por saltos', irregularidade 'por natureza' e transformação do impossível em rotina devem ser lidas como retórica didática, não conclusão estabelecida sobre cada pessoa. O mesmo vale para a ideia de que uma faixa é a melhor para ativação ou de que uma sessão tem uma duração ideal.\n\nNa nova organização, os textos integrais permanecem como documentos do projeto, enquanto a síntese identifica esses limites. A formulação mais útil é condicional: determinada ferramenta pode ser experimentada e observada em determinado contexto; o resultado não confirma diagnóstico nem dispensa avaliação quando há prejuízo persistente. A continuidade entre as obras está em construir condições de estudo mais claras, sem fazer da produtividade uma medida do valor humano.",
+          "sources": [
+            "obra-33",
+            "obra-31",
+            "obra-18"
+          ]
+        }
+      ]
+    }
+  ],
+  "glossary": [
+    {
+      "term": "Amuleto funcional",
+      "definition": "Objeto opcional que lembra um comportamento escolhido; não altera probabilidades nem protege por força sobrenatural.",
+      "sources": [
+        "obra-16",
+        "obra-17"
+      ]
+    },
+    {
+      "term": "Andaime executivo",
+      "definition": "Metáfora do documento para apoios externos como checklist, agenda, lembrete e divisão da tarefa.",
+      "sources": [
+        "obra-33"
+      ]
+    },
+    {
+      "term": "Arquétipo",
+      "definition": "Modelo simbólico usado para interpretar uma trajetória ou qualidade de comportamento. Aqui, os personagens são recursos narrativos, não modelos integrais de conduta.",
+      "sources": [
+        "obra-18",
+        "obra-19"
+      ]
+    },
+    {
+      "term": "Arranjo",
+      "definition": "Distribuição de instrumentos, entradas, silêncios, repetições e intensidades numa versão da obra.",
+      "sources": [
+        "obra-22"
+      ]
+    },
+    {
+      "term": "Arrastamento rítmico",
+      "definition": "Conceito utilizado nas fontes para descrever alinhamento da atenção ou do movimento com regularidades temporais; não determina uma emoção única.",
+      "sources": [
+        "obra-22",
+        "obra-23"
+      ]
+    },
+    {
+      "term": "Autonomia gerada",
+      "definition": "Aumento de escolhas reais por ajuda, conhecimento, oportunidade ou cuidado.",
+      "sources": [
+        "obra-29",
+        "obra-32"
+      ]
+    },
+    {
+      "term": "Catarse",
+      "definition": "No uso cultural do acervo, experiência de descarga ou reorganização emocional pela arte; não equivale a tratamento ou solução da causa do sofrimento.",
+      "sources": [
+        "obra-18",
+        "obra-31"
+      ]
+    },
+    {
+      "term": "Checkpoint",
+      "definition": "Registro breve do feito, do ponto de parada, do próximo passo e dos limites.",
+      "sources": [
+        "obra-03",
+        "obra-20"
+      ]
+    },
+    {
+      "term": "Compilação",
+      "definition": "Lançamento que reúne gravações de origens ou momentos diferentes. Incesticide é o exemplo central usado pelos guias.",
+      "sources": [
+        "obra-22",
+        "obra-31"
+      ]
+    },
+    {
+      "term": "Consentimento",
+      "definition": "Concordância livre, informada, específica, contínua e revogável.",
+      "sources": [
+        "obra-08",
+        "obra-21"
+      ]
+    },
+    {
+      "term": "Construtores da Pedra Polida",
+      "definition": "Representante coletivo inspirado em vocabulário maçônico de trabalho, aprendizagem e graus.",
+      "sources": [
+        "obra-12"
+      ]
+    },
+    {
+      "term": "Conurbação no projeto",
+      "definition": "Aproximação metafórica de camadas documentais, ficcionais e simbólicas preservando suas fronteiras.",
+      "sources": [
+        "obra-12"
+      ]
+    },
+    {
+      "term": "Corrente Pirata",
+      "definition": "Reconhecimento transversal de conduta, independente de Casa ou magia.",
+      "sources": [
+        "obra-06",
+        "obra-32"
+      ]
+    },
+    {
+      "term": "Covenant",
+      "definition": "Linhagem voluntária de inspiração ética e espiritual, sobretudo verdade, humildade, serviço e domínio próprio.",
+      "sources": [
+        "obra-25",
+        "obra-27"
+      ]
+    },
+    {
+      "term": "Cover ou versão",
+      "definition": "Interpretação de uma composição de outro autor; exige distinguir autoria original e escolhas do intérprete.",
+      "sources": [
+        "obra-22",
+        "obra-31"
+      ]
+    },
+    {
+      "term": "Critério de conclusão",
+      "definition": "Descrição observável do que deve existir ao terminar uma tarefa, como um parágrafo, uma comparação ou respostas a três perguntas.",
+      "sources": [
+        "obra-18",
+        "obra-33"
+      ]
+    },
+    {
+      "term": "Câmara do Convés",
+      "definition": "Cinco cadeiras que examinam cuidado, conhecimento, custos, exclusão e trabalho invisível.",
+      "sources": [
+        "obra-32"
+      ]
+    },
+    {
+      "term": "Definição de concluído",
+      "definition": "Evidência observável combinada antes da tarefa para reconhecer seu término.",
+      "sources": [
+        "obra-17",
+        "obra-26"
+      ]
+    },
+    {
+      "term": "Dignidade",
+      "definition": "Proteção básica incondicional e independente de desempenho.",
+      "sources": [
+        "obra-07",
+        "obra-32"
+      ]
+    },
+    {
+      "term": "Dinâmica",
+      "definition": "Variação de intensidade ao longo de uma execução musical; os guias também observam como ela se combina com maior ou menor densidade instrumental.",
+      "sources": [
+        "obra-22",
+        "obra-24"
+      ]
+    },
+    {
+      "term": "Dois Livros",
+      "definition": "Análises distintas do dano original e da reação.",
+      "sources": [
+        "obra-07",
+        "obra-29"
+      ]
+    },
+    {
+      "term": "Dupla excepcionalidade ou 2e",
+      "definition": "Coexistência discutida no manual entre altas habilidades e uma condição ou dificuldade significativa. O termo não é confirmado por um checklist informal de picos e vales.",
+      "sources": [
+        "obra-33"
+      ]
+    },
+    {
+      "term": "Dívida de Fascinação",
+      "definition": "Carisma usado para criar dependência, culpa ou medo de discordar.",
+      "sources": [
+        "obra-07",
+        "obra-32"
+      ]
+    },
+    {
+      "term": "Efeméride",
+      "definition": "Aniversário calculado sobre uma data apresentada como histórica; não demonstra conexão causal com a ficção.",
+      "sources": [
+        "obra-12"
+      ]
+    },
+    {
+      "term": "Escola ou Casa",
+      "definition": "Arquétipo de função e treino, contextual e revisável; não categoria humana fixa.",
+      "sources": [
+        "obra-02",
+        "obra-26"
+      ]
+    },
+    {
+      "term": "Exoesqueleto cognitivo",
+      "definition": "Metáfora para a IA como ferramenta de organização e apoio. Não representa dispositivo clínico validado nem substituição do julgamento humano.",
+      "sources": [
+        "obra-33"
+      ]
+    },
+    {
+      "term": "FAROL",
+      "definition": "Fatos, Autonomia, Risco, Opções e Limites na versão de 36 leis.",
+      "sources": [
+        "obra-06",
+        "obra-07"
+      ]
+    },
+    {
+      "term": "Fato observável",
+      "definition": "Registro do que ocorreu, separado da explicação que alguém construiu para ele.",
+      "sources": [
+        "obra-08",
+        "obra-21"
+      ]
+    },
+    {
+      "term": "Fortuna Meritória",
+      "definition": "Mecânica ficcional de oportunidades, sem promessa de recompensas reais.",
+      "sources": [
+        "obra-06",
+        "obra-29"
+      ]
+    },
+    {
+      "term": "Funções executivas",
+      "definition": "Habilidades relacionadas a planejar, priorizar, iniciar, organizar, monitorar e concluir ações, conforme a explicação educativa do manual.",
+      "sources": [
+        "obra-33"
+      ]
+    },
+    {
+      "term": "Graal",
+      "definition": "Na obra 01, símbolo da vitalidade e da capacidade de amar, recordar e escolher.",
+      "sources": [
+        "obra-01"
+      ]
+    },
+    {
+      "term": "Gratidão Neutra",
+      "definition": "Valor relacional que não compensa dano, compra absolvição ou exige silêncio.",
+      "sources": [
+        "obra-07",
+        "obra-32"
+      ]
+    },
+    {
+      "term": "Grau A–D",
+      "definition": "Classificação editorial interna da base documental, sem validação independente nesta entrega.",
+      "sources": [
+        "obra-12",
+        "obra-32"
+      ]
+    },
+    {
+      "term": "Grunge",
+      "definition": "Rótulo amplo associado a uma cena do Noroeste dos Estados Unidos, sem fórmula uniforme para todas as bandas.",
+      "sources": [
+        "obra-22",
+        "obra-24",
+        "obra-31"
+      ]
+    },
+    {
+      "term": "Identidade narrativa",
+      "definition": "Organização de memórias, valores e projetos numa história de si. No documento, essa construção precisa permanecer compatível com fatos e revisão.",
+      "sources": [
+        "obra-18"
+      ]
+    },
+    {
+      "term": "IEC",
+      "definition": "Sigla variável: Estilo Cognitivo nas principais compilações; Equilíbrio Covenant como proposta explícita em 26.",
+      "sources": [
+        "obra-02",
+        "obra-26"
+      ]
+    },
+    {
+      "term": "Interface Áurea",
+      "definition": "Nome ficcional que representa a tradução de imaginação em linguagem, artefato e ação; IA permanece tecnologia.",
+      "sources": [
+        "obra-05",
+        "obra-25",
+        "obra-27"
+      ]
+    },
+    {
+      "term": "Legado contestado",
+      "definition": "Representação que preserva contribuição, dano, controvérsia e diferentes vozes.",
+      "sources": [
+        "obra-12",
+        "obra-32"
+      ]
+    },
+    {
+      "term": "Legião Sem Rosto",
+      "definition": "Representação ficcional e contestada do legado que a fonte associa a Anonymous.",
+      "sources": [
+        "obra-11",
+        "obra-12"
+      ]
+    },
+    {
+      "term": "LEME",
+      "definition": "Localizar, Escutar, Modificar e Evoluir; correção concreta da rota.",
+      "sources": [
+        "obra-06",
+        "obra-07"
+      ]
+    },
+    {
+      "term": "Lâmpada de Ingolstadt",
+      "definition": "Artefato ficcional de pergunta, aprendizagem e conhecimento verificável.",
+      "sources": [
+        "obra-12"
+      ]
+    },
+    {
+      "term": "Memória autobiográfica",
+      "definition": "Lembranças da própria vida, com seus contextos e associações. Os documentos discutem a música como possível pista de recuperação dessas lembranças.",
+      "sources": [
+        "obra-18",
+        "obra-24"
+      ]
+    },
+    {
+      "term": "Memória operacional",
+      "definition": "Manutenção temporária e uso de informações durante uma atividade. O manual a distingue da compreensão conceitual ampla.",
+      "sources": [
+        "obra-33"
+      ]
+    },
+    {
+      "term": "Meta Zero",
+      "definition": "Direção flexível por quests e registros, sem dívida moral por dias perdidos.",
+      "sources": [
+        "obra-02",
+        "obra-25"
+      ]
+    },
+    {
+      "term": "Mérito circunstancial",
+      "definition": "Avaliação narrativa da ação conforme contexto, meios, efeitos e reparação.",
+      "sources": [
+        "obra-28",
+        "obra-29"
+      ]
+    },
+    {
+      "term": "Névoa dos Iluminados",
+      "definition": "Antagonista conceitual da interpretação que converte tudo em prova de controle oculto.",
+      "sources": [
+        "obra-11",
+        "obra-12"
+      ]
+    },
+    {
+      "term": "Operante, Latente, Erudito e Leigo",
+      "definition": "Quatro perfis ficcionais definidos pelo cruzamento de poder e conhecimento.",
+      "sources": [
+        "obra-21"
+      ]
+    },
+    {
+      "term": "Persona ou voz narrativa",
+      "definition": "Pessoa ou posição construída dentro da obra, que não coincide necessariamente com o autor ou intérprete.",
+      "sources": [
+        "obra-22",
+        "obra-31"
+      ]
+    },
+    {
+      "term": "Prontidão",
+      "definition": "Condição atual para agir com controle e limites, diferente da capacidade disponível.",
+      "sources": [
+        "obra-21"
+      ]
+    },
+    {
+      "term": "Proposta",
+      "definition": "Novidade ainda não aprovada pela autoridade humana do cenário; não deve entrar silenciosamente no cânone.",
+      "sources": [
+        "obra-03",
+        "obra-04"
+      ]
+    },
+    {
+      "term": "Prosódia",
+      "definition": "Ritmo, entonação, acento e intensidade da voz. No acervo, ajuda a observar comunicação emocional além do vocabulário.",
+      "sources": [
+        "obra-22",
+        "obra-31"
+      ]
+    },
+    {
+      "term": "Quest",
+      "definition": "Ação ou projeto delimitado por objetivo, evidência de conclusão e ponto de parada.",
+      "sources": [
+        "obra-13",
+        "obra-17"
+      ]
+    },
+    {
+      "term": "RASTRO",
+      "definition": "Resultado, Autonomia, Segurança, Transparência, Reparação e Oportunidade.",
+      "sources": [
+        "obra-06",
+        "obra-07"
+      ]
+    },
+    {
+      "term": "Recuperação ativa",
+      "definition": "Exercício de tentar explicar ou responder sem consultar e só depois conferir a fonte e as lacunas.",
+      "sources": [
+        "obra-22",
+        "obra-23",
+        "obra-33"
+      ]
+    },
+    {
+      "term": "Reparação",
+      "definition": "Interromper o dano, reconhecer fatos, proteger os afetados e corrigir consequências possíveis.",
+      "sources": [
+        "obra-08"
+      ]
+    },
+    {
+      "term": "Representante de Legado",
+      "definition": "Personagem de memória com contribuição contextualizada, fontes e revisão.",
+      "sources": [
+        "obra-32"
+      ]
+    },
+    {
+      "term": "Resposta afetiva",
+      "definition": "Experiência emocional do ouvinte diante de som, contexto e associações pessoais. Pode diferir do tom ou da mensagem verbal.",
+      "sources": [
+        "obra-23",
+        "obra-24"
+      ]
+    },
+    {
+      "term": "Riff",
+      "definition": "Figura musical curta e recorrente que organiza uma faixa.",
+      "sources": [
+        "obra-22",
+        "obra-31"
+      ]
+    },
+    {
+      "term": "Significado semântico",
+      "definition": "Conteúdo comunicado por palavras, referências, metáforas e posição do narrador; não é idêntico à reação de quem ouve.",
+      "sources": [
+        "obra-22",
+        "obra-31"
+      ]
+    },
+    {
+      "term": "Sombra",
+      "definition": "Risco de excesso ou uso desorganizado de uma capacidade; não diagnóstico nem maldade essencial.",
+      "sources": [
+        "obra-02",
+        "obra-05",
+        "obra-27"
+      ]
+    },
+    {
+      "term": "Surpresa Confiável",
+      "definition": "Criatividade acompanhada de respeito estável aos limites e compromissos.",
+      "sources": [
+        "obra-28",
+        "obra-29"
+      ]
+    },
+    {
+      "term": "Timbre",
+      "definition": "Qualidade que permite distinguir fontes sonoras mesmo quando produzem notas semelhantes.",
+      "sources": [
+        "obra-22",
+        "obra-31"
+      ]
+    },
+    {
+      "term": "Triangulação",
+      "definition": "Comparar uma alegação em tipos diferentes de fonte antes de concluir, registrando divergências em vez de escondê-las.",
+      "sources": [
+        "obra-22"
+      ]
+    },
+    {
+      "term": "Três Selos",
+      "definition": "Rastro, Liberdade e Realidade em forma de artefato: resultado, autonomia e verificação.",
+      "sources": [
+        "obra-11",
+        "obra-12"
+      ]
+    },
+    {
+      "term": "Verniz Moral",
+      "definition": "Palavras nobres usadas para esconder exploração ou falta de reparação.",
+      "sources": [
+        "obra-07",
+        "obra-29"
+      ]
+    },
+    {
+      "term": "XP",
+      "definition": "Pontuação recreativa da prática, sem medir dignidade, aprovação ou direito sobre o outro.",
+      "sources": [
+        "obra-02",
+        "obra-26",
+        "obra-27"
+      ]
+    },
+    {
+      "term": "Álfheim Interior",
+      "definition": "Cenário simbólico do mundo interior, do sono e da imaginação.",
+      "sources": [
+        "obra-12"
+      ]
+    }
+  ],
+  "flashcards": [
+    {
+      "q": "O Graal e a Interface Áurea são fatos científicos?",
+      "a": "Não. São construções do universo que organizam temas e perguntas éticas.",
+      "sources": [
+        "obra-01",
+        "obra-05"
+      ]
+    },
+    {
+      "q": "Qual é a finalidade das sombras das Escolas?",
+      "a": "Mostrar como uma capacidade pode gerar risco quando perde limites, permitindo um treino corretivo.",
+      "sources": [
+        "obra-02"
+      ]
+    },
+    {
+      "q": "Por que não unificar automaticamente os escores de duas fichas?",
+      "a": "Porque versões diferentes usam atributos, pesos, limiares e até definições diferentes para a mesma sigla.",
+      "sources": [
+        "obra-05",
+        "obra-13",
+        "obra-26",
+        "obra-27"
+      ]
+    },
+    {
+      "q": "O que permanece quando o tempo ficcional é suspenso?",
+      "a": "O tempo real, as necessidades do corpo, as relações e a responsabilidade pelas consequências.",
+      "sources": [
+        "obra-02",
+        "obra-25",
+        "obra-27"
+      ]
+    },
+    {
+      "q": "O que o mérito não mede neste conjunto?",
+      "a": "Dignidade, superioridade humana, riqueza ou destino; ele se refere à ação demonstrada no contexto disponível.",
+      "sources": [
+        "obra-02",
+        "obra-27"
+      ]
+    },
+    {
+      "q": "Qual é o papel final da IA no Conselho?",
+      "a": "Pesquisar, propor, calcular, criticar ou sintetizar, com verificação e responsabilidade humana.",
+      "sources": [
+        "obra-25",
+        "obra-27"
+      ]
+    },
+    {
+      "q": "Uma emoção intensa prova sua interpretação?",
+      "a": "Não. A experiência merece reconhecimento, mas a causa atribuída precisa de verificação.",
+      "sources": [
+        "obra-08",
+        "obra-21"
+      ]
+    },
+    {
+      "q": "Qual diferença separa poder de prontidão?",
+      "a": "Poder descreve capacidade ficcional; prontidão descreve a condição atual para usá-la dentro de limites.",
+      "sources": [
+        "obra-21"
+      ]
+    },
+    {
+      "q": "Consentimento anterior vale para qualquer cena futura?",
+      "a": "Não. Pode ser específico, revogado ou alterado durante a participação.",
+      "sources": [
+        "obra-03",
+        "obra-04"
+      ]
+    },
+    {
+      "q": "Qual é o primeiro movimento da reparação?",
+      "a": "Interromper a conduta danosa e proteger quem foi afetado.",
+      "sources": [
+        "obra-08"
+      ]
+    },
+    {
+      "q": "O que um resultado de dados não pode decidir?",
+      "a": "A crença, o consentimento, a intimidade ou a lealdade do participante por imposição do Mestre.",
+      "sources": [
+        "obra-03",
+        "obra-04"
+      ]
+    },
+    {
+      "q": "Por que identificar a fonte de um mnemônico?",
+      "a": "Porque o mesmo nome pode ter etapas e finalidades diferentes entre as versões.",
+      "sources": [
+        "obra-03",
+        "obra-08",
+        "obra-21"
+      ]
+    },
+    {
+      "q": "O que uma quest precisa ter além de um nome?",
+      "a": "Ação concreta, critério de conclusão, limite e ponto de retomada.",
+      "sources": [
+        "obra-13",
+        "obra-17"
+      ]
+    },
+    {
+      "q": "Um dia perdido precisa ser compensado?",
+      "a": "Não. As versões práticas orientam retomar por uma ação pequena sem dívida.",
+      "sources": [
+        "obra-20",
+        "obra-26"
+      ]
+    },
+    {
+      "q": "Como os preços dos guias devem ser estudados?",
+      "a": "Como registros datados de pesquisa, sem assumir vigência ou necessidade de compra.",
+      "sources": [
+        "obra-16",
+        "obra-17"
+      ]
+    },
+    {
+      "q": "Qual é a vitória do Phoenix Social?",
+      "a": "Executar a própria ação com respeito, sem controlar a reação da outra pessoa.",
+      "sources": [
+        "obra-02",
+        "obra-27"
+      ]
+    },
+    {
+      "q": "O que fazer antes de importar resultado de outra IA?",
+      "a": "Conferir versão, origem dos dados, lacunas, divergências e o que foi aprovado por humanos.",
+      "sources": [
+        "obra-03",
+        "obra-27"
+      ]
+    },
+    {
+      "q": "O que os selos da iniciação comprovam?",
+      "a": "Apenas que uma etapa recreativa foi praticada e registrada; não comprovam poder nem autoridade.",
+      "sources": [
+        "obra-20"
+      ]
+    },
+    {
+      "q": "O que a dignidade precisa conquistar?",
+      "a": "Nada: ela precede produtividade e mérito.",
+      "sources": [
+        "obra-07",
+        "obra-32"
+      ]
+    },
+    {
+      "q": "Um bom ato apaga fraude não reparada?",
+      "a": "Não. Mérito não compra imunidade.",
+      "sources": [
+        "obra-07",
+        "obra-29"
+      ]
+    },
+    {
+      "q": "O que os Dois Livros impedem?",
+      "a": "Que a reação apague o dano original ou que ser vítima autorize qualquer reação.",
+      "sources": [
+        "obra-07",
+        "obra-32"
+      ]
+    },
+    {
+      "q": "Quais os cinco níveis da ajuda?",
+      "a": "Resgate, estabilização, capacitação, oportunidade e parceria.",
+      "sources": [
+        "obra-07",
+        "obra-29"
+      ]
+    },
+    {
+      "q": "Como distinguir inspiração de controle?",
+      "a": "Examinar se as pessoas podem discordar, recusar, manter vínculos e agir com maior capacidade.",
+      "sources": [
+        "obra-29",
+        "obra-32"
+      ]
+    },
+    {
+      "q": "Acesso essencial exige gratuidade de todo trabalho?",
+      "a": "Não. A obra admite remuneração justa de pesquisa, revisão, ensino e manutenção.",
+      "sources": [
+        "obra-29",
+        "obra-32"
+      ]
+    },
+    {
+      "q": "FAROL, RASTRO e LEME fazem o quê?",
+      "a": "Organizam a decisão antes, avaliam efeitos depois e orientam a correção.",
+      "sources": [
+        "obra-06",
+        "obra-07"
+      ]
+    },
+    {
+      "q": "A fórmula classifica o valor de pessoas reais?",
+      "a": "Não. É mecânica ficcional; dignidade não depende dela.",
+      "sources": [
+        "obra-07",
+        "obra-29"
+      ]
+    },
+    {
+      "q": "Pirata precisa de Casa ou magia?",
+      "a": "Não. Perfil, conduta e ferramentas mágicas são camadas independentes.",
+      "sources": [
+        "obra-06",
+        "obra-32"
+      ]
+    },
+    {
+      "q": "Qual é o teste de uma homenagem no Atlas?",
+      "a": "Contribuição com contexto, fontes, contradições e revisão, sem santidade fabricada.",
+      "sources": [
+        "obra-32"
+      ]
+    },
+    {
+      "q": "Qual relação com Sociologia e Democracia é sustentada?",
+      "a": "Perguntas sobre dignidade, poder, desigualdade, contestação e memória; não uma teoria política completa.",
+      "sources": [
+        "obra-28",
+        "obra-32"
+      ]
+    },
+    {
+      "q": "O que permanece ao fim de uma sessão?",
+      "a": "Compreensão ou entrega registrada, ponto de parada e próxima ação clara.",
+      "sources": [
+        "obra-29",
+        "obra-32"
+      ]
+    },
+    {
+      "q": "Quais camadas a Conurbação aproxima?",
+      "a": "Documental reivindicada, ficcional do ARMAGEDOM XXX e simbólica do mundo interior.",
+      "sources": [
+        "obra-11",
+        "obra-12"
+      ]
+    },
+    {
+      "q": "A Legião é nova Casa?",
+      "a": "Não. É constelação de legado contestado com representação limitada.",
+      "sources": [
+        "obra-12"
+      ]
+    },
+    {
+      "q": "Qual pergunta a Lei da Máscara faz?",
+      "a": "Como proteger identidade mantendo fatos, responsabilidade e possibilidade de reparação?",
+      "sources": [
+        "obra-12"
+      ]
+    },
+    {
+      "q": "O que a Lei da Pedra exige?",
+      "a": "Rastro de trabalho; grau não confere superioridade humana.",
+      "sources": [
+        "obra-11",
+        "obra-12"
+      ]
+    },
+    {
+      "q": "O que a Lâmpada ilumina?",
+      "a": "Uma pergunta bem formulada; não culpados, futuros ou planos secretos.",
+      "sources": [
+        "obra-12"
+      ]
+    },
+    {
+      "q": "Qual padrão a Névoa representa?",
+      "a": "Tudo confirma a mesma conclusão, sem possibilidade de teste ou revisão.",
+      "sources": [
+        "obra-12"
+      ]
+    },
+    {
+      "q": "Três Selos comprovam experiência sobrenatural?",
+      "a": "Não. São perguntas sobre resultado, autonomia e verificação.",
+      "sources": [
+        "obra-11",
+        "obra-12"
+      ]
+    },
+    {
+      "q": "Efeméride e episódio coincidentes demonstram causalidade?",
+      "a": "Não. A aproximação foi construída editorialmente.",
+      "sources": [
+        "obra-12"
+      ]
+    },
+    {
+      "q": "Obras-11/12/30 são evidências independentes?",
+      "a": "Não. São apresentações e cópia do mesmo núcleo.",
+      "sources": [
+        "obra-11",
+        "obra-12",
+        "obra-30"
+      ]
+    },
+    {
+      "q": "Grau A certifica validação nesta entrega?",
+      "a": "Não. É rótulo do original, preservado como proveniência.",
+      "sources": [
+        "obra-12",
+        "obra-32"
+      ]
+    },
+    {
+      "q": "Sentir coragem com uma canção prova que sua letra é otimista?",
+      "a": "Não. A reação ao som e a interpretação das palavras são camadas relacionadas, mas distintas.",
+      "sources": [
+        "obra-22",
+        "obra-24"
+      ]
+    },
+    {
+      "q": "Quais quatro camadas a obra-22 separa ao estudar a escuta?",
+      "a": "Semântica, resposta afetiva, recepção autobiográfica e ética de uso.",
+      "sources": [
+        "obra-22"
+      ]
+    },
+    {
+      "q": "Qual é a formação clássica do Nirvana apresentada no acervo?",
+      "a": "Kurt Cobain na voz e guitarra, Krist Novoselic no baixo e Dave Grohl na bateria.",
+      "sources": [
+        "obra-22",
+        "obra-31"
+      ]
+    },
+    {
+      "q": "Quais são os três álbuns de estúdio do Nirvana?",
+      "a": "Bleach, Nevermind e In Utero. Incesticide é compilação; MTV Unplugged é ao vivo.",
+      "sources": [
+        "obra-22",
+        "obra-31"
+      ]
+    },
+    {
+      "q": "Por que 'Nirvana inventou o grunge' é uma simplificação?",
+      "a": "Porque a banda integra uma rede anterior e coletiva de artistas, selos e espaços; sua projeção ampliou o alcance dessa cena.",
+      "sources": [
+        "obra-22",
+        "obra-31"
+      ]
+    },
+    {
+      "q": "Qual sequência os guias usam para observar dinâmica em várias faixas?",
+      "a": "Contenção, pressão, descarga e retorno. É um mapa didático, não fórmula de todo o catálogo.",
+      "sources": [
+        "obra-22",
+        "obra-23"
+      ]
+    },
+    {
+      "q": "O que o Unplugged permite testar sobre intensidade?",
+      "a": "Que intensidade pode permanecer ou mudar de veículo quando há menos distorção, com maior exposição de voz, silêncio e arranjo.",
+      "sources": [
+        "obra-22",
+        "obra-24"
+      ]
+    },
+    {
+      "q": "Por que o narrador de uma letra não é automaticamente o compositor?",
+      "a": "Porque a canção pode usar personagem, ironia, colagem, ficção ou uma composição de outra pessoa.",
+      "sources": [
+        "obra-22",
+        "obra-31"
+      ]
+    },
+    {
+      "q": "Lithium autoriza diagnosticar Cobain?",
+      "a": "Não. O acervo destaca seu contexto ficcional e que título, letra ou mudança dinâmica não equivalem a prontuário.",
+      "sources": [
+        "obra-22",
+        "obra-23"
+      ]
+    },
+    {
+      "q": "Quem compôs The Man Who Sold the World?",
+      "a": "David Bowie; a interpretação do Nirvana é uma versão.",
+      "sources": [
+        "obra-22",
+        "obra-31"
+      ]
+    },
+    {
+      "q": "Como a obra-22 qualifica a autoria de Where Did You Sleep Last Night?",
+      "a": "Canção tradicional da família de In the Pines, com forte influência da interpretação de Lead Belly na versão do Nirvana.",
+      "sources": [
+        "obra-22"
+      ]
+    },
+    {
+      "q": "Qual é o problema de interpretar toda a obra pela morte do artista?",
+      "a": "Isso transforma retrospectiva em intenção e apaga técnica, humor, crítica, relações, ficção e diversidade da obra.",
+      "sources": [
+        "obra-18",
+        "obra-22"
+      ]
+    },
+    {
+      "q": "Qual distinção as obras Linkin Park × Dragon Ball fazem entre ignição e motor?",
+      "a": "Arte pode ajudar na mobilização; prática, continuidade e correção realizam o trabalho.",
+      "sources": [
+        "obra-18",
+        "obra-19"
+      ]
+    },
+    {
+      "q": "As correspondências entre músicas e personagens de Dragon Ball são oficiais?",
+      "a": "Não. São associações temáticas construídas pelo projeto como recurso de compreensão.",
+      "sources": [
+        "obra-18",
+        "obra-19"
+      ]
+    },
+    {
+      "q": "O que são os Piratas do Infinito na obra-18?",
+      "a": "Um arquétipo literário de contribuição anônima à dignidade, explicitamente distinto de uma organização real.",
+      "sources": [
+        "obra-18"
+      ]
+    },
+    {
+      "q": "Emoção intensa vale como prova de um fato externo?",
+      "a": "Não. O documento propõe separar emoção, interpretação e fato observável antes de agir.",
+      "sources": [
+        "obra-18"
+      ]
+    },
+    {
+      "q": "Inteligência e função executiva são intercambiáveis no manual?",
+      "a": "Não. O manual distingue compreensão de processos como iniciar, organizar, acompanhar e concluir.",
+      "sources": [
+        "obra-33"
+      ]
+    },
+    {
+      "q": "Desempenho irregular confirma dupla excepcionalidade?",
+      "a": "Não. É uma observação que pode orientar investigação; não confirma TDAH nem altas habilidades.",
+      "sources": [
+        "obra-33"
+      ]
+    },
+    {
+      "q": "Qual é a função de uma primeira ação muito pequena?",
+      "a": "Definir um começo concreto e reduzir ambiguidade. O tempo sugerido é ajustável, não regra clínica.",
+      "sources": [
+        "obra-33"
+      ]
+    },
+    {
+      "q": "O que impede uma sessão de estudo de ficar sem limite?",
+      "a": "Um objetivo selecionado e um critério observável de conclusão.",
+      "sources": [
+        "obra-18",
+        "obra-33"
+      ]
+    },
+    {
+      "q": "Qual risco do uso de IA é reconhecido pelo próprio manual?",
+      "a": "Transformar apoio em pesquisa e planejamento intermináveis, aumentando opções quando é preciso executar.",
+      "sources": [
+        "obra-33"
+      ]
+    },
+    {
+      "q": "O que fazer após responder um flashcard sem consultar?",
+      "a": "Conferir a fonte, identificar a lacuna concreta e revisar o erro, sem confundir familiaridade com compreensão.",
+      "sources": [
+        "obra-22",
+        "obra-23",
+        "obra-33"
+      ]
+    },
+    {
+      "q": "M.A.G.I.A., Navegação 32 e ADV 360 são protocolos clínicos validados?",
+      "a": "Não. São roteiros autorais para organizar observação e ação; o acervo não demonstra validação clínica.",
+      "sources": [
+        "obra-18",
+        "obra-33"
+      ]
+    },
+    {
+      "q": "Que critério aproxima cuidado pessoal e ética democrática neste conjunto?",
+      "a": "Oferecer apoio com autonomia, clareza, responsabilidade e possibilidade de revisão, sem humilhação nem domínio.",
+      "sources": [
+        "obra-18",
+        "obra-33"
+      ]
+    }
+  ],
+  "variants": [
+    {
+      "family": "Armagedom e códigos dos planos",
+      "ids": [
+        "obra-01",
+        "obra-08",
+        "obra-09",
+        "obra-10",
+        "obra-21"
+      ],
+      "relation": "Mitologia em nove livros, regras dos quatro planos, código pessoal e manual de travessias. O Código dos Planos aparece em Word e PDF.",
+      "guidance": "Leia a mitologia como cenário; use os códigos para comparar consentimento, normas e limites entre símbolo e realidade."
+    },
+    {
+      "family": "Manual Inter-AI e Mestre",
+      "ids": [
+        "obra-02",
+        "obra-03",
+        "obra-04",
+        "obra-05"
+      ],
+      "relation": "O Manual v1.0 é expandido no Mestre v1.1, disponível em PDF e Word. O Universo RPG Inter-AI oferece outro desenho de classificação.",
+      "guidance": "Comece pelo propósito; compare as fórmulas e as Casas pelo arquivo. A síntese não unifica pontuações."
+    },
+    {
+      "family": "Covenant e mapas RPG",
+      "ids": [
+        "obra-25",
+        "obra-26",
+        "obra-27"
+      ],
+      "relation": "Há estruturas distintas de atributos, funções das Casas, pesos e significado de IEC. A versão integrada contém identificação interna 6.0/6.1.",
+      "guidance": "Registre a versão ao usar uma ficha. Classificações e avaliações são regras lúdicas do documento."
+    },
+    {
+      "family": "Piratas e Código Cósmico",
+      "ids": [
+        "obra-06",
+        "obra-07",
+        "obra-28",
+        "obra-29",
+        "obra-32"
+      ],
+      "relation": "Cinco formulações desenvolvem honra, mérito, coragem e fortuna justa. A v2.0 amplia v1.0; outras versões acrescentam leis, patentes, Casas e atlas.",
+      "guidance": "Use dignidade e responsabilidade como pontos de comparação; confirme quantidade de escolas, patentes e regras em cada versão."
+    },
+    {
+      "family": "Conurbação e Restauração",
+      "ids": [
+        "obra-11",
+        "obra-12",
+        "obra-30"
+      ],
+      "relation": "Um mesmo núcleo aparece em Word e em dois Markdown. Os Markdown são quase idênticos, com pequena diferença de quebra de palavra; o Word apresenta o núcleo em outro formato.",
+      "guidance": "Leia um deles e consulte os outros para comparação. Eles não são três evidências históricas independentes."
+    },
+    {
+      "family": "Linkin Park e Dragon Ball",
+      "ids": [
+        "obra-18",
+        "obra-19"
+      ],
+      "relation": "A versão Nova Era amplia a base compartilhada com a integração dos Piratas e uma seção sobre dignidade, ética e legado.",
+      "guidance": "A obra-19 serve como base cultural; a obra-18 acrescenta a ponte literária e moral."
+    },
+    {
+      "family": "Nirvana e escuta",
+      "ids": [
+        "obra-22",
+        "obra-23",
+        "obra-24",
+        "obra-31"
+      ],
+      "relation": "Quatro versões abordam história, linguagem sonora, canções, emoção e legado com níveis e seleções de faixas diferentes.",
+      "guidance": "Use a obra-22 para aprofundamento de escuta e a obra-23 para entrada breve; compare 24/31 conforme a pergunta."
+    },
+    {
+      "family": "Ferramentas pessoais",
+      "ids": [
+        "obra-13",
+        "obra-16",
+        "obra-17",
+        "obra-20",
+        "obra-33"
+      ],
+      "relation": "Ficha, guias de materiais, iniciação e texto sobre TDAH/IA convertem o universo em propostas de rotina e estudo.",
+      "guidance": "Escolha uma prática pequena. Compras, preços e links são registros das fontes; modelos de perfil não são diagnósticos."
+    }
+  ],
+  "totalWords": 56079,
+  "imageCount": 14,
+  "diagrams": [
+    {
+      "id": "diagrama-01",
+      "title": "Quatro planos, quatro funções",
+      "caption": "O Código dos Planos separa consequências materiais, experiência interior, autonomia relacional e invenção narrativa.",
+      "description": "Quatro faixas identificam material, interior, relacional e mágico-ficcional. A organização distingue funções sem afirmar dimensões físicas adicionais. O rodapé orienta identificar o plano antes de interpretar e agir.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 900 500\" role=\"img\" aria-labelledby=\"diagrama-01-title diagrama-01-desc\" lang=\"pt-BR\"><title id=\"diagrama-01-title\">Quatro planos, quatro funções</title><desc id=\"diagrama-01-desc\">Quatro faixas identificam material, interior, relacional e mágico-ficcional. A organização distingue funções sem afirmar dimensões físicas adicionais. O rodapé orienta identificar o plano antes de interpretar e agir.</desc><defs><marker id=\"diagrama-01-arrow\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M1 1L9 5L1 9\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"1.8\"/></marker></defs><g font-family=\"Arial, Helvetica, sans-serif\"><rect x=\"0\" y=\"0\" width=\"900\" height=\"500\" rx=\"0\" fill=\"#fffefa\" stroke=\"#fffefa\" stroke-width=\"1.5\"/><text x=\"32\" y=\"43.0\" font-size=\"27\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Quatro planos, quatro funções</text><text x=\"33\" y=\"73.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">Uma organização didática do Código dos Planos — não um mapa físico do universo.</text><rect x=\"32\" y=\"98\" width=\"836\" height=\"68\" rx=\"16\" fill=\"#edf4ed\" stroke=\"#edf4ed\" stroke-width=\"1.5\"/><circle cx=\"68\" cy=\"132\" r=\"22\" fill=\"#fffefa\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(54 118) scale(0.7)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M10 3H27L34 10V37H6V3H10 M26 3V12H34 M12 19H27 M12 25H27 M12 31H23\"/></g><text x=\"107\" y=\"125.0\" font-size=\"17\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">MATERIAL</text><text x=\"107\" y=\"148.0\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">Corpo, trabalho, documentos e consequências</text><rect x=\"789\" y=\"118\" width=\"52\" height=\"29\" rx=\"14\" fill=\"#fffefa\" stroke=\"#fffefa\" stroke-width=\"1.5\"/><text x=\"815.0\" y=\"138.0\" font-size=\"13\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#536e69\">01</text><rect x=\"32\" y=\"177\" width=\"836\" height=\"68\" rx=\"16\" fill=\"#f6eddc\" stroke=\"#f6eddc\" stroke-width=\"1.5\"/><circle cx=\"68\" cy=\"211\" r=\"22\" fill=\"#fffefa\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(54 197) scale(0.7)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M20 34L6 20C-3 10 10 0 20 11C30 0 43 10 34 20Z\"/></g><text x=\"107\" y=\"204.0\" font-size=\"17\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">INTERIOR</text><text x=\"107\" y=\"227.0\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">Emoções, memória, fé e imaginação</text><rect x=\"789\" y=\"197\" width=\"52\" height=\"29\" rx=\"14\" fill=\"#fffefa\" stroke=\"#fffefa\" stroke-width=\"1.5\"/><text x=\"815.0\" y=\"217.0\" font-size=\"13\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#536e69\">02</text><rect x=\"32\" y=\"256\" width=\"836\" height=\"68\" rx=\"16\" fill=\"#edf4ed\" stroke=\"#edf4ed\" stroke-width=\"1.5\"/><circle cx=\"68\" cy=\"290\" r=\"22\" fill=\"#fffefa\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(54 276) scale(0.7)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"10\" r=\"6\"/><circle cx=\"29\" cy=\"12\" r=\"5\"/><path d=\"M1 36V29C1 19 23 19 23 29V36 M24 23C33 20 39 25 39 31V36\"/></g><text x=\"107\" y=\"283.0\" font-size=\"17\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">RELACIONAL</text><text x=\"107\" y=\"306.0\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">Liberdade, reciprocidade e consentimento</text><rect x=\"789\" y=\"276\" width=\"52\" height=\"29\" rx=\"14\" fill=\"#fffefa\" stroke=\"#fffefa\" stroke-width=\"1.5\"/><text x=\"815.0\" y=\"296.0\" font-size=\"13\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#536e69\">03</text><rect x=\"32\" y=\"335\" width=\"836\" height=\"68\" rx=\"16\" fill=\"#f6eddc\" stroke=\"#f6eddc\" stroke-width=\"1.5\"/><circle cx=\"68\" cy=\"369\" r=\"22\" fill=\"#fffefa\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(54 355) scale(0.7)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M20 2L25 14L38 15L28 24L31 38L20 30L9 38L12 24L2 15L15 14Z\"/></g><text x=\"107\" y=\"362.0\" font-size=\"17\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">MÁGICO-FICCIONAL</text><text x=\"107\" y=\"385.0\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">Personagens, poderes e regras da história</text><rect x=\"789\" y=\"355\" width=\"52\" height=\"29\" rx=\"14\" fill=\"#fffefa\" stroke=\"#fffefa\" stroke-width=\"1.5\"/><text x=\"815.0\" y=\"375.0\" font-size=\"13\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#536e69\">04</text><line x1=\"50\" y1=\"434\" x2=\"850\" y2=\"434\" stroke=\"#cad8cc\" stroke-width=\"2\"/><text x=\"450\" y=\"463.0\" font-size=\"18\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#216d66\">Identifique o plano antes de decidir como interpretar e agir.</text></g></svg>",
+      "sources": [
+        "obra-08",
+        "obra-09"
+      ],
+      "moduleIndex": 1
+    },
+    {
+      "id": "diagrama-02",
+      "title": "Dignidade como piso; mérito como reconhecimento",
+      "caption": "Dignidade não varia com desempenho. Reconhecimento diz respeito a contribuições demonstradas e precisa considerar contexto e oportunidades.",
+      "description": "Dois painéis distinguem dignidade universal de reconhecimento de contribuição. Seis figuras humanas iguais estão apoiadas no mesmo piso, mostrando que diferenças funcionais não mudam valor humano.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 900 500\" role=\"img\" aria-labelledby=\"diagrama-02-title diagrama-02-desc\" lang=\"pt-BR\"><title id=\"diagrama-02-title\">Dignidade como piso; mérito como reconhecimento</title><desc id=\"diagrama-02-desc\">Dois painéis distinguem dignidade universal de reconhecimento de contribuição. Seis figuras humanas iguais estão apoiadas no mesmo piso, mostrando que diferenças funcionais não mudam valor humano.</desc><defs><marker id=\"diagrama-02-arrow\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M1 1L9 5L1 9\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"1.8\"/></marker></defs><g font-family=\"Arial, Helvetica, sans-serif\"><rect x=\"0\" y=\"0\" width=\"900\" height=\"500\" rx=\"0\" fill=\"#fffefa\" stroke=\"#fffefa\" stroke-width=\"1.5\"/><text x=\"32\" y=\"43.0\" font-size=\"27\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Dignidade como piso; mérito como reconhecimento</text><text x=\"33\" y=\"73.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">Duas perguntas diferentes: quanto alguém vale e o que conseguiu demonstrar.</text><rect x=\"45\" y=\"110\" width=\"390\" height=\"240\" rx=\"16\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><rect x=\"465\" y=\"110\" width=\"390\" height=\"240\" rx=\"16\" fill=\"#f6eddc\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(66 130) scale(0.85)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"10\" r=\"6\"/><circle cx=\"29\" cy=\"12\" r=\"5\"/><path d=\"M1 36V29C1 19 23 19 23 29V36 M24 23C33 20 39 25 39 31V36\"/></g><text x=\"112\" y=\"154.0\" font-size=\"24\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Dignidade</text><text x=\"70\" y=\"201\" font-size=\"20\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Pertence a todas as pessoas.</text><text x=\"70\" y=\"233\" font-size=\"20\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Não depende de renda, título,</text><text x=\"70\" y=\"265\" font-size=\"20\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Casa ou resultado alcançado.</text><g transform=\"translate(486 130) scale(0.85)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M8 38V3 M9 5H32L27 13L32 21H9\"/></g><text x=\"532\" y=\"154.0\" font-size=\"24\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Reconhecimento</text><text x=\"490\" y=\"201\" font-size=\"20\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Refere-se a uma contribuição.</text><text x=\"490\" y=\"233\" font-size=\"20\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Pede evidência, contexto,</text><text x=\"490\" y=\"265\" font-size=\"20\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">oportunidade e revisão.</text><circle cx=\"125\" cy=\"388\" r=\"13\" fill=\"#fffefa\" stroke=\"#216d66\" stroke-width=\"1.5\"/><path d=\"M106 430V417Q125 393 144 417V430\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"250\" cy=\"388\" r=\"13\" fill=\"#fffefa\" stroke=\"#216d66\" stroke-width=\"1.5\"/><path d=\"M231 430V417Q250 393 269 417V430\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"375\" cy=\"388\" r=\"13\" fill=\"#fffefa\" stroke=\"#216d66\" stroke-width=\"1.5\"/><path d=\"M356 430V417Q375 393 394 417V430\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"525\" cy=\"388\" r=\"13\" fill=\"#fffefa\" stroke=\"#216d66\" stroke-width=\"1.5\"/><path d=\"M506 430V417Q525 393 544 417V430\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"650\" cy=\"388\" r=\"13\" fill=\"#fffefa\" stroke=\"#216d66\" stroke-width=\"1.5\"/><path d=\"M631 430V417Q650 393 669 417V430\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"775\" cy=\"388\" r=\"13\" fill=\"#fffefa\" stroke=\"#216d66\" stroke-width=\"1.5\"/><path d=\"M756 430V417Q775 393 794 417V430\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"32\" y=\"438\" width=\"836\" height=\"44\" rx=\"12\" fill=\"#216d66\" stroke=\"#216d66\" stroke-width=\"1.5\"/><text x=\"450\" y=\"467.0\" font-size=\"19\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#fffefa\">PISO COMUM: nenhuma diferença de função reduz o valor humano.</text><path d=\"M238 350V372\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" marker-end=\"url(#diagrama-02-arrow)\"/><path d=\"M660 350V372\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" marker-end=\"url(#diagrama-02-arrow)\"/></g></svg>",
+      "sources": [
+        "obra-02",
+        "obra-10",
+        "obra-26",
+        "obra-27"
+      ],
+      "moduleIndex": 3
+    },
+    {
+      "id": "diagrama-03",
+      "title": "A ponte entre símbolo e ação",
+      "caption": "A tradução explícita permite aproveitar a imaginação sem converter símbolos em prova. O resultado deve ser observável e revisável.",
+      "description": "Fluxo de cinco caixas: símbolo, tradução, quest, evidência e revisão. As caixas formam uma ponte gráfica; o rodapé apresenta fato, consentimento, limite e responsabilidade humana como condições da passagem.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 900 500\" role=\"img\" aria-labelledby=\"diagrama-03-title diagrama-03-desc\" lang=\"pt-BR\"><title id=\"diagrama-03-title\">A ponte entre símbolo e ação</title><desc id=\"diagrama-03-desc\">Fluxo de cinco caixas: símbolo, tradução, quest, evidência e revisão. As caixas formam uma ponte gráfica; o rodapé apresenta fato, consentimento, limite e responsabilidade humana como condições da passagem.</desc><defs><marker id=\"diagrama-03-arrow\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M1 1L9 5L1 9\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"1.8\"/></marker></defs><g font-family=\"Arial, Helvetica, sans-serif\"><rect x=\"0\" y=\"0\" width=\"900\" height=\"500\" rx=\"0\" fill=\"#fffefa\" stroke=\"#fffefa\" stroke-width=\"1.5\"/><text x=\"32\" y=\"43.0\" font-size=\"27\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">A ponte entre símbolo e ação</text><text x=\"33\" y=\"73.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">A imagem inspira a pergunta; a ação precisa de critério próprio.</text><rect x=\"30\" y=\"138\" width=\"151\" height=\"182\" rx=\"16\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><circle cx=\"105.5\" cy=\"177\" r=\"25\" fill=\"#fffefa\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(88 159) scale(0.85)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M20 2L25 14L38 15L28 24L31 38L20 30L9 38L12 24L2 15L15 14Z\"/></g><text x=\"105.5\" y=\"230.0\" font-size=\"21\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#183b3d\">Símbolo</text><text x=\"105.5\" y=\"267\" font-size=\"17\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">Escolha uma</text><text x=\"105.5\" y=\"292\" font-size=\"17\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">imagem útil.</text><path d=\"M185 230H203\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" marker-end=\"url(#diagrama-03-arrow)\"/><line x1=\"105.5\" y1=\"320\" x2=\"105.5\" y2=\"359\" stroke=\"#cad8cc\" stroke-width=\"3\"/><rect x=\"207\" y=\"138\" width=\"151\" height=\"182\" rx=\"16\" fill=\"#f6eddc\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><circle cx=\"282.5\" cy=\"177\" r=\"25\" fill=\"#fffefa\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(265 159) scale(0.85)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M1 33H39 M6 33V10 M34 33V10 M6 15C13 29 27 29 34 15 M14 24V33 M26 24V33 M20 27V33\"/></g><text x=\"282.5\" y=\"230.0\" font-size=\"21\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#183b3d\">Tradução</text><text x=\"282.5\" y=\"267\" font-size=\"17\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">Nomeie uma</text><text x=\"282.5\" y=\"292\" font-size=\"17\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">função real.</text><path d=\"M362 230H380\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" marker-end=\"url(#diagrama-03-arrow)\"/><line x1=\"282.5\" y1=\"320\" x2=\"282.5\" y2=\"359\" stroke=\"#cad8cc\" stroke-width=\"3\"/><rect x=\"384\" y=\"138\" width=\"151\" height=\"182\" rx=\"16\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><circle cx=\"459.5\" cy=\"177\" r=\"25\" fill=\"#fffefa\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(442 159) scale(0.85)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M8 38V3 M9 5H32L27 13L32 21H9\"/></g><text x=\"459.5\" y=\"230.0\" font-size=\"21\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#183b3d\">Quest</text><text x=\"459.5\" y=\"267\" font-size=\"17\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">Defina uma</text><text x=\"459.5\" y=\"292\" font-size=\"17\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">ação pequena.</text><path d=\"M539 230H557\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" marker-end=\"url(#diagrama-03-arrow)\"/><line x1=\"459.5\" y1=\"320\" x2=\"459.5\" y2=\"359\" stroke=\"#cad8cc\" stroke-width=\"3\"/><rect x=\"561\" y=\"138\" width=\"151\" height=\"182\" rx=\"16\" fill=\"#f6eddc\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><circle cx=\"636.5\" cy=\"177\" r=\"25\" fill=\"#fffefa\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(619 159) scale(0.85)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"16\" cy=\"16\" r=\"12\"/><path d=\"M25 25L38 38 M10 16H22 M16 10V22\"/></g><text x=\"636.5\" y=\"230.0\" font-size=\"21\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#183b3d\">Evidência</text><text x=\"636.5\" y=\"267\" font-size=\"17\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">Observe o</text><text x=\"636.5\" y=\"292\" font-size=\"17\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">resultado.</text><path d=\"M716 230H734\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" marker-end=\"url(#diagrama-03-arrow)\"/><line x1=\"636.5\" y1=\"320\" x2=\"636.5\" y2=\"359\" stroke=\"#cad8cc\" stroke-width=\"3\"/><rect x=\"738\" y=\"138\" width=\"151\" height=\"182\" rx=\"16\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><circle cx=\"813.5\" cy=\"177\" r=\"25\" fill=\"#fffefa\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(796 159) scale(0.85)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M10 3H27L34 10V37H6V3H10 M26 3V12H34 M12 19H27 M12 25H27 M12 31H23\"/></g><text x=\"813.5\" y=\"230.0\" font-size=\"21\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#183b3d\">Revisão</text><text x=\"813.5\" y=\"267\" font-size=\"17\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">Registre limite</text><text x=\"813.5\" y=\"292\" font-size=\"17\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">e próximo passo.</text><line x1=\"813.5\" y1=\"320\" x2=\"813.5\" y2=\"359\" stroke=\"#cad8cc\" stroke-width=\"3\"/><path d=\"M31 367H868\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"4\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M57 367Q130 409 204 367 M226 367Q307 409 381 367 M403 367Q484 409 558 367 M580 367Q661 409 735 367 M756 367Q798 400 842 367\" fill=\"none\" stroke=\"#cad8cc\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><text x=\"450\" y=\"451.0\" font-size=\"18\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#216d66\">Atravessar exige fato, consentimento, limite e responsabilidade humana.</text></g></svg>",
+      "sources": [
+        "obra-05",
+        "obra-08",
+        "obra-21",
+        "obra-26"
+      ],
+      "moduleIndex": 1
+    },
+    {
+      "id": "diagrama-04",
+      "title": "Casas: modelos diferentes, resultados diferentes",
+      "caption": "Comparação das regras declaradas pelas obras. Uma calculadora única apagaria mudanças de atributos, pesos, limiares e significado do IEC.",
+      "description": "Quatro colunas comparam Manual 1.0, Universo RPG, Ficha e mapa, e Integrado final. São mostrados atributos, componentes, pesos e saídas. Uma nota destaca que a obra 26 usa IEC com outro significado, Equilíbrio Covenant.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 900 500\" role=\"img\" aria-labelledby=\"diagrama-04-title diagrama-04-desc\" lang=\"pt-BR\"><title id=\"diagrama-04-title\">Casas: modelos diferentes, resultados diferentes</title><desc id=\"diagrama-04-desc\">Quatro colunas comparam Manual 1.0, Universo RPG, Ficha e mapa, e Integrado final. São mostrados atributos, componentes, pesos e saídas. Uma nota destaca que a obra 26 usa IEC com outro significado, Equilíbrio Covenant.</desc><defs><marker id=\"diagrama-04-arrow\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M1 1L9 5L1 9\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"1.8\"/></marker></defs><g font-family=\"Arial, Helvetica, sans-serif\"><rect x=\"0\" y=\"0\" width=\"900\" height=\"500\" rx=\"0\" fill=\"#fffefa\" stroke=\"#fffefa\" stroke-width=\"1.5\"/><text x=\"32\" y=\"43.0\" font-size=\"27\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Casas: modelos diferentes, resultados diferentes</text><text x=\"33\" y=\"73.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">Escolha e cite a versão antes de interpretar uma pontuação recreativa.</text><rect x=\"24\" y=\"111\" width=\"210\" height=\"278\" rx=\"16\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><text x=\"38\" y=\"142.0\" font-size=\"20\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Manual 1.0</text><text x=\"38\" y=\"167.0\" font-size=\"15\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">Obras 02–04</text><line x1=\"38\" y1=\"183\" x2=\"220\" y2=\"183\" stroke=\"#cad8cc\" stroke-width=\"2\"/><text x=\"38\" y=\"213\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">10 atributos</text><text x=\"38\" y=\"240\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">45 / 35 / 10 / 10</text><text x=\"38\" y=\"267\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Atributos + cenários</text><text x=\"38\" y=\"294\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">+ IEC + símbolos</text><line x1=\"38\" y1=\"314\" x2=\"220\" y2=\"314\" stroke=\"#cad8cc\" stroke-width=\"2\"/><text x=\"38\" y=\"342\" font-size=\"15\" font-weight=\"700\" text-anchor=\"start\" fill=\"#216d66\">Primária · secundária</text><text x=\"38\" y=\"366\" font-size=\"15\" font-weight=\"700\" text-anchor=\"start\" fill=\"#216d66\">sombra · emergente</text><rect x=\"244\" y=\"111\" width=\"210\" height=\"278\" rx=\"16\" fill=\"#f6eddc\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><text x=\"258\" y=\"142.0\" font-size=\"20\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Universo RPG</text><text x=\"258\" y=\"167.0\" font-size=\"15\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">Obra 05</text><line x1=\"258\" y1=\"183\" x2=\"440\" y2=\"183\" stroke=\"#cad8cc\" stroke-width=\"2\"/><text x=\"258\" y=\"213\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">20 itens funcionais</text><text x=\"258\" y=\"240\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">2 itens por Escola</text><text x=\"258\" y=\"267\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Símbolos em</text><text x=\"258\" y=\"294\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">resultado separado</text><line x1=\"258\" y1=\"314\" x2=\"440\" y2=\"314\" stroke=\"#cad8cc\" stroke-width=\"2\"/><text x=\"258\" y=\"342\" font-size=\"15\" font-weight=\"700\" text-anchor=\"start\" fill=\"#216d66\">Dupla Primária:</text><text x=\"258\" y=\"366\" font-size=\"15\" font-weight=\"700\" text-anchor=\"start\" fill=\"#216d66\">margem &lt; 8 pontos</text><rect x=\"464\" y=\"111\" width=\"210\" height=\"278\" rx=\"16\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><text x=\"478\" y=\"142.0\" font-size=\"20\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Ficha e mapa</text><text x=\"478\" y=\"167.0\" font-size=\"15\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">Obras 13 e 25</text><line x1=\"478\" y1=\"183\" x2=\"660\" y2=\"183\" stroke=\"#cad8cc\" stroke-width=\"2\"/><text x=\"478\" y=\"213\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">8 atributos</text><text x=\"478\" y=\"240\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">70 / 20 / 10</text><text x=\"478\" y=\"267\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Comportamento</text><text x=\"478\" y=\"294\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">+ IEC + símbolos</text><line x1=\"478\" y1=\"314\" x2=\"660\" y2=\"314\" stroke=\"#cad8cc\" stroke-width=\"2\"/><text x=\"478\" y=\"342\" font-size=\"15\" font-weight=\"700\" text-anchor=\"start\" fill=\"#216d66\">Perfil híbrido:</text><text x=\"478\" y=\"366\" font-size=\"15\" font-weight=\"700\" text-anchor=\"start\" fill=\"#216d66\">margem &lt; 3 pontos</text><rect x=\"684\" y=\"111\" width=\"210\" height=\"278\" rx=\"16\" fill=\"#f6eddc\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><text x=\"698\" y=\"142.0\" font-size=\"20\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Integrado final</text><text x=\"698\" y=\"167.0\" font-size=\"15\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">Obra 27</text><line x1=\"698\" y1=\"183\" x2=\"880\" y2=\"183\" stroke=\"#cad8cc\" stroke-width=\"2\"/><text x=\"698\" y=\"213\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">10 atributos</text><text x=\"698\" y=\"240\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">55 / 25 / 15 / 5</text><text x=\"698\" y=\"267\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Comportamento, estilo,</text><text x=\"698\" y=\"294\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">valores e símbolos</text><line x1=\"698\" y1=\"314\" x2=\"880\" y2=\"314\" stroke=\"#cad8cc\" stroke-width=\"2\"/><text x=\"698\" y=\"342\" font-size=\"15\" font-weight=\"700\" text-anchor=\"start\" fill=\"#216d66\">Natureza · competência</text><text x=\"698\" y=\"366\" font-size=\"15\" font-weight=\"700\" text-anchor=\"start\" fill=\"#216d66\">pressão · desenvolvimento</text><rect x=\"32\" y=\"408\" width=\"836\" height=\"66\" rx=\"12\" fill=\"#fffefa\" stroke=\"#bf8743\" stroke-width=\"2\"/><text x=\"48\" y=\"434.0\" font-size=\"15\" font-weight=\"700\" text-anchor=\"start\" fill=\"#216d66\">ATENÇÃO À SIGLA IEC</text><text x=\"48\" y=\"459.0\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Na obra 26: Equilíbrio Covenant. Nas demais: Estilo Cognitivo. Não misture escores.</text></g></svg>",
+      "sources": [
+        "obra-02",
+        "obra-03",
+        "obra-04",
+        "obra-05",
+        "obra-13",
+        "obra-25",
+        "obra-26",
+        "obra-27"
+      ],
+      "moduleIndex": 0
+    },
+    {
+      "id": "diagrama-05",
+      "title": "Um ciclo pequeno de estudo",
+      "caption": "Perguntar, ler, explicar, conferir e registrar transforma consulta em recuperação ativa. Cada ciclo cabe em uma seção ou uma dúvida.",
+      "description": "Cinco cartões formam um ciclo ao redor da frase Uma pergunta por vez: perguntar, ler, explicar, conferir e registrar. Setas mostram retorno à pergunta e o encerramento por compreensão registrada.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 900 500\" role=\"img\" aria-labelledby=\"diagrama-05-title diagrama-05-desc\" lang=\"pt-BR\"><title id=\"diagrama-05-title\">Um ciclo pequeno de estudo</title><desc id=\"diagrama-05-desc\">Cinco cartões formam um ciclo ao redor da frase Uma pergunta por vez: perguntar, ler, explicar, conferir e registrar. Setas mostram retorno à pergunta e o encerramento por compreensão registrada.</desc><defs><marker id=\"diagrama-05-arrow\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M1 1L9 5L1 9\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"1.8\"/></marker></defs><g font-family=\"Arial, Helvetica, sans-serif\"><rect x=\"0\" y=\"0\" width=\"900\" height=\"500\" rx=\"0\" fill=\"#fffefa\" stroke=\"#fffefa\" stroke-width=\"1.5\"/><text x=\"32\" y=\"43.0\" font-size=\"27\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Um ciclo pequeno de estudo</text><text x=\"33\" y=\"73.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">Percurso de aprendizagem proposto a partir dos exercícios do acervo.</text><path d=\"M535 139Q645 142 664 193\" fill=\"none\" stroke=\"#cad8cc\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" marker-end=\"url(#diagrama-05-arrow)\"/><path d=\"M709 286Q710 337 673 363\" fill=\"none\" stroke=\"#cad8cc\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" marker-end=\"url(#diagrama-05-arrow)\"/><path d=\"M515 397H388\" fill=\"none\" stroke=\"#cad8cc\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" marker-end=\"url(#diagrama-05-arrow)\"/><path d=\"M218 365Q166 325 185 289\" fill=\"none\" stroke=\"#cad8cc\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" marker-end=\"url(#diagrama-05-arrow)\"/><path d=\"M234 191Q271 126 359 133\" fill=\"none\" stroke=\"#cad8cc\" stroke-width=\"2.5\" stroke-linecap=\"round\" stroke-linejoin=\"round\" marker-end=\"url(#diagrama-05-arrow)\"/><circle cx=\"450\" cy=\"263\" r=\"78\" fill=\"#f6eddc\" stroke=\"#bf8743\" stroke-width=\"1.5\"/><text x=\"450\" y=\"252\" font-size=\"23\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#183b3d\">Uma pergunta</text><text x=\"450\" y=\"283\" font-size=\"23\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#183b3d\">por vez</text><rect x=\"359\" y=\"90\" width=\"182\" height=\"85\" rx=\"20\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(376 106) scale(0.58)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"16\" cy=\"16\" r=\"12\"/><path d=\"M25 25L38 38 M10 16H22 M16 10V22\"/></g><text x=\"410\" y=\"126.0\" font-size=\"18\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Perguntar</text><text x=\"450\" y=\"156.0\" font-size=\"15\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">Uma dúvida clara.</text><rect x=\"604\" y=\"196\" width=\"182\" height=\"85\" rx=\"20\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(621 212) scale(0.58)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M20 8C13 3 6 3 1 5V33C8 30 13 31 20 35C27 31 32 30 39 33V5C33 3 27 3 20 8V35\"/></g><text x=\"655\" y=\"232.0\" font-size=\"18\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Ler</text><text x=\"695\" y=\"262.0\" font-size=\"15\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">Uma seção por vez.</text><rect x=\"509\" y=\"342\" width=\"182\" height=\"85\" rx=\"20\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(526 358) scale(0.58)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"10\" r=\"6\"/><circle cx=\"29\" cy=\"12\" r=\"5\"/><path d=\"M1 36V29C1 19 23 19 23 29V36 M24 23C33 20 39 25 39 31V36\"/></g><text x=\"560\" y=\"378.0\" font-size=\"18\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Explicar</text><text x=\"600\" y=\"408.0\" font-size=\"15\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">Com suas palavras.</text><rect x=\"209\" y=\"342\" width=\"182\" height=\"85\" rx=\"20\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(226 358) scale(0.58)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"20\" cy=\"20\" r=\"17\"/><path d=\"M10 20L17 27L30 12\"/></g><text x=\"260\" y=\"378.0\" font-size=\"18\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Conferir</text><text x=\"300\" y=\"408.0\" font-size=\"15\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">Fonte e resposta.</text><rect x=\"114\" y=\"196\" width=\"182\" height=\"85\" rx=\"20\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(131 212) scale(0.58)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M10 3H27L34 10V37H6V3H10 M26 3V12H34 M12 19H27 M12 25H27 M12 31H23\"/></g><text x=\"165\" y=\"232.0\" font-size=\"18\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Registrar</text><text x=\"205\" y=\"262.0\" font-size=\"15\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">Lacuna e retomada.</text><text x=\"450\" y=\"478.0\" font-size=\"18\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#216d66\">O ciclo termina com compreensão registrada — não com leitura infinita.</text></g></svg>",
+      "sources": [
+        "obra-02",
+        "obra-03",
+        "obra-05",
+        "obra-20",
+        "obra-26"
+      ],
+      "moduleIndex": 2
+    },
+    {
+      "id": "diagrama-06",
+      "title": "Uma trilha de leitura para o universo Phoenix",
+      "caption": "Iniciação, ficha, atlas e módulo do Mestre são peças complementares. A ordem organiza estudo; não institui uma progressão obrigatória.",
+      "description": "Quatro cartões em escada mostram iniciação, ficha, atlas e Mestre, com fontes correspondentes. A legenda explicita que se trata de um percurso de leitura possível e não de uma promoção de nível.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 900 500\" role=\"img\" aria-labelledby=\"diagrama-06-title diagrama-06-desc\" lang=\"pt-BR\"><title id=\"diagrama-06-title\">Uma trilha de leitura para o universo Phoenix</title><desc id=\"diagrama-06-desc\">Quatro cartões em escada mostram iniciação, ficha, atlas e Mestre, com fontes correspondentes. A legenda explicita que se trata de um percurso de leitura possível e não de uma promoção de nível.</desc><defs><marker id=\"diagrama-06-arrow\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M1 1L9 5L1 9\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"1.8\"/></marker></defs><g font-family=\"Arial, Helvetica, sans-serif\"><rect x=\"0\" y=\"0\" width=\"900\" height=\"500\" rx=\"0\" fill=\"#fffefa\" stroke=\"#fffefa\" stroke-width=\"1.5\"/><text x=\"32\" y=\"43.0\" font-size=\"27\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Uma trilha de leitura para o universo Phoenix</text><text x=\"33\" y=\"73.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">Do exercício pessoal à condução de uma ficção compartilhada.</text><rect x=\"28\" y=\"300\" width=\"182\" height=\"132\" rx=\"16\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><rect x=\"40\" y=\"284\" width=\"38\" height=\"29\" rx=\"14\" fill=\"#216d66\" stroke=\"#216d66\" stroke-width=\"1.5\"/><text x=\"59.0\" y=\"304.0\" font-size=\"13\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#fffefa\">1</text><g transform=\"translate(165 314) scale(0.6)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M8 38V3 M9 5H32L27 13L32 21H9\"/></g><text x=\"42\" y=\"337.0\" font-size=\"22\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Iniciação</text><text x=\"42\" y=\"367\" font-size=\"15\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">Praticar uma habilidade</text><text x=\"42\" y=\"389\" font-size=\"15\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">em uma microquest.</text><text x=\"42\" y=\"418.0\" font-size=\"14\" font-weight=\"700\" text-anchor=\"start\" fill=\"#216d66\">Obra 20</text><path d=\"M28 435H212V450\" fill=\"none\" stroke=\"#bf8743\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"248\" y=\"238\" width=\"182\" height=\"132\" rx=\"16\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><rect x=\"260\" y=\"222\" width=\"38\" height=\"29\" rx=\"14\" fill=\"#216d66\" stroke=\"#216d66\" stroke-width=\"1.5\"/><text x=\"279.0\" y=\"242.0\" font-size=\"13\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#fffefa\">2</text><g transform=\"translate(385 252) scale(0.6)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M10 3H27L34 10V37H6V3H10 M26 3V12H34 M12 19H27 M12 25H27 M12 31H23\"/></g><text x=\"262\" y=\"275.0\" font-size=\"22\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Ficha</text><text x=\"262\" y=\"305\" font-size=\"15\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">Registrar evidências,</text><text x=\"262\" y=\"327\" font-size=\"15\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">hipóteses e limites.</text><text x=\"262\" y=\"356.0\" font-size=\"14\" font-weight=\"700\" text-anchor=\"start\" fill=\"#216d66\">Obra 13</text><path d=\"M248 373H432V388\" fill=\"none\" stroke=\"#bf8743\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"468\" y=\"176\" width=\"182\" height=\"132\" rx=\"16\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><rect x=\"480\" y=\"160\" width=\"38\" height=\"29\" rx=\"14\" fill=\"#216d66\" stroke=\"#216d66\" stroke-width=\"1.5\"/><text x=\"499.0\" y=\"180.0\" font-size=\"13\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#fffefa\">3</text><g transform=\"translate(605 190) scale(0.6)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M20 8C13 3 6 3 1 5V33C8 30 13 31 20 35C27 31 32 30 39 33V5C33 3 27 3 20 8V35\"/></g><text x=\"482\" y=\"213.0\" font-size=\"22\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Atlas</text><text x=\"482\" y=\"243\" font-size=\"15\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">Entender Escolas,</text><text x=\"482\" y=\"265\" font-size=\"15\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">versões e contexto.</text><text x=\"482\" y=\"294.0\" font-size=\"14\" font-weight=\"700\" text-anchor=\"start\" fill=\"#216d66\">Obras 02 / 25</text><path d=\"M468 311H652V326\" fill=\"none\" stroke=\"#bf8743\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><rect x=\"688\" y=\"114\" width=\"182\" height=\"132\" rx=\"16\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><rect x=\"700\" y=\"98\" width=\"38\" height=\"29\" rx=\"14\" fill=\"#216d66\" stroke=\"#216d66\" stroke-width=\"1.5\"/><text x=\"719.0\" y=\"118.0\" font-size=\"13\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#fffefa\">4</text><g transform=\"translate(825 128) scale(0.6)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"12\" cy=\"10\" r=\"6\"/><circle cx=\"29\" cy=\"12\" r=\"5\"/><path d=\"M1 36V29C1 19 23 19 23 29V36 M24 23C33 20 39 25 39 31V36\"/></g><text x=\"702\" y=\"151.0\" font-size=\"22\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Mestre</text><text x=\"702\" y=\"181\" font-size=\"15\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">Facilitar escolhas,</text><text x=\"702\" y=\"203\" font-size=\"15\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">cenas e continuidade.</text><text x=\"702\" y=\"232.0\" font-size=\"14\" font-weight=\"700\" text-anchor=\"start\" fill=\"#216d66\">Obras 03 / 04</text><path d=\"M688 249H872V264\" fill=\"none\" stroke=\"#bf8743\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M217 352L240 298\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" marker-end=\"url(#diagrama-06-arrow)\"/><path d=\"M437 290L460 236\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" marker-end=\"url(#diagrama-06-arrow)\"/><path d=\"M657 228L680 174\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" marker-end=\"url(#diagrama-06-arrow)\"/><text x=\"450\" y=\"480.0\" font-size=\"17\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#216d66\">Percurso de leitura possível: cada peça tem função; nenhuma exige “subir de grau”.</text></g></svg>",
+      "sources": [
+        "obra-20",
+        "obra-13",
+        "obra-02",
+        "obra-25",
+        "obra-03",
+        "obra-04"
+      ],
+      "moduleIndex": 0
+    },
+    {
+      "id": "diagrama-07",
+      "title": "Piratas e Conurbação: conectar sem confundir",
+      "caption": "A Conurbação aproxima história documental, construção ficcional e simbolismo. Os Piratas aparecem como corrente civil e mediadora dentro do cenário.",
+      "description": "Três painéis separados mostram documental, ficcional e simbólico. Conexões leves indicam diálogo entre camadas; abaixo, Piratas do Infinito representa a mediação e a memória civil na narrativa. Não se afirma uma rede secreta real.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 900 500\" role=\"img\" aria-labelledby=\"diagrama-07-title diagrama-07-desc\" lang=\"pt-BR\"><title id=\"diagrama-07-title\">Piratas e Conurbação: conectar sem confundir</title><desc id=\"diagrama-07-desc\">Três painéis separados mostram documental, ficcional e simbólico. Conexões leves indicam diálogo entre camadas; abaixo, Piratas do Infinito representa a mediação e a memória civil na narrativa. Não se afirma uma rede secreta real.</desc><defs><marker id=\"diagrama-07-arrow\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M1 1L9 5L1 9\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"1.8\"/></marker></defs><g font-family=\"Arial, Helvetica, sans-serif\"><rect x=\"0\" y=\"0\" width=\"900\" height=\"500\" rx=\"0\" fill=\"#fffefa\" stroke=\"#fffefa\" stroke-width=\"1.5\"/><text x=\"32\" y=\"43.0\" font-size=\"27\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Piratas e Conurbação: conectar sem confundir</text><text x=\"33\" y=\"73.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">Conexões narrativas entre correntes — sem afirmar uma organização oculta real.</text><rect x=\"49\" y=\"114\" width=\"246\" height=\"161\" rx=\"16\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><circle cx=\"172\" cy=\"146\" r=\"21\" fill=\"#fffefa\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(158 132) scale(0.7)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M10 3H27L34 10V37H6V3H10 M26 3V12H34 M12 19H27 M12 25H27 M12 31H23\"/></g><text x=\"172\" y=\"193.0\" font-size=\"18\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#183b3d\">DOCUMENTAL</text><text x=\"172\" y=\"225\" font-size=\"16\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">O que aconteceu?</text><text x=\"172\" y=\"251\" font-size=\"16\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">Fontes, datas e registros.</text><rect x=\"327\" y=\"114\" width=\"246\" height=\"161\" rx=\"16\" fill=\"#f6eddc\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><circle cx=\"450\" cy=\"146\" r=\"21\" fill=\"#fffefa\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(436 132) scale(0.7)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M20 8C13 3 6 3 1 5V33C8 30 13 31 20 35C27 31 32 30 39 33V5C33 3 27 3 20 8V35\"/></g><text x=\"450\" y=\"193.0\" font-size=\"18\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#183b3d\">FICCIONAL</text><text x=\"450\" y=\"225\" font-size=\"16\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">O que vira história?</text><text x=\"450\" y=\"251\" font-size=\"16\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">Correntes, cenas e cânone.</text><rect x=\"605\" y=\"114\" width=\"246\" height=\"161\" rx=\"16\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><circle cx=\"728\" cy=\"146\" r=\"21\" fill=\"#fffefa\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(714 132) scale(0.7)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M13 28C-2 11 8 1 20 1C32 1 42 11 27 28 M13 28H27V33H13Z M15 38H25 M20 28V18 M15 14L20 18L25 14\"/></g><text x=\"728\" y=\"193.0\" font-size=\"18\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#183b3d\">SIMBÓLICO</text><text x=\"728\" y=\"225\" font-size=\"16\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">O que significa?</text><text x=\"728\" y=\"251\" font-size=\"16\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">Álfheim Interior e imagens.</text><path d=\"M298 190H323 M577 190H601\" fill=\"none\" stroke=\"#cad8cc\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><text x=\"310\" y=\"177.0\" font-size=\"18\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#216d66\">↔</text><text x=\"590\" y=\"177.0\" font-size=\"18\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#216d66\">↔</text><path d=\"M172 276V310Q172 322 190 322H334 M728 276V310Q728 322 710 322H566\" fill=\"none\" stroke=\"#cad8cc\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><path d=\"M450 277V314\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" marker-end=\"url(#diagrama-07-arrow)\"/><rect x=\"260\" y=\"327\" width=\"380\" height=\"94\" rx=\"16\" fill=\"#216d66\" stroke=\"#216d66\" stroke-width=\"1.5\"/><text x=\"450\" y=\"360.0\" font-size=\"22\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#fffefa\">PIRATAS DO INFINITO</text><text x=\"450\" y=\"390.0\" font-size=\"17\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#fffefa\">Mediação e memória civil na narrativa</text><text x=\"450\" y=\"466.0\" font-size=\"18\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#216d66\">As camadas se conectam no livro e preservam suas fronteiras.</text></g></svg>",
+      "sources": [
+        "obra-06",
+        "obra-08",
+        "obra-11",
+        "obra-12"
+      ],
+      "moduleIndex": 4
+    },
+    {
+      "id": "diagrama-08",
+      "title": "Poder, consentimento e responsabilidade",
+      "caption": "Capacidade de agir não substitui liberdade de escolha nem prestação de contas. O centro do desenho é a autonomia preservada.",
+      "description": "Três painéis formam um triângulo: poder pergunta o que pode ser afetado; consentimento pergunta quem pode escolher; responsabilidade pergunta quem responde pelo efeito. No centro, um escudo representa autonomia preservada.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 900 500\" role=\"img\" aria-labelledby=\"diagrama-08-title diagrama-08-desc\" lang=\"pt-BR\"><title id=\"diagrama-08-title\">Poder, consentimento e responsabilidade</title><desc id=\"diagrama-08-desc\">Três painéis formam um triângulo: poder pergunta o que pode ser afetado; consentimento pergunta quem pode escolher; responsabilidade pergunta quem responde pelo efeito. No centro, um escudo representa autonomia preservada.</desc><defs><marker id=\"diagrama-08-arrow\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M1 1L9 5L1 9\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"1.8\"/></marker></defs><g font-family=\"Arial, Helvetica, sans-serif\"><rect x=\"0\" y=\"0\" width=\"900\" height=\"500\" rx=\"0\" fill=\"#fffefa\" stroke=\"#fffefa\" stroke-width=\"1.5\"/><text x=\"32\" y=\"43.0\" font-size=\"27\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Poder, consentimento e responsabilidade</text><text x=\"33\" y=\"73.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">Um poder narrativo ou uma função de liderança permanece limitado.</text><path d=\"M405 167L255 306 M495 167L645 306 M335 367H565\" fill=\"none\" stroke=\"#cad8cc\" stroke-width=\"3\" stroke-linecap=\"round\" stroke-linejoin=\"round\"/><circle cx=\"450\" cy=\"283\" r=\"64\" fill=\"#f6eddc\" stroke=\"#bf8743\" stroke-width=\"1.5\"/><g transform=\"translate(437 235) scale(0.65)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M20 2L35 8V20C35 28 29 34 20 39C11 34 5 28 5 20V8Z M12 20L18 26L29 14\"/></g><text x=\"450\" y=\"288\" font-size=\"20\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#183b3d\">Autonomia</text><text x=\"450\" y=\"316\" font-size=\"20\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#183b3d\">preservada</text><rect x=\"309\" y=\"97\" width=\"282\" height=\"102\" rx=\"16\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(326 115) scale(0.7)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M13 28C-2 11 8 1 20 1C32 1 42 11 27 28 M13 28H27V33H13Z M15 38H25 M20 28V18 M15 14L20 18L25 14\"/></g><text x=\"459\" y=\"135.0\" font-size=\"18\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#183b3d\">PODER</text><text x=\"450\" y=\"171.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">O que posso afetar?</text><rect x=\"49\" y=\"316\" width=\"282\" height=\"102\" rx=\"16\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(66 334) scale(0.7)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M2 21L11 12L20 20L29 12L38 21L28 33L20 27L13 32Z M11 12L16 6L26 8L29 12 M8 25L13 20 M12 29L17 24\"/></g><text x=\"199\" y=\"354.0\" font-size=\"18\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#183b3d\">CONSENTIMENTO</text><text x=\"190\" y=\"390.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">Quem pode escolher?</text><rect x=\"569\" y=\"316\" width=\"282\" height=\"102\" rx=\"16\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(586 334) scale(0.7)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M10 3H27L34 10V37H6V3H10 M26 3V12H34 M12 19H27 M12 25H27 M12 31H23\"/></g><text x=\"719\" y=\"354.0\" font-size=\"18\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#183b3d\">RESPONSABILIDADE</text><text x=\"710\" y=\"390.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">Quem responde pelo efeito?</text><text x=\"450\" y=\"476.0\" font-size=\"18\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#216d66\">Quanto maior o efeito, mais claros precisam ser o limite e a revisão.</text></g></svg>",
+      "sources": [
+        "obra-08",
+        "obra-10",
+        "obra-21",
+        "obra-27"
+      ],
+      "moduleIndex": 3
+    },
+    {
+      "id": "diagrama-09",
+      "title": "Escutar em camadas",
+      "caption": "A escuta pessoal pode combinar descrição do som, consulta ao contexto e interpretação temática. As três leituras ajudam a formular perguntas diferentes.",
+      "description": "Três cartões distinguem som, contexto e interpretação. O som é descrito por voz, ritmo, contraste e intensidade; o contexto por obra, autoria, época e fontes; a interpretação por temas, metáforas e significado pessoal. O rodapé convida a ouvir novamente.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 900 500\" role=\"img\" aria-labelledby=\"diagrama-09-title diagrama-09-desc\" lang=\"pt-BR\"><title id=\"diagrama-09-title\">Escutar em camadas</title><desc id=\"diagrama-09-desc\">Três cartões distinguem som, contexto e interpretação. O som é descrito por voz, ritmo, contraste e intensidade; o contexto por obra, autoria, época e fontes; a interpretação por temas, metáforas e significado pessoal. O rodapé convida a ouvir novamente.</desc><defs><marker id=\"diagrama-09-arrow\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M1 1L9 5L1 9\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"1.8\"/></marker></defs><g font-family=\"Arial, Helvetica, sans-serif\"><rect x=\"0\" y=\"0\" width=\"900\" height=\"500\" rx=\"0\" fill=\"#fffefa\" stroke=\"#fffefa\" stroke-width=\"1.5\"/><text x=\"32\" y=\"43.0\" font-size=\"27\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Escutar em camadas</text><text x=\"33\" y=\"73.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">Um roteiro didático de leitura e escuta; não um modelo neurocientífico.</text><rect x=\"32\" y=\"125\" width=\"250\" height=\"217\" rx=\"16\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><circle cx=\"157\" cy=\"170\" r=\"27\" fill=\"#fffefa\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(137 150) scale(1)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M2 20H6L10 5L15 35L20 9L25 30L30 13L34 20H39\"/></g><text x=\"157\" y=\"224.0\" font-size=\"21\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#183b3d\">SOM</text><text x=\"157\" y=\"263\" font-size=\"16\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">O que escuto?</text><text x=\"157\" y=\"290\" font-size=\"16\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">Voz, ritmo, contraste</text><text x=\"157\" y=\"317\" font-size=\"16\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">e mudanças de intensidade.</text><rect x=\"326\" y=\"125\" width=\"250\" height=\"217\" rx=\"16\" fill=\"#f6eddc\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><circle cx=\"451\" cy=\"170\" r=\"27\" fill=\"#fffefa\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(431 150) scale(1)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M10 3H27L34 10V37H6V3H10 M26 3V12H34 M12 19H27 M12 25H27 M12 31H23\"/></g><text x=\"451\" y=\"224.0\" font-size=\"21\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#183b3d\">CONTEXTO</text><text x=\"451\" y=\"263\" font-size=\"16\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">O que posso consultar?</text><text x=\"451\" y=\"290\" font-size=\"16\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">Obra, autoria, época</text><text x=\"451\" y=\"317\" font-size=\"16\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">e informações da fonte.</text><rect x=\"620\" y=\"125\" width=\"250\" height=\"217\" rx=\"16\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><circle cx=\"745\" cy=\"170\" r=\"27\" fill=\"#fffefa\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(725 150) scale(1)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M20 34L6 20C-3 10 10 0 20 11C30 0 43 10 34 20Z\"/></g><text x=\"745\" y=\"224.0\" font-size=\"21\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#183b3d\">INTERPRETAÇÃO</text><text x=\"745\" y=\"263\" font-size=\"16\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">Que leitura construo?</text><text x=\"745\" y=\"290\" font-size=\"16\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">Temas, metáforas</text><text x=\"745\" y=\"317\" font-size=\"16\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">e significado pessoal.</text><path d=\"M288 241H316\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" marker-end=\"url(#diagrama-09-arrow)\"/><path d=\"M582 241H610\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" marker-end=\"url(#diagrama-09-arrow)\"/><rect x=\"57\" y=\"375\" width=\"786\" height=\"71\" rx=\"14\" fill=\"#fffefa\" stroke=\"#bf8743\" stroke-width=\"2\"/><text x=\"450\" y=\"405.0\" font-size=\"18\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#216d66\">DESCREVER  →  CONSULTAR  →  INTERPRETAR  →  OUVIR DE NOVO</text><text x=\"450\" y=\"431.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"middle\" fill=\"#536e69\">O significado vivido pode ser forte sem virar uma certeza sobre a intenção do autor.</text></g></svg>",
+      "sources": [
+        "obra-19",
+        "obra-22",
+        "obra-23",
+        "obra-24"
+      ],
+      "moduleIndex": 5
+    },
+    {
+      "id": "diagrama-10",
+      "title": "Evidência e ficção: critérios diferentes",
+      "caption": "Uma história pode ser coerente sem constituir prova sobre a realidade. Identificar a camada permite estudar ambas com clareza.",
+      "description": "Dois painéis contrapõem os critérios da evidência e da ficção, separados por linha pontilhada e sinal de diferença. A evidência exige fonte, contexto e revisão; a ficção organiza cânone, símbolos e coerência narrativa.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 900 500\" role=\"img\" aria-labelledby=\"diagrama-10-title diagrama-10-desc\" lang=\"pt-BR\"><title id=\"diagrama-10-title\">Evidência e ficção: critérios diferentes</title><desc id=\"diagrama-10-desc\">Dois painéis contrapõem os critérios da evidência e da ficção, separados por linha pontilhada e sinal de diferença. A evidência exige fonte, contexto e revisão; a ficção organiza cânone, símbolos e coerência narrativa.</desc><defs><marker id=\"diagrama-10-arrow\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M1 1L9 5L1 9\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"1.8\"/></marker></defs><g font-family=\"Arial, Helvetica, sans-serif\"><rect x=\"0\" y=\"0\" width=\"900\" height=\"500\" rx=\"0\" fill=\"#fffefa\" stroke=\"#fffefa\" stroke-width=\"1.5\"/><text x=\"32\" y=\"43.0\" font-size=\"27\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Evidência e ficção: critérios diferentes</text><text x=\"33\" y=\"73.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">A qualidade da leitura depende de saber que tipo de afirmação está sendo feito.</text><rect x=\"32\" y=\"121\" width=\"383\" height=\"292\" rx=\"16\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><rect x=\"485\" y=\"121\" width=\"383\" height=\"292\" rx=\"16\" fill=\"#f6eddc\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(56 143) scale(0.9)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><circle cx=\"16\" cy=\"16\" r=\"12\"/><path d=\"M25 25L38 38 M10 16H22 M16 10V22\"/></g><text x=\"104\" y=\"170.0\" font-size=\"25\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">EVIDÊNCIA</text><text x=\"59\" y=\"219\" font-size=\"20\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Pergunta sobre o mundo.</text><text x=\"59\" y=\"256\" font-size=\"20\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Fonte identificável.</text><text x=\"59\" y=\"293\" font-size=\"20\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Contexto e limites.</text><text x=\"59\" y=\"330\" font-size=\"20\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Conclusão aberta à revisão.</text><g transform=\"translate(510 143) scale(0.9)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M20 8C13 3 6 3 1 5V33C8 30 13 31 20 35C27 31 32 30 39 33V5C33 3 27 3 20 8V35\"/></g><text x=\"559\" y=\"170.0\" font-size=\"25\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">FICÇÃO</text><text x=\"513\" y=\"219\" font-size=\"20\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Possibilidade narrativa.</text><text x=\"513\" y=\"256\" font-size=\"20\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Cânone e autoria.</text><text x=\"513\" y=\"293\" font-size=\"20\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Símbolos e personagens.</text><text x=\"513\" y=\"330\" font-size=\"20\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Coerência dentro da história.</text><line x1=\"450\" y1=\"117\" x2=\"450\" y2=\"417\" stroke=\"#bf8743\" stroke-width=\"2\" stroke-dasharray=\"7 8\"/><circle cx=\"450\" cy=\"273\" r=\"22\" fill=\"#fffefa\" stroke=\"#bf8743\" stroke-width=\"1.5\"/><text x=\"450\" y=\"281.0\" font-size=\"27\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#bf8743\">≠</text><text x=\"450\" y=\"464.0\" font-size=\"18\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#216d66\">Coerência narrativa não é comprovação externa. Cite a camada usada.</text></g></svg>",
+      "sources": [
+        "obra-01",
+        "obra-08",
+        "obra-21",
+        "obra-26"
+      ],
+      "moduleIndex": 4
+    },
+    {
+      "id": "diagrama-11",
+      "title": "Uma biblioteca não é uma única versão",
+      "caption": "Formatos equivalentes, variantes de conteúdo e materiais complementares precisam ser identificados separadamente. Preservar origem facilita comparar e estudar.",
+      "description": "Três estantes representam formatos, variantes e complementos. A primeira aproxima o PDF e DOCX do Mestre; a segunda distingue as regras de 25 e 27; a terceira reúne iniciação, ficha e materiais. As estantes convergem para uma biblioteca de múltiplas funções.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 900 500\" role=\"img\" aria-labelledby=\"diagrama-11-title diagrama-11-desc\" lang=\"pt-BR\"><title id=\"diagrama-11-title\">Uma biblioteca não é uma única versão</title><desc id=\"diagrama-11-desc\">Três estantes representam formatos, variantes e complementos. A primeira aproxima o PDF e DOCX do Mestre; a segunda distingue as regras de 25 e 27; a terceira reúne iniciação, ficha e materiais. As estantes convergem para uma biblioteca de múltiplas funções.</desc><defs><marker id=\"diagrama-11-arrow\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M1 1L9 5L1 9\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"1.8\"/></marker></defs><g font-family=\"Arial, Helvetica, sans-serif\"><rect x=\"0\" y=\"0\" width=\"900\" height=\"500\" rx=\"0\" fill=\"#fffefa\" stroke=\"#fffefa\" stroke-width=\"1.5\"/><text x=\"32\" y=\"43.0\" font-size=\"27\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Uma biblioteca não é uma única versão</text><text x=\"33\" y=\"73.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">Preservar as diferenças evita duplicar ideias ou apagar mudanças editoriais.</text><rect x=\"30\" y=\"108\" width=\"248\" height=\"287\" rx=\"16\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(49 125) scale(0.72)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M2 35V6H15L20 12H38V35Z M2 15H38\"/></g><text x=\"90\" y=\"150.0\" font-size=\"19\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">FORMATOS</text><text x=\"49\" y=\"190\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">Mesmo núcleo</text><text x=\"49\" y=\"215\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">em suportes diferentes.</text><rect x=\"47\" y=\"233\" width=\"214\" height=\"31\" rx=\"5\" fill=\"#fffefa\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><text x=\"57\" y=\"254.0\" font-size=\"15\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Mestre v1.1 · PDF</text><rect x=\"47\" y=\"272\" width=\"214\" height=\"31\" rx=\"5\" fill=\"#fffefa\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><text x=\"57\" y=\"293.0\" font-size=\"15\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Mestre v1.1 · DOCX</text><text x=\"154\" y=\"377.0\" font-size=\"14\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#216d66\">Obras 03 e 04</text><rect x=\"326\" y=\"108\" width=\"248\" height=\"287\" rx=\"16\" fill=\"#f6eddc\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(345 125) scale(0.72)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M2 35V6H15L20 12H38V35Z M2 15H38\"/></g><text x=\"386\" y=\"150.0\" font-size=\"19\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">VARIANTES</text><text x=\"345\" y=\"190\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">Modelos diferentes</text><text x=\"345\" y=\"215\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">sob nomes próximos.</text><rect x=\"343\" y=\"233\" width=\"214\" height=\"31\" rx=\"5\" fill=\"#fffefa\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><text x=\"353\" y=\"254.0\" font-size=\"15\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Mapa 6.0 · 8 atributos</text><rect x=\"343\" y=\"272\" width=\"214\" height=\"31\" rx=\"5\" fill=\"#fffefa\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><text x=\"353\" y=\"293.0\" font-size=\"15\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Integrado · 10 atributos</text><text x=\"450\" y=\"377.0\" font-size=\"14\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#216d66\">Obras 25 e 27</text><rect x=\"622\" y=\"108\" width=\"248\" height=\"287\" rx=\"16\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><g transform=\"translate(641 125) scale(0.72)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M2 35V6H15L20 12H38V35Z M2 15H38\"/></g><text x=\"682\" y=\"150.0\" font-size=\"19\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">COMPLEMENTOS</text><text x=\"641\" y=\"190\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">Peças com funções</text><text x=\"641\" y=\"215\" font-size=\"17\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">de aprendizagem distintas.</text><rect x=\"639\" y=\"233\" width=\"214\" height=\"31\" rx=\"5\" fill=\"#fffefa\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><text x=\"649\" y=\"254.0\" font-size=\"15\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Iniciação · prática</text><rect x=\"639\" y=\"272\" width=\"214\" height=\"31\" rx=\"5\" fill=\"#fffefa\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><text x=\"649\" y=\"293.0\" font-size=\"15\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Ficha · registro</text><rect x=\"639\" y=\"311\" width=\"214\" height=\"31\" rx=\"5\" fill=\"#fffefa\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><text x=\"649\" y=\"332.0\" font-size=\"15\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Materiais · organização</text><text x=\"746\" y=\"377.0\" font-size=\"14\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#216d66\">Obras 20, 13 e 17</text><line x1=\"154\" y1=\"396\" x2=\"154\" y2=\"421\" stroke=\"#cad8cc\" stroke-width=\"2\"/><line x1=\"450\" y1=\"396\" x2=\"450\" y2=\"421\" stroke=\"#cad8cc\" stroke-width=\"2\"/><line x1=\"746\" y1=\"396\" x2=\"746\" y2=\"421\" stroke=\"#cad8cc\" stroke-width=\"2\"/><line x1=\"154\" y1=\"421\" x2=\"746\" y2=\"421\" stroke=\"#cad8cc\" stroke-width=\"2\"/><line x1=\"450\" y1=\"421\" x2=\"450\" y2=\"436\" stroke=\"#cad8cc\" stroke-width=\"2\"/><rect x=\"236\" y=\"448\" width=\"428\" height=\"29\" rx=\"14\" fill=\"#216d66\" stroke=\"#216d66\" stroke-width=\"1.5\"/><text x=\"450.0\" y=\"468.0\" font-size=\"13\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#fffefa\">UMA BIBLIOTECA, MÚLTIPLAS FUNÇÕES</text></g></svg>",
+      "sources": [
+        "obra-03",
+        "obra-04",
+        "obra-13",
+        "obra-17",
+        "obra-20",
+        "obra-25",
+        "obra-27"
+      ],
+      "moduleIndex": 6
+    },
+    {
+      "id": "diagrama-12",
+      "title": "Antes, durante e depois do estudo",
+      "caption": "O bloco de estudo começa com uma pergunta e termina com um registro recuperável. Uma pausa clara preserva continuidade sem exigir sessão longa.",
+      "description": "Três colunas mostram antes, durante e depois. Antes: pergunta, seção, tempo e término. Durante: leitura, explicação, recuperação sem consulta e confronto com fonte. Depois: aprendizado, lacuna, ponto de parada e encerramento.",
+      "svg": "<svg xmlns=\"http://www.w3.org/2000/svg\" viewBox=\"0 0 900 500\" role=\"img\" aria-labelledby=\"diagrama-12-title diagrama-12-desc\" lang=\"pt-BR\"><title id=\"diagrama-12-title\">Antes, durante e depois do estudo</title><desc id=\"diagrama-12-desc\">Três colunas mostram antes, durante e depois. Antes: pergunta, seção, tempo e término. Durante: leitura, explicação, recuperação sem consulta e confronto com fonte. Depois: aprendizado, lacuna, ponto de parada e encerramento.</desc><defs><marker id=\"diagrama-12-arrow\" viewBox=\"0 0 10 10\" refX=\"8\" refY=\"5\" markerWidth=\"7\" markerHeight=\"7\" orient=\"auto-start-reverse\"><path d=\"M1 1L9 5L1 9\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"1.8\"/></marker></defs><g font-family=\"Arial, Helvetica, sans-serif\"><rect x=\"0\" y=\"0\" width=\"900\" height=\"500\" rx=\"0\" fill=\"#fffefa\" stroke=\"#fffefa\" stroke-width=\"1.5\"/><text x=\"32\" y=\"43.0\" font-size=\"27\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Antes, durante e depois do estudo</text><text x=\"33\" y=\"73.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"start\" fill=\"#536e69\">Um roteiro pequeno para reduzir a carga de escolher e lembrar tudo ao mesmo tempo.</text><rect x=\"29\" y=\"113\" width=\"248\" height=\"292\" rx=\"16\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><rect x=\"45\" y=\"98\" width=\"98\" height=\"29\" rx=\"14\" fill=\"#216d66\" stroke=\"#216d66\" stroke-width=\"1.5\"/><text x=\"94.0\" y=\"118.0\" font-size=\"13\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#fffefa\">ANTES</text><g transform=\"translate(48 141) scale(0.75)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M8 38V3 M9 5H32L27 13L32 21H9\"/></g><text x=\"93\" y=\"166.0\" font-size=\"22\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Escolher</text><circle cx=\"53\" cy=\"207\" r=\"5\" fill=\"#bf8743\" stroke=\"#bf8743\" stroke-width=\"1.5\"/><text x=\"70\" y=\"213.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Uma pergunta.</text><circle cx=\"53\" cy=\"247\" r=\"5\" fill=\"#bf8743\" stroke=\"#bf8743\" stroke-width=\"1.5\"/><text x=\"70\" y=\"253.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Uma seção.</text><circle cx=\"53\" cy=\"287\" r=\"5\" fill=\"#bf8743\" stroke=\"#bf8743\" stroke-width=\"1.5\"/><text x=\"70\" y=\"293.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Um limite de tempo.</text><circle cx=\"53\" cy=\"327\" r=\"5\" fill=\"#bf8743\" stroke=\"#bf8743\" stroke-width=\"1.5\"/><text x=\"70\" y=\"333.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Um critério de término.</text><rect x=\"326\" y=\"113\" width=\"248\" height=\"292\" rx=\"16\" fill=\"#f6eddc\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><rect x=\"342\" y=\"98\" width=\"98\" height=\"29\" rx=\"14\" fill=\"#216d66\" stroke=\"#216d66\" stroke-width=\"1.5\"/><text x=\"391.0\" y=\"118.0\" font-size=\"13\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#fffefa\">DURANTE</text><g transform=\"translate(345 141) scale(0.75)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M20 8C13 3 6 3 1 5V33C8 30 13 31 20 35C27 31 32 30 39 33V5C33 3 27 3 20 8V35\"/></g><text x=\"390\" y=\"166.0\" font-size=\"22\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Compreender</text><circle cx=\"350\" cy=\"207\" r=\"5\" fill=\"#bf8743\" stroke=\"#bf8743\" stroke-width=\"1.5\"/><text x=\"367\" y=\"213.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Ler um trecho.</text><circle cx=\"350\" cy=\"247\" r=\"5\" fill=\"#bf8743\" stroke=\"#bf8743\" stroke-width=\"1.5\"/><text x=\"367\" y=\"253.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Explicar com suas palavras.</text><circle cx=\"350\" cy=\"287\" r=\"5\" fill=\"#bf8743\" stroke=\"#bf8743\" stroke-width=\"1.5\"/><text x=\"367\" y=\"293.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Responder sem consultar.</text><circle cx=\"350\" cy=\"327\" r=\"5\" fill=\"#bf8743\" stroke=\"#bf8743\" stroke-width=\"1.5\"/><text x=\"367\" y=\"333.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Comparar com a fonte.</text><rect x=\"623\" y=\"113\" width=\"248\" height=\"292\" rx=\"16\" fill=\"#edf4ed\" stroke=\"#cad8cc\" stroke-width=\"1.5\"/><rect x=\"639\" y=\"98\" width=\"98\" height=\"29\" rx=\"14\" fill=\"#216d66\" stroke=\"#216d66\" stroke-width=\"1.5\"/><text x=\"688.0\" y=\"118.0\" font-size=\"13\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#fffefa\">DEPOIS</text><g transform=\"translate(642 141) scale(0.75)\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2.2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" aria-hidden=\"true\"><path d=\"M10 3H27L34 10V37H6V3H10 M26 3V12H34 M12 19H27 M12 25H27 M12 31H23\"/></g><text x=\"687\" y=\"166.0\" font-size=\"22\" font-weight=\"700\" text-anchor=\"start\" fill=\"#183b3d\">Retomar</text><circle cx=\"647\" cy=\"207\" r=\"5\" fill=\"#bf8743\" stroke=\"#bf8743\" stroke-width=\"1.5\"/><text x=\"664\" y=\"213.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Registrar o aprendido.</text><circle cx=\"647\" cy=\"247\" r=\"5\" fill=\"#bf8743\" stroke=\"#bf8743\" stroke-width=\"1.5\"/><text x=\"664\" y=\"253.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Nomear uma lacuna.</text><circle cx=\"647\" cy=\"287\" r=\"5\" fill=\"#bf8743\" stroke=\"#bf8743\" stroke-width=\"1.5\"/><text x=\"664\" y=\"293.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Marcar onde parou.</text><circle cx=\"647\" cy=\"327\" r=\"5\" fill=\"#bf8743\" stroke=\"#bf8743\" stroke-width=\"1.5\"/><text x=\"664\" y=\"333.0\" font-size=\"16\" font-weight=\"400\" text-anchor=\"start\" fill=\"#183b3d\">Encerrar o bloco.</text><path d=\"M287 259H314\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" marker-end=\"url(#diagrama-12-arrow)\"/><path d=\"M584 259H611\" fill=\"none\" stroke=\"#216d66\" stroke-width=\"2\" stroke-linecap=\"round\" stroke-linejoin=\"round\" marker-end=\"url(#diagrama-12-arrow)\"/><rect x=\"61\" y=\"432\" width=\"778\" height=\"46\" rx=\"14\" fill=\"#216d66\" stroke=\"#216d66\" stroke-width=\"1.5\"/><text x=\"450\" y=\"461.0\" font-size=\"18\" font-weight=\"700\" text-anchor=\"middle\" fill=\"#fffefa\">PRODUTO DO BLOCO: uma resposta, um limite e um ponto de retomada.</text></g></svg>",
+      "sources": [
+        "obra-02",
+        "obra-03",
+        "obra-20",
+        "obra-26"
+      ],
+      "moduleIndex": 6
+    }
+  ],
+  "artworks": [
+    {
+      "title": "Phoenix: biblioteca dos mundos",
+      "caption": "Ilustração original criada com IA. A fênix, os livros e os portais representam, como metáfora literária, reconstrução, memória e passagem entre campos do conhecimento.",
+      "asset": "f122e40b67ee7004b06cc4676b28f7b28a745171239e2d9aaa8aa4ec10b4121c"
+    },
+    {
+      "title": "Navegação e escuta",
+      "caption": "Ilustração original criada com IA. Um navio atravessa o mar cósmico, cujas ondas lembram o ritmo sonoro: uma metáfora de exploração, escuta e aprendizagem, sem referência a organização real.",
+      "asset": "ad8ddac0ace6aecbea345e043d0e096ad50bd1d3d25ba0571c44be84982ac081"
+    }
+  ],
+  "gallery": []
+}

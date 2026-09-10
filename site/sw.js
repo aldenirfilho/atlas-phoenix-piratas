@@ -1,0 +1,4 @@
+const PREFIX='atlas-phoenix-piratas-',CACHE=PREFIX+'482d5ceac642',FILES=["./", "index.html", "app.js", "data.js", "styles.css", "manifest.webmanifest", "assets/icone.svg", "assets/ilustracao-1.webp", "assets/ilustracao-2.webp"];
+self.addEventListener('install',e=>e.waitUntil(caches.open(CACHE).then(c=>c.addAll(FILES))));
+self.addEventListener('activate',e=>e.waitUntil(caches.keys().then(keys=>Promise.all(keys.filter(k=>k.startsWith(PREFIX)&&k!==CACHE).map(k=>caches.delete(k)))).then(()=>self.clients.claim())));
+self.addEventListener('fetch',e=>{const u=new URL(e.request.url),base=new URL(self.registration.scope);if(e.request.method!=='GET'||u.origin!==base.origin||!u.pathname.startsWith(base.pathname))return;const allowed=FILES.map(f=>new URL(f,base).href);if(!allowed.includes(u.href))return;e.respondWith(caches.open(CACHE).then(async c=>{const cached=await c.match(e.request);return cached||fetch(e.request)}))});
