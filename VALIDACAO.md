@@ -15,4 +15,13 @@ Verificada em 10/09/2026 com Chrome desktop e viewport móvel de 390 px.
 
 O conjunto público contém 56.079 palavras de leitura documental, além da edição editorial. São sete textos revisados e 26 sínteses identificadas. As 204 imagens originais e os dados pessoais revisados não integram o repositório. O site distribuído tem cerca de 2,5 MB.
 
-A verificação da implantação e da URL pública será registrada após a execução do GitHub Pages.
+## Publicação verificada
+
+Site público: https://aldenirfilho.github.io/atlas-phoenix-piratas/
+
+- GitHub Actions: execução [34543467031](https://github.com/aldenirfilho/atlas-phoenix-piratas/actions/runs/34543467031) concluída com sucesso para o conteúdo do commit `9b0c7bddf65aad8ac687f78cf5a89a8209b72a92`.
+- HTTP 200 e nove arquivos publicados com SHA-256 idêntico ao arquivo local correspondente.
+- A suíte funcional foi repetida na URL pública: zero erros de JavaScript e zero recursos HTTP com erro.
+- Cache restrito ao caminho `/atlas-phoenix-piratas/`, reabertura offline e laboratório ARTFACTS verificados no Chrome.
+- Arquivos do site inalterados nesta atualização documental.
+
